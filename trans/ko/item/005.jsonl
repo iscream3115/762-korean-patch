@@ -1,0 +1,79 @@
+{"k": "item:Bowie:name", "ko": "보위 나이프"}
+{"k": "item:Bowie:desc", "ko": "미국 개척 시대의 고전적인 나이프. 제임스 보위의 이름을 땄으며, 최초의 나이프는 사실 형 레진 보위가 그에게 준 것이다. 처음 쓰인 것은 1827년, 짐의 숙적이 권총 두 자루와 지팡이 칼로 그를 덮쳤을 때다. 싸움이 끝날 무렵 짐은 총을 네 발 맞고 몇 군데 더 베였다. 공격자는 결국 이 유명한 나이프에 찔려 죽었고, 싸움은 그렇게 끝났다. 이로써 전설적인 나이프와 그것이 역사에 남긴 흔적이 시작되었다."}
+{"k": "item:L34A1 silencer:name", "ko": "소음 총열"}
+{"k": "item:L34A1 silencer:desc", "ko": "소음기가 일체화된 총열. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:SMG ammo clip (L2A3/34):name", "ko": "기관단총 탄창 (L2A3/34)"}
+{"k": "item:SMG ammo clip (L2A3/34):desc", "ko": "Sterling L2A3 기관단총용 34발들이 곡선형 상자형 탄창."}
+{"k": "item:SMG ammo clip (PPS43/35):name", "ko": "기관단총 탄창 (PPS43/35)"}
+{"k": "item:SMG ammo clip (PPS43/35):desc", "ko": "PPS-43 기관단총용 35발들이 곡선형 상자형 탄창."}
+{"k": "item:SMG ammo clip (KRISS/28):name", "ko": "기관단총 탄창 (KRISS/28)"}
+{"k": "item:Machinegun clip (VZ59L/50):name", "ko": "기관총 탄창 (VZ59L/50)"}
+{"k": "item:Machinegun clip (VZ59L/50):desc", "ko": "UK VZ59L machinegun용 50발들이 상자형 탄창."}
+{"k": "item:UK VZ59L Ironsight:name", "ko": "UK VZ59L 기계식 조준기"}
+{"k": "item:UK VZ59L Ironsight:desc", "ko": "UK VZ59L 기관총용 기계식 조준기. 100m에서 2,000m까지 거리를 조절할 수 있다."}
+{"k": "item:Meopta ZD 1-4x22 Optic:name", "ko": "메옵타 ZD 1-4x22 조준경"}
+{"k": "item:Meopta ZD 1-4x22 Optic:desc", "ko": "UK VZ59L 기관총용 메옵타 ZD 1-4x22 조준경. 조명식 조준선과 장거리 사격용 조준점을 갖췄다."}
+{"k": "item:Sniper rifle clip (Gepard/5):name", "ko": "저격소총 탄창 (Gepard/5)"}
+{"k": "item:Sniper rifle clip (Gepard/5):desc", "ko": "Gepard GM6 Lynx 저격소총용 5발들이 상자형 탄창."}
+{"k": "item:3-12x50 Leupold:name", "ko": "3-12x50 류폴드 조준경"}
+{"k": "item:3-12x50 Leupold:desc", "ko": "게파르트 GM6 링크스 저격소총용 3-12x50 류폴드 조준경."}
+{"k": "item:Gepard bipod:name", "ko": "게파르트 양각대"}
+{"k": "item:Gepard bipod:desc", "ko": "게파르트 링크스용으로 튼튼하게 만든 양각대."}
+{"k": "item:CheyTac Suppressor:name", "ko": "CheyTac M200용 소음기"}
+{"k": "item:CheyTac Suppressor:desc", "ko": "CheyTac M200 저격소총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다. 하지만 음속을 넘어 날아가는 탄두의 파열음은 어쩔 수 없다."}
+{"k": "item:Vector IV laser rangefinder:name", "ko": "벡터 21 레이저 거리측정기"}
+{"k": "item:Vector IV laser rangefinder:desc", "ko": "군용 규격 벡터 21 레이저 거리측정기는 거리 정보를 얻는 데 쓰인다. 뛰어난 주간 광학계, 3차원 360° 디지털 나침반, 정밀한 1등급 눈 보호 레이저 거리측정기를 갖춘 진정한 쌍안 거리측정기다. 최대 12km까지 거리를 잴 수 있다. 1550nm 레이저는 영상 증폭 장비에 보이지 않아 보안성이 한층 높다."}
+{"k": "item:CheyTac ABC System:name", "ko": "CheyTac 고급 탄도 컴퓨터"}
+{"k": "item:CheyTac ABC System:desc", "ko": "CheyTac 고급 탄도 컴퓨터(ABC) 시스템 소프트웨어는 저격수 휴대용 컴퓨터의 장거리 예측 능력을 높이려고 개발되었다. 외부 환경, 사수, 총기 제원을 완전히 통합해 간단한 고각·편류 보정값을 알려 주므로, 극장거리의 여러 표적에 매우 정확한 장거리 탄도를 만들어 낼 수 있다고 한다."}
+{"k": "item:.408 Chey Tac box (408/20):name", "ko": ".408 샤이택 상자 (.408 CheyTac/20)"}
+{"k": "item:.408 Chey Tac box (408/20):desc", "ko": ".408 샤이택탄 20발이 든 탄약 상자."}
+{"k": "item:.408 Chey Tac:name", "ko": ".408 샤이택 탄두"}
+{"k": "item:.408 Chey Tac:desc", "ko": ".408 샤이택 구경 탄두."}
+{"k": "item:Pistol clip (Infinity/10):name", "ko": "권총 탄창 (Infinity/14)"}
+{"k": "item:Pistol clip (Infinity/10):desc", "ko": "표준 14발들이 .45 ACP SVI Infinity 권총 탄창."}
+{"k": "item:Pistol clip (P99/15):name", "ko": "권총 탄창 (P99/15)"}
+{"k": "item:Pistol clip (P99/15):desc", "ko": "표준 15발들이 9x19 mm Walther P99 탄창."}
+{"k": "item:Pistol clip (OTs-33/18):name", "ko": "권총 탄창 (OTs-33/18)"}
+{"k": "item:Pistol clip (OTs-33/18):desc", "ko": "OT-33용 표준 18발들이 9x18 mm 탄창."}
+{"k": "item:Pistol clip (Cherokee/17):name", "ko": "권총 탄창 (Cherokee/17)"}
+{"k": "item:Pistol clip (Cherokee/17):desc", "ko": "표준 17발들이 9x19 mm Bul Cherokee 탄창."}
+{"k": "item:Collimator XM8 v2:name", "ko": "XM8 v2 도트 조준기"}
+{"k": "item:Collimator XM8 v2:desc", "ko": "조명식 빨간 점을 쓰는 도트 조준기로, XM8 돌격소총에 맞게 만들어졌다. 배율은 없으며 주간에 표적을 빨리 잡는 데 알맞다."}
+{"k": "item:M4A1 Handle:name", "ko": "M4A1 운반 손잡이"}
+{"k": "item:M4A1 Handle:desc", "ko": "M4A1용 분리식 운반 손잡이. 100m에서 600m까지 조절되는 후방 가늠자가 달려 있다."}
+{"k": "item:SMG ammo clip (MPL/32):name", "ko": "기관단총 탄창 (MPL/32)"}
+{"k": "item:SMG ammo clip (MPL/32):desc", "ko": "표준 32발들이 9x19 mm Walter MPL 탄창."}
+{"k": "item:Pistol clip (M93R/20):name", "ko": "권총 탄창 (M93R/20)"}
+{"k": "item:Pistol clip (M93R/20):desc", "ko": "표준 20발들이 9x19 mm Beretta M93R 탄창."}
+{"k": "item:SMG ammo clip (USC/25):name", "ko": "기관단총 탄창 (USC/25)"}
+{"k": "item:SMG ammo clip (USC/25):desc", "ko": "표준 25발들이 .45 ACP HK USC 탄창."}
+{"k": "item:Pistol Glock 35 (.40):desc", "ko": "Glock 35는 Glock 17의 .40 버전이다. 탄창에 15발 또는 17발이 들어가며, 레이저 조준 모듈이나 전술 조명을 장착할 수 있다."}
+{"k": "item:Pistol clip (P08/8):name", "ko": "권총 탄창 (P08/8)"}
+{"k": "item:Pistol clip (P08/8):desc", "ko": "표준 8발들이 9x19 mm Beretta Luger P08 탄창."}
+{"k": "item:Pistol clip (Px4/14):name", "ko": "권총 탄창 (Px4/14)"}
+{"k": "item:Pistol clip (Px4/14):desc", "ko": "표준 14발들이 .40 S&W Beretta Px4 Storm 탄창."}
+{"k": "item:Pistol clip (P220/7):name", "ko": "권총 탄창 (SIG P220/7)"}
+{"k": "item:Pistol clip (P220/7):desc", "ko": "표준 7발들이 .45 ACP SIG P220 탄창."}
+{"k": "item:Pistol clip (Browning-hp/10):name", "ko": "권총 탄창 (Browning-HP/10)"}
+{"k": "item:Pistol clip (Browning-hp/10):desc", "ko": "표준 10발들이 .40 S&W Browning-HP 탄창."}
+{"k": "item:SMG ammo clip (M3A1/32):name", "ko": "상자형 탄창 (M3A1/32)"}
+{"k": "item:SMG ammo clip (M3A1/32):desc", "ko": "M3A1 Grease Gun용 표준 32발들이 9x19 mm 파라벨룸 상자형 탄창."}
+{"k": "item:Assault Rifle clip (FG42/20):name", "ko": "돌격소총 탄창 (FG42/20)"}
+{"k": "item:Assault Rifle clip (FG42/20):desc", "ko": "FG42 돌격소총용 20발들이 상자형 탄창."}
+{"k": "item:Rifle clip (Gewehr 43/10):name", "ko": "소총 탄창 (Gewehr 43/10)"}
+{"k": "item:Rifle clip (Gewehr 43/10):desc", "ko": "Gewehr 43 소총용 10발들이 상자형 탄창."}
+{"k": "item:Machinegun clip (MG34/50):name", "ko": "기관총 탄창 (MG34/50)"}
+{"k": "item:Machinegun clip (MG34/50):desc", "ko": "MG34 기관총용 50발들이 상자형 탄창."}
+{"k": "item:BigAmmoBox (7.92x57/200):name", "ko": "탄약 Box (7.92x57/200)"}
+{"k": "item:BigAmmoBox (7.92x57/200):desc", "ko": "7.92x57 Mauser FMJ Ball탄 200발이 든 상자."}
+{"k": "item:7.92x57 Mauser FMJ Ball:name", "ko": "7.92x57 마우저 완전피갑 보통탄"}
+{"k": "item:7.92x57 Mauser FMJ Ball:desc", "ko": "유럽에서 가장 성공한 소총탄 가운데 하나. 1888년 독일군이 둥근 탄두로 처음 채용했고, 나중에 지름이 조금 다른 뾰족한(스피처) 탄두가 도입되면서 개량되어 두 차례의 세계 대전 내내 독일군에서 쓰였다."}
+{"k": "item:SMG ammo clip (MAC11/32):name", "ko": "기관단총 탄창 (MAC11/32)"}
+{"k": "item:SMG ammo clip (MAC11/32):desc", "ko": "MAC-11 기관단총용 32발들이 상자형 탄창."}
+{"k": "item:Sniper Rifle Clip (AS50/.50 BMG):name", "ko": "저격소총 탄창 (AS50/5)"}
+{"k": "item:Sniper Rifle Clip (AS50/.50 BMG):desc", "ko": "Accuracy International AS50 저격소총용 5발들이 상자형 탄창."}
+{"k": "item:Shotgun clip (Caws/10):name", "ko": "산탄총 탄창 (Caws/10)"}
+{"k": "item:Shotgun clip (Caws/10):desc", "ko": "Caws 산탄총용 10발들이 상자형 탄창."}
+{"k": "item:Pistol clip (P226/12):name", "ko": "권총 탄창 (P226/12)"}
+{"k": "item:Pistol clip (P226/12):desc", "ko": "SIG Sauer P226 권총용 12발들이 .40 S&W 상자형 탄창."}
+{"k": "item:Assault Rifle clip (FAMAS/25):name", "ko": "돌격소총 탄창 (FAMAS/25)"}

@@ -1,0 +1,11 @@
+LIBRARY d3d9
+EXPORTS
+    Direct3DCreate9=P_Direct3DCreate9
+    Direct3DCreate9Ex=P_Direct3DCreate9Ex
+    D3DPERF_BeginEvent=P_D3DPERF_BeginEvent
+    D3DPERF_EndEvent=P_D3DPERF_EndEvent
+    D3DPERF_SetMarker=P_D3DPERF_SetMarker
+    D3DPERF_SetRegion=P_D3DPERF_SetRegion
+    D3DPERF_QueryRepeatFrame=P_D3DPERF_QueryRepeatFrame
+    D3DPERF_SetOptions=P_D3DPERF_SetOptions
+    D3DPERF_GetStatus=P_D3DPERF_GetStatus

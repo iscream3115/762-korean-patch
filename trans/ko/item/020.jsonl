@@ -1,0 +1,80 @@
+{"k": "item:Laser Aiming Module (Pistol):name", "ko": "레이저 조준 모듈 (권총)"}
+{"k": "item:Laser Aiming Module (Pistol):desc", "ko": "권총 마운트를 쓰는 레이저 조준 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:Laser Aiming Module (Rifle):name", "ko": "레이저 조준 모듈 (소총)"}
+{"k": "item:Laser Aiming Module (Rifle):desc", "ko": "범용 소총 마운트를 쓰는 레이저 조준 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:Leupold M8-12x40mm:name", "ko": "류폴드 M8-12x40mm (WR) 망원 조준경"}
+{"k": "item:Leupold M8-12x40mm:desc", "ko": "12배율 가변 망원 조준경으로 WR형 마운트를 쓴다. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:M16 Handle:name", "ko": "M16 운반 손잡이"}
+{"k": "item:M16 Handle:desc", "ko": "M16A3 소총이나 M3 카빈용 운반 손잡이."}
+{"k": "item:M203B (40mm LV):name", "ko": "M203 총열 하부 유탄발사기 (40mm)"}
+{"k": "item:M203B (40mm LV):desc", "ko": "NATO 범용 마운트를 쓰는 총열 하부 유탄발사기. 40mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:M203PI (40mm LV):desc", "ko": "NATO 범용 마운트를 쓰는 총열 하부 유탄발사기. M203은 대부분의 NATO 돌격소총에 달 수 있다. 40mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:M60 Integrated Bipod:name", "ko": "양각대 (M-60)"}
+{"k": "item:M60 Integrated Bipod:desc", "ko": "M60 기관총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Machinegun Bipod (PKM):name", "ko": "양각대 (PKM)"}
+{"k": "item:Machinegun Bipod (PKM):desc", "ko": "칼라시니코프 PKM 기관총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Machinegun Bipod (RPK):name", "ko": "양각대 (RPK)"}
+{"k": "item:Machinegun Bipod (RPK):desc", "ko": "칼라시니코프 경기관총(RPK, RPKN, RPK-74M)용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Minimi_bipod:name", "ko": "양각대 (Minimi)"}
+{"k": "item:Minimi_bipod:desc", "ko": "미니미 경기관총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Night Sight 1PN93-1 (AK):name", "ko": "1PN93-1 (AK) 야간 조준경"}
+{"k": "item:Night Sight 1PN93-1 (AK):desc", "ko": "2세대 광음극을 쓰고 AK형 마운트를 갖춘 야간 조준경. 어두운 곳에서 정밀 사격과 표적 관측에 쓰인다."}
+{"k": "item:Night Sight 1PN93-4 (Dragunov):name", "ko": "1PN93-4 (SVD) 야간 조준경"}
+{"k": "item:Night Sight 1PN93-4 (Dragunov):desc", "ko": "2세대 광음극을 쓰고 SVD형 마운트를 갖춘 야간 조준경. 어두운 곳에서 정밀 사격과 표적 관측에 쓰인다."}
+{"k": "item:Night Sight AN/PVS-4 (M16):name", "ko": "AN/PVS-4 (M16) 개인화기 야간 조준경"}
+{"k": "item:Night Sight AN/PVS-4 (M16):desc", "ko": "2세대 광음극을 쓰고 M16형 마운트를 갖춘 야간 조준경(시야각 15도). 어두운 곳에서 정밀 사격과 표적 관측에 쓰인다."}
+{"k": "item:Night Sight AN/PVS-4 (WR):name", "ko": "AN/PVS-4 (WR) 개인화기 야간 조준경"}
+{"k": "item:Night Sight AN/PVS-4 (WR):desc", "ko": "2세대 광음극을 쓰고 위버 레일형 마운트를 갖춘 야간 조준경(시야각 15도). 어두운 곳에서 정밀 사격과 표적 관측에 쓰인다."}
+{"k": "item:Optical Sight (F2000):name", "ko": "F2000 광학 조준경"}
+{"k": "item:Optical Sight (F2000):desc", "ko": "1.6배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight ACOG-11 4x32 (M16):name", "ko": "ACOG-11 4x32 (M16) 조준경"}
+{"k": "item:Optical Sight ACOG-11 4x32 (M16):desc", "ko": "M16형 마운트를 쓰는 4배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight ACOG-11 4x32 (WR):name", "ko": "ACOG-11 4x32 (WR) 조준경"}
+{"k": "item:Optical Sight ACOG-11 4x32 (WR):desc", "ko": "위버 레일형 마운트를 쓰는 4배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight Hensoldt ZF10x42 (HK MP5):name", "ko": "헨솔트 ZF10x42 (HK MP5) 망원 조준경"}
+{"k": "item:Optical Sight Hensoldt ZF10x42 (HK MP5):desc", "ko": "10배율 가변 망원 조준경으로 HK형 마운트를 쓴다. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight Hensoldt ZF10x42 (HK):name", "ko": "헨솔트 ZF10x42 (HK MSG) 망원 조준경"}
+{"k": "item:Optical Sight Hensoldt ZF10x42 (HK):desc", "ko": "10배율 가변 망원 조준경으로 HK MSG/HK23 마운트를 쓴다. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight PSO1-M2 (Dragunov):name", "ko": "PSO1-M2 (SVD) 조준경"}
+{"k": "item:Optical Sight PSO1-M2 (Dragunov):desc", "ko": "SVD형 마운트를 쓰는 4배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Optical Sight PSO1-M2-02 (AK):name", "ko": "PSO1-M2-02 (AK) 조준경"}
+{"k": "item:Optical Sight PSO1-M2-02 (AK):desc", "ko": "AK형 마운트를 쓰는 4배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:RG-6 sight:name", "ko": "유탄발사기 사다리형 조준기"}
+{"k": "item:SVU Silencer:name", "ko": "소염기 (SVU-AS)"}
+{"k": "item:SVU Silencer:desc", "ko": "SVU-AS 저격소총용 일체형 소염기. 사격 시 총구 화염을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:SVU bipod:name", "ko": "양각대 (SVU-AS)"}
+{"k": "item:SVU bipod:desc", "ko": "SVU-AS 저격소총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Silencer (5.7 mm FN):name", "ko": "FN Five-SeveN 택티컬 소음기 (5.7x28 mm)"}
+{"k": "item:Silencer (5.7 mm FN):desc", "ko": "FN Five-SeveN 택티컬용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer (5.7 mm P90):name", "ko": "P90 소음기 (5.7x28 mm)"}
+{"k": "item:Silencer (5.7 mm P90):desc", "ko": "FN P90용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer (9 mm Para):name", "ko": "소음기 (9x19 mm)"}
+{"k": "item:Silencer (9 mm Para):desc", "ko": "9x19 파라벨룸탄을 쓰는 권총과 소총용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer (.40 P99):name", "ko": "P99 소음기 (.40 S&W)"}
+{"k": "item:Silencer (.40 P99):desc", "ko": "P99 권총용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer (MAC/.45):name", "ko": "소음기 (MAC-10 /.45 ACP)"}
+{"k": "item:Silencer (MAC/.45):desc", "ko": ".45 ACP용 MAC-10 기관권총의 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer PBS-1 (7.62x39 mm):name", "ko": "PBS-1 소음기 (7.62x39 mm)"}
+{"k": "item:Silencer PBS-1 (7.62x39 mm):desc", "ko": "7.62x39탄을 쓰는 모든 AK 소총용 범용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Silencer PBS-4 (5.45 mm):name", "ko": "PBS-4 소음기 (5.45x39 mm)"}
+{"k": "item:Silencer PBS-4 (5.45 mm):desc", "ko": "5.45x39탄을 쓰는 모든 AK 소총용 범용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Sniper Bipod Series 1A2:name", "ko": "저격용 양각대 1A2 시리즈"}
+{"k": "item:Sniper Bipod Series 1A2:desc", "ko": "위버 레일 마운트를 갖춘 소총용 범용 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Supressor (5.56 mm):name", "ko": "소총 소음기 (5.56x45 mm)"}
+{"k": "item:Supressor (5.56 mm):desc", "ko": "5.56x45탄을 쓰는 소총용 범용 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Tactical Bipod TL-BP16:name", "ko": "TL-BP16 양각대"}
+{"k": "item:Tactical Bipod TL-BP16:desc", "ko": "돌격소총용 범용 전술 접이식 양각대. 무기 구성에 따라 유탄발사기 같은 총열 하부 부착물과 기타 모듈을 대개 달 수 없게 된다. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Tactical Light Module (F2000):name", "ko": "전술 조명 모듈 (F2000)"}
+{"k": "item:Tactical Light Module (F2000):desc", "ko": "F2000 돌격소총용 전술 조명 모듈. 어두운 곳에서 전술 조명을 쓰면 사격 정확도가 높아진다."}
+{"k": "item:USP Silencer:name", "ko": "소음기 (USP Tactical/.45 ACP)"}
+{"k": "item:USP Silencer:desc", "ko": ".45 ACP용 USP 택티컬 권총의 소음기. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Universal Tactical Light (Pistol):name", "ko": "권총용 전술 조명 모듈"}
+{"k": "item:Universal Tactical Light (Pistol):desc", "ko": "권총용 범용 전술 조명 모듈. 어두운 곳에서 전술 조명을 쓰면 사격 정확도가 높아진다."}
+{"k": "item:m203 sight:name", "ko": "유탄발사기 사다리형 조준기"}
+{"k": "item:rg-6 launcher:name", "ko": "RG-6  연발 유탄발사기"}
+{"k": "item:rg-6 launcher:desc", "ko": "회전 탄창을 갖춘 연발 유탄발사기로, 1990년대 러시아에서 개발되었다. GP-25 총열 하부 발사기를 발전시킨 것으로 같은 무탄피탄을 쓴다.\\n회전 탄창에 VOG-25나 VOG-25P 무탄피 유탄이 최대 6발 들어간다. 간단한 일체형 사다리 조준기를 갖췄고, 단발로 직접 사격할 수 있다."}
+{"k": "item:rpg-7 launcher:name", "ko": "RPG-7D 유탄발사기 (40mm, RPG-7)"}
+{"k": "item:rpg-7 launcher:desc", "ko": "RPG-7 대전차 유탄발사기의 공수부대용 버전으로, 세계적으로 유명한 RPG-7 계열에서 가장 중요한 개조형 가운데 하나다. 대인용으로도 장갑 차량용으로도 쓸 수 있다. 다루기와 정비가 쉽다. 대전차 고폭(HEAT), 열압력, 대인 등 여러 종류의 40mm 유탄을 쓸 수 있다."}
+{"k": "item:throw knive:name", "ko": "투척 나이프"}
+{"k": "item:throw knive:desc", "ko": "군용으로 개발된 투척 나이프. 통금속 설계라 가볍고 균형이 좋다. 던지기에 이상적이지만 근접전용 전투 나이프로도 쓸 수 있다."}
+{"k": "item:Defensive Hand Grenade F-1:name", "ko": "F-1 방어용 파편 수류탄"}

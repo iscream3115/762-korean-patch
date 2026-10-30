@@ -1,0 +1,80 @@
+{"k": "item:kabar:desc", "ko": "2차 대전 때 유명해진 미 해병대 전투 나이프. 설계는 1차 대전 이전으로 거슬러 올라가지만, 1942년 채용된 뒤에야 인기를 얻고 널리 알려졌다. 성공 비결은 폭넓은 용도에 잘 맞는다는 점이었다. 전쟁 중 수백만 자루가 만들어졌다. 해병대뿐 아니라 육군, 해군, 해안경비대도 썼다. 공식 명칭은 미 해병대 전투/다용도 나이프였지만, 칼날에 새긴 제조사의 귀에 쏙 들어오는 이름 덕분에 그냥 카바로 널리 알려졌다.\\n손잡이는 길이 4 7/8인치로 가죽을 겹쳐 만들었고, 둥근 금속 손잡이 끝을 달았다. 보호대는 안쪽으로 살짝 굽은 단순한 강판이다."}
+{"k": "item:Rifle ammo clip (M14/10):name", "ko": "상자형 탄창 (M14 7.62/10)"}
+{"k": "item:Rifle ammo clip (M14/10):desc", "ko": "M14 소총용 10발들이 7.62x51mm 탄창."}
+{"k": "item:Rifle ammo clip (M14/20):name", "ko": "상자형 탄창 (M14 7.62/20)"}
+{"k": "item:Rifle ammo clip (M14/20):desc", "ko": "M14 소총용 20발들이 7.62x51mm 탄창."}
+{"k": "item:Double rifle ammo clip (M14/40):name", "ko": "2연 탄창 (M14 7.62/40)"}
+{"k": "item:Double rifle ammo clip (M14/40):desc", "ko": "M14 소총, with a total capacity of 40 rounds용 상자형 7.62x51mm 20발 탄창 두 개를 이은 것."}
+{"k": "item:3-8x42_optic:name", "ko": "3-8x42 (M14) 조준경"}
+{"k": "item:3-8x42_optic:desc", "ko": "M14 마운트를 쓰는 3~8배율 가변 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:M21_Scope:name", "ko": "M21용 광학 조준경"}
+{"k": "item:M21_Scope:desc", "ko": "M21 저격소총용 3.5~9배율 가변 광학 조준경. 1,000m까지 정밀 사격이 가능하며, 600~800m에서 가장 정확하다."}
+{"k": "item:Rifle ammo clip (Mini-14/10):name", "ko": "상자형 탄창 (Mini-14/10)"}
+{"k": "item:Rifle ammo clip (Mini-14/10):desc", "ko": "Mini-14 카빈용 10발들이 5.56mm 탄창."}
+{"k": "item:Rifle ammo clip (Mini-14/20):name", "ko": "상자형 탄창 (Mini-14/20)"}
+{"k": "item:Rifle ammo clip (Mini-14/20):desc", "ko": "Mini-14 카빈용 20발들이 5.56mm 탄창."}
+{"k": "item:Double rifle ammo clip (Mini-14/40):name", "ko": "2연 탄창 (Mini-14/40)"}
+{"k": "item:Double rifle ammo clip (Mini-14/40):desc", "ko": "Mini-14 카빈용 5.56mm 20발 탄창 두 개를 이은 것."}
+{"k": "item:Rifle ammo clip (Mini-14/30):name", "ko": "상자형 탄창 (Mini-14/30)"}
+{"k": "item:Rifle ammo clip (Mini-14/30):desc", "ko": "Mini-14 카빈용 30발들이 5.56mm 탄창."}
+{"k": "item:Double rifle ammo clip (Mini-14/60):name", "ko": "2연 탄창 (Mini-14/60)"}
+{"k": "item:Double rifle ammo clip (Mini-14/60):desc", "ko": "Mini-14 카빈용 5.56mm 30발 탄창 두 개를 이은 것."}
+{"k": "item:Double rifle ammo clip (Mini-14/80):name", "ko": "2연 탄창 (Mini-14/80)"}
+{"k": "item:Double rifle ammo clip (Mini-14/80):desc", "ko": "Mini-14 카빈용 5.56mm 40발 탄창 두 개를 이은 것."}
+{"k": "item:Rifle ammo clip (Mini-14/40):name", "ko": "상자형 탄창 (Mini-14/40)"}
+{"k": "item:Rifle ammo clip (Mini-14/40):desc", "ko": "Mini-14 카빈용 40발들이 5.56mm 탄창."}
+{"k": "item:Rifle ammo clip (SR25\\20):name", "ko": "상자형 탄창 (SR25/20)"}
+{"k": "item:Rifle ammo clip (SR25\\20):desc", "ko": "SR-25 저격소총용 표준 20발들이 7.62mm 상자형 탄창."}
+{"k": "item:SR25_silencer:name", "ko": "SR-25용 소음기"}
+{"k": "item:SR25_silencer:desc", "ko": "SR-25 저격소총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Barricada (23 mm):name", "ko": "바리카다 차량 정지탄"}
+{"k": "item:Barricada (23 mm):desc", "ko": "경찰과 육군 특수부대용으로 설계된 23mm 바리카다 특수탄. 움직이는 차량을 상대로 엔진이나 기타 내부 장치를 망가뜨려 멈추게 하는 데 쓴다."}
+{"k": "item:Volna-R (23 mm):name", "ko": "볼나-R (23 gauge) 고무탄"}
+{"k": "item:Volna-R (23 mm):desc", "ko": "‘프리벳’ 고무탄(프리벳은 러시아어로 ‘안녕’)을 쓴 볼나-R탄. 비살상 수준의 힘으로 용의자를 제압하도록 설계된 진압용 탄약이다."}
+{"k": "item:Shrapnel-10 (23 mm):name", "ko": "슈라프넬-10 벅샷탄"}
+{"k": "item:Shrapnel-10 (23 mm):desc", "ko": "슈라프넬-10 벅샷탄. 유효 거리는 10m 이하다."}
+{"k": "item:Shrapnel-25 (23 mm):name", "ko": "슈라프넬-25 벅샷탄"}
+{"k": "item:Shrapnel-25 (23 mm):desc", "ko": "슈라프넬-25 벅샷탄. 유효 거리는 25m 이하다."}
+{"k": "item:Machinegun Bipod (RPD):name", "ko": "RPD용 양각대"}
+{"k": "item:Machinegun Bipod (RPD):desc", "ko": "데그탸료프 RPD 경기관총용 표준 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Machinegun box (RPD/100):name", "ko": "드럼 탄창 (RPD/100)"}
+{"k": "item:Machinegun box (RPD/100):desc", "ko": "Degtyaryov RPD light 기관총용 100발들이 7.62x39mm drum 탄창."}
+{"k": "item:SMG ammo clip (M3A1/30):name", "ko": "상자형 탄창 (M3A1/30)"}
+{"k": "item:SMG ammo clip (M3A1/30):desc", "ko": "M3A1 Grease Gun용 표준 30발들이 .45 ACP 상자형 탄창."}
+{"k": "item:Double rifle ammo clip (AS/VSS/40):name", "ko": "2연 탄창 (BSK 9x39/40)"}
+{"k": "item:Double rifle ammo clip (AS/VSS/40):desc", "ko": "BSK(소음 저격 세트) 무기용 9x39mm 20발 플라스틱 상자형 탄창 두 개를 이은 것."}
+{"k": "item:MG3_Barrel:name", "ko": "MG3 기관총 예비 총열"}
+{"k": "item:MG3_Barrel:desc", "ko": "MG3 기관총의 예비 총열. 주 총열이 과열되거나 쓸 수 없게 되었을 때 쓴다."}
+{"k": "item:drug_pack:name", "ko": "마약"}
+{"k": "item:drug_pack:desc", "ko": "사그라다에서 나온 합성 마약 견본."}
+{"k": "item:Double shootgun ammo clip (Saiga/16):name", "ko": "2연 탄창 (Saiga/8)"}
+{"k": "item:Double shootgun ammo clip (Saiga/16):desc", "ko": "Saiga-12K 전투 산탄총용 12게이지 상자형 8발 탄창 두 개를 이은 것."}
+{"k": "item:Double shootgun ammo clip (Saiga/10):name", "ko": "2연 탄창 (Saiga/5)"}
+{"k": "item:Double shootgun ammo clip (Saiga/10):desc", "ko": "Saiga-12K 전투 산탄총용 12게이지 상자형 5발 탄창 두 개를 이은 것."}
+{"k": "item:Double smg ammo clip (VZ82/20):name", "ko": "2연 탄창 (VZ82/20)"}
+{"k": "item:Double smg ammo clip (VZ82/20):desc", "ko": "Vz.82 Scorpion 기관단총용 9x18mm 10발 탄창 두 개를 이은 것."}
+{"k": "item:Double smg ammo clip (VZ82/40):name", "ko": "2연 탄창 (VZ82/40)"}
+{"k": "item:Double smg ammo clip (VZ82/40):desc", "ko": "Vz.82 Scorpion 기관단총용 9x18mm 20발 탄창 두 개를 이은 것."}
+{"k": "item:Double smg ammo clip (Thompson/40):name", "ko": "2연 탄창 (Thompson-M1/40)"}
+{"k": "item:Double smg ammo clip (Thompson/40):desc", "ko": "Thompson 기관단총, with a total capacity of 40 rounds용 상자형 20발 탄창 두 개를 이은 것."}
+{"k": "item:Double smg ammo clip (Thompson/60):name", "ko": "2연 탄창 (Thompson-M1/60)"}
+{"k": "item:Double smg ammo clip (Thompson/60):desc", "ko": "Thompson 기관단총, with a total capacity of 60 rounds용 상자형 30발 탄창 두 개를 이은 것."}
+{"k": "item:SMG ammo drum (Thompson/50):name", "ko": "드럼 탄창 (Thompson-M1/50)"}
+{"k": "item:SMG ammo drum (Thompson/50):desc", "ko": "Thompson 기관단총용 50발들이 drum 탄창."}
+{"k": "item:Optical Sight PU:name", "ko": "PU 저격 조준경"}
+{"k": "item:Optical Sight PU:desc", "ko": "PU 조준경은 토카레프 SVT-40 반자동 소총의 저격형을 위해 개발되었다. 매우 성공적이어서 대전차포와 경대공포에도 달렸다."}
+{"k": "item:L86_Bipod:name", "ko": "양각대 (L86)"}
+{"k": "item:L86_Bipod:desc", "ko": "L86 경지원 화기용 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:SIGHensoldt10:name", "ko": "SIG-550-1 저격소총용 광학 조준경"}
+{"k": "item:SIGHensoldt10:desc", "ko": "SG-550-1 저격소총용 10배율 광학 조준경. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:Double rifle ammo clip (SIG551/40):name", "ko": "2연 탄창 (SIG551/40)"}
+{"k": "item:Double rifle ammo clip (SIG551/40):desc", "ko": "SG-551 카빈용 5.56mm 상자형 20발 탄창 두 개를 이은 것."}
+{"k": "item:Double rifle ammo clip (SIG551/60):name", "ko": "2연 탄창 (SIG551/60)"}
+{"k": "item:Double rifle ammo clip (SIG551/60):desc", "ko": "SG-551 카빈용 5.56mm 상자형 30발 탄창 두 개를 이은 것."}
+{"k": "item:Mosin_bayonet:name", "ko": "모신나강 대검"}
+{"k": "item:Mosin_bayonet:desc", "ko": "모신나강 소총용 사각 날 대검."}
+{"k": "item:M44_Bayonet:name", "ko": "고정식 대검"}
+{"k": "item:M44_Bayonet:desc", "ko": "모신나강 1944년식 카빈용 사각 날 대검."}
+{"k": "item:Tension Wire (Armed):name", "ko": "인계철선"}
+{"k": "item:Tension Wire (Armed):desc", "ko": "설치된 인계철선 부비트랩."}
+{"k": "item:Rifle ammo clip (SIG551/10):name", "ko": "상자형 탄창 (SIG551/10)"}

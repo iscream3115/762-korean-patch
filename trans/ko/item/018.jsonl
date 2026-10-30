@@ -1,0 +1,80 @@
+{"k": "item:Ammo box (SP-4):desc", "ko": "7.62x42mm 밀폐 소음탄 30발이 든 상자. PSS 같은 전용 소음 권총에 쓴다. 이 독특한 탄은 근거리의 비장갑 표적에 효과적이다."}
+{"k": "item:Pistol clip (PSS/6):name", "ko": "권총 탄창 (PSS/6)"}
+{"k": "item:Pistol clip (PSS/6):desc", "ko": "PSS 소음 권총용 6발들이 7.62x42mm (SP-4) 탄창."}
+{"k": "item:PSS Silencer:name", "ko": "PSS 소음기"}
+{"k": "item:PSS Silencer:desc", "ko": "소음기가 일체화된 총열. 사격 시 탄피 목을 밀폐해 총구 화염과 총성을 사실상 없앤다. 그래서 화약 가스가 총열 밖으로 나가지 않는다."}
+{"k": "item:SP-4:name", "ko": "SP-4 탄"}
+{"k": "item:SP-4:desc", "ko": "소음 무기용 특수탄으로, 30m까지 방탄 장비를 입은 표적에 효과적인 특수 탄두를 쓴다. 사격하면 내부 피스톤이 화약 가스를 탄피 안에 가둬, 총성이 거의 들리지 않는다."}
+{"k": "item:Shotgun ammo clip (USAS-12/10):name", "ko": "산탄총 탄창 (USAS-12/10)"}
+{"k": "item:Shotgun ammo clip (USAS-12/10):desc", "ko": "USAS-12 전투 산탄총용 표준 10발들이 상자형 탄창."}
+{"k": "item:Shotgun drum (USAS-12/20):name", "ko": "산탄총 드럼 탄창 (USAS-12/20)"}
+{"k": "item:Shotgun drum (USAS-12/20):desc", "ko": "USAS-12 전투 산탄총용 20발들이 드럼 탄창."}
+{"k": "item:Heavy Assault Armor Vest M1000:name", "ko": "돌격용 방탄조끼 M1000"}
+{"k": "item:Heavy Assault Armor Vest M1000:desc", "ko": "티타늄 방탄판 두 장과 케블러 48겹 안감을 갖춘 중량급 방탄조끼. IV급 방호력을 제공한다. 추가 방탄판을 넣을 수 있는 파우치도 갖췄다."}
+{"k": "item:Tactical Armor Vest M500:name", "ko": "M500 전술 방탄조끼"}
+{"k": "item:Tactical Armor Vest M500:desc", "ko": "열처리 강판 한 장과 케블러 36겹 안감을 갖춘 중간급 전술 방탄조끼. IIIA급 방호력을 제공한다. 추가 방탄판을 한 장 넣을 수 있다."}
+{"k": "item:Tactical Armor Vest M200:name", "ko": "M200 은닉형 방탄조끼"}
+{"k": "item:Tactical Armor Vest M200:desc", "ko": "평상복 안에 입는 얇고 몸에 꼭 맞는 은닉형 케블러 조끼. 케블러 48겹 원단이 소구경 탄을 효과적으로 막는다. 대구경 탄이나 큰 폭발 파편에는 효과가 없다."}
+{"k": "item:Titanium Helmet M100:name", "ko": "M100 티타늄 헬멧"}
+{"k": "item:Titanium Helmet M100:desc", "ko": "IIA급 머리 방호력을 제공하는 티타늄 전술 헬멧. 티타늄으로 만들어 가볍고 편하다."}
+{"k": "item:Titanium armor plate Lvl 4:name", "ko": "티타늄 방탄판 (IV급)"}
+{"k": "item:Titanium armor plate Lvl 4:desc", "ko": "IV급 방호력을 제공하는 티타늄 합금 방탄판. 방탄조끼에 넣을 수 있다. 티타늄 방탄판은 세라믹 방탄판보다 방호력이 낮지만 더 오래간다."}
+{"k": "item:Titanium armor plate Lvl 3:name", "ko": "티타늄 방탄판 (III급)"}
+{"k": "item:Titanium armor plate Lvl 3:desc", "ko": "III급 방호력을 제공하는 티타늄 합금 방탄판. 방탄조끼에 넣을 수 있다. 티타늄 방탄판은 세라믹 방탄판보다 방호력이 낮지만 더 오래간다."}
+{"k": "item:Ceramic armor plate Lvl 4:name", "ko": "세라믹 방탄판 (IV급)"}
+{"k": "item:Ceramic armor plate Lvl 4:desc", "ko": "IV급 방호력을 제공하는 세라믹 방탄판. 방탄조끼에 넣을 수 있다. 세라믹 방탄판은 티타늄 방탄판보다 방호력이 높지만 잘 깨지고 약하다."}
+{"k": "item:Ceramic armor plate Lvl 3:name", "ko": "세라믹 방탄판 (III급)"}
+{"k": "item:Ceramic armor plate Lvl 3:desc", "ko": "III급 방호력을 제공하는 세라믹 방탄판. 방탄조끼에 넣을 수 있다. 세라믹 방탄판은 티타늄 방탄판보다 방호력이 높지만 잘 깨지고 약하다."}
+{"k": "item:7N6 (5.45mm):name", "ko": "7N6 탄 (5.45x39 mm)"}
+{"k": "item:7N6 (5.45mm):desc", "ko": "완전피갑 탄두를 쓴 저반동탄. 중거리에서 II급 방호 표적에 효과적이다."}
+{"k": "item:5.45 FMJ Ball:name", "ko": "5.45 완전피갑 보통탄"}
+{"k": "item:7N22 (5.45mm):name", "ko": "7N22 탄 (5.45x39 mm)"}
+{"k": "item:7N22 (5.45mm):desc", "ko": "텅스텐 심 탄두를 쓴 탄으로, III급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:M193 (5.56mm):name", "ko": "M885 탄 (5.56x45 mm)"}
+{"k": "item:5.56 FMJ Ball:name", "ko": "5.56 완전피갑 보통탄"}
+{"k": "item:M955 AP (5.56mm):name", "ko": "M995 탄 (5.56x45 mm)"}
+{"k": "item:SS190 Ball (5.7mm):name", "ko": "SS190 탄 (5.7x28 mm)"}
+{"k": "item:SS190 Ball (5.7mm):desc", "ko": "알루미늄 탄피에 강철 심을 넣은 표준 완전피갑 탄두를 쓴 탄. 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:57-N-231S (7.62x39mm):name", "ko": "57-N-231S 탄 (7.62x39 mm)"}
+{"k": "item:57-N-231S (7.62x39mm):desc", "ko": "강철 심을 넣은 표준 완전피갑 탄두를 쓴 탄. 중거리에서 III급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:7.62x39 FMJ Ball:name", "ko": "7.62x39 완전피갑 보통탄"}
+{"k": "item:7N23 (7.62x39mm):name", "ko": "7N23 탄 (7.62x39 mm)"}
+{"k": "item:M80 (7.62x51mm):name", "ko": "M80 탄 (7.62x51 mm)"}
+{"k": "item:M80 (7.62x51mm):desc", "ko": "납 심을 넣은 완전피갑 탄두를 쓴 탄으로, IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:7.62x51 FMJ Ball:name", "ko": "7.62x51 완전피갑 보통탄"}
+{"k": "item:M993 (7.62x51mm):name", "ko": "M993 탄 (7.62x51 mm)"}
+{"k": "item:M993 (7.62x51mm):desc", "ko": "열처리한 강철 심 탄두를 쓴 탄으로, 중거리에서 IV급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:7N1 (7.62x54mm):name", "ko": "7N1 탄 (7.62x54mmR)"}
+{"k": "item:7N1 (7.62x54mm):desc", "ko": "둥근 머리 Mark 10 강철 심 탄두를 쓴 탄으로, III급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:7.62x54R FMJ Ball:name", "ko": "7.62x54 완전피갑 보통탄"}
+{"k": "item:7N14 (7.62x54mm):name", "ko": "7N14 탄 (7.62x54mmR)"}
+{"k": "item:7N14 (7.62x54mm):desc", "ko": "강철 심 철갑 탄두를 쓴 탄. IV급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:SP-5 (9x39mm):name", "ko": "SP-5 탄 (9x39 mm)"}
+{"k": "item:SP-5 (9x39mm):desc", "ko": "강철 심을 넣은 저격 전용탄으로, 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:SP-6 (9x39mm):name", "ko": "SP-6 탄 (9x39 mm)"}
+{"k": "item:SP-6 (9x39mm):desc", "ko": "텅스텐 심을 넣은 철갑탄으로, 중거리에서 III급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:PAB-9 (9x39mm):name", "ko": "PAB-9 탄 (9x39 mm)"}
+{"k": "item:PAB-9 (9x39mm):desc", "ko": "열처리한 강철 심을 넣은 철갑탄으로, 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:EX-STAR (9mm):name", "ko": "EX-STAR 탄 (9x19 mm)"}
+{"k": "item:EX-STAR (9mm):desc", "ko": "50m 거리까지 비장갑 표적에 효과적인 할로포인트탄."}
+{"k": "item:M882 Ball (9mm):name", "ko": "M882 탄 (9x19 mm)"}
+{"k": "item:M882 Ball (9mm):desc", "ko": "50m 거리까지 비장갑 표적에 효과적인 보통탄."}
+{"k": "item:00 Buckshot (12ga):name", "ko": "12게이지 벅샷 산탄"}
+{"k": "item:00 Buckshot (12ga):desc", "ko": "00 벅샷 산탄 9알이 든 산탄. 중거리에서 II급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Flechette (12ga):name", "ko": "12게이지 플레셰트 산탄"}
+{"k": "item:Flechette (12ga):desc", "ko": "플레셰트는 1인치 길이의 다트 모양 탄자로, 총구 속도와 관통력이 높다. 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Slug (12ga):name", "ko": "12게이지 슬러그탄"}
+{"k": "item:Slug (12ga):desc", "ko": "12게이지 산탄총용 무거운 납 탄자로, 저지력이 엄청나 낮은 관통력을 어느 정도 메워 준다."}
+{"k": "item:Golden Saber (.45 ACP):name", "ko": "골든 세이버 탄 (.45 ACP)"}
+{"k": "item:Golden Saber (.45 ACP):desc", "ko": "같은 구경의 어떤 무기에도 쓸 수 있다. 골든 세이버 탄두는 근거리와 중거리에서 IIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:M1911 Ball (.45 ACP):name", "ko": "M1911 탄 (.45 ACP)"}
+{"k": "item:M1911 Ball (.45 ACP):desc", "ko": "같은 구경의 어떤 무기에도 쓸 수 있다. M1911 탄두는 근거리와 중거리에서 II급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:357 SP:name", "ko": ".357 JSP 매그넘탄"}
+{"k": "item:357 SP:desc", "ko": "강력한 리볼버탄인 .357 매그넘은 II급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:SC-110 ammo:name", "ko": "SC-110 탄"}
+{"k": "item:SC-110 ammo:desc", "ko": "32게이지 산탄을 바탕으로 한 OC-20 그놈 리볼버용 강철 탄자 특수탄. 근거리에서 4mm 장갑 강판을 뚫을 수 있다."}
+{"k": "item:SC-110-02 ammo:name", "ko": "SC-110-02 탄"}
+{"k": "item:SC-110-02 ammo:desc", "ko": "32게이지 산탄을 바탕으로 한 OC-20 그놈 리볼버용 특수 산탄. 표적의 정확한 위치를 모를 때 납 산탄으로 넓은 범위를 덮는다."}
+{"k": "item:SC-110-04 ammo:name", "ko": "SC-110-04 탄"}
+{"k": "item:SC-110-04 ammo:desc", "ko": "32게이지 산탄을 바탕으로 한 OC-20 그놈 리볼버용 납 슬러그 특수탄. 슬러그탄은 저지력이 엄청나다."}
+{"k": "item:57-H-181C:name", "ko": "57-N-181S 탄"}

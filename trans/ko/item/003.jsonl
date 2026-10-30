@@ -1,0 +1,80 @@
+{"k": "item:Palinero specialforces colonel uniform:desc", "ko": "팔리네로 특수부대 대령 제복. 위장 6단계."}
+{"k": "item:Guerillas tt_soldiers camrad uniform:name", "ko": "타냐 부대 총잡이 전투복"}
+{"k": "item:Guerillas tt_soldiers camrad uniform:desc", "ko": "타냐 부대 총잡이의 전투복. 위장 5단계."}
+{"k": "item:Guerillas tt_soldiers comgroup uniform:name", "ko": "타냐 부대 하급 돌격대장 전투복"}
+{"k": "item:Guerillas tt_soldiers comgroup uniform:desc", "ko": "타냐 부대 하급 돌격대장의 전투복. 위장 5단계."}
+{"k": "item:Guerillas tt_soldiers comsquad uniform:name", "ko": "타냐 부대 상급 돌격대장 전투복"}
+{"k": "item:Guerillas tt_soldiers comsquad uniform:desc", "ko": "타냐 부대 상급 돌격대장의 전투복. 위장 5단계."}
+{"k": "item:Guerillas tt_soldiers combrigade uniform:name", "ko": "타냐 부대 여단장 전투복"}
+{"k": "item:Guerillas tt_soldiers combrigade uniform:desc", "ko": "타냐 부대 여단장의 전투복. 위장 5단계."}
+{"k": "item:Guerillas tt_soldiers comandante uniform:name", "ko": "타냐 부대 코만단테 전투복"}
+{"k": "item:Guerillas tt_soldiers comandante uniform:desc", "ko": "타냐 부대 코만단테의 전투복. 위장 5단계."}
+{"k": "item:Guerillas olvidad_soldiers camrad uniform:name", "ko": "올베가 총잡이 전투복"}
+{"k": "item:Guerillas olvidad_soldiers camrad uniform:desc", "ko": "올베가 총잡이의 전투복. 위장 3단계."}
+{"k": "item:Guerillas olvidad_soldiers comgroup uniform:name", "ko": "올베가 하급 돌격대장 전투복"}
+{"k": "item:Guerillas olvidad_soldiers comgroup uniform:desc", "ko": "올베가 하급 돌격대장의 전투복. 위장 3단계."}
+{"k": "item:Guerillas olvidad_soldiers comsquad uniform:name", "ko": "올베가 상급 돌격대장 전투복"}
+{"k": "item:Guerillas olvidad_soldiers comsquad uniform:desc", "ko": "올베가 상급 돌격대장의 전투복. 위장 3단계."}
+{"k": "item:Guerillas olvidad_soldiers combrigade uniform:name", "ko": "올베가 여단장 전투복"}
+{"k": "item:Guerillas olvidad_soldiers combrigade uniform:desc", "ko": "올베가 여단장의 전투복. 위장 3단계."}
+{"k": "item:Guerillas olvidad_soldiers comandante uniform:name", "ko": "올베가 코만단테 전투복"}
+{"k": "item:Guerillas olvidad_soldiers comandante uniform:desc", "ko": "올베가 코만단테의 전투복. 위장 3단계."}
+{"k": "item:Guerillas indian_soldiers comandante uniform:name", "ko": "원주민 코만단테 전투복"}
+{"k": "item:Guerillas indian_soldiers comandante uniform:desc", "ko": "원주민 코만단테의 전투복. 위장 6단계."}
+{"k": "item:Guerillas indian_soldiers camrad uniform:name", "ko": "원주민 총잡이 전투복"}
+{"k": "item:Guerillas indian_soldiers camrad uniform:desc", "ko": "원주민 총잡이의 전투복. 위장 6단계."}
+{"k": "item:Guerillas indian_soldiers combrigade uniform:name", "ko": "원주민 여단장 전투복"}
+{"k": "item:Guerillas indian_soldiers combrigade uniform:desc", "ko": "원주민 여단장의 전투복. 위장 6단계."}
+{"k": "item:Guerillas indian_soldiers comgroup uniform:name", "ko": "원주민 하급 돌격대장 전투복"}
+{"k": "item:Guerillas indian_soldiers comgroup uniform:desc", "ko": "원주민 하급 돌격대장의 전투복. 위장 6단계."}
+{"k": "item:Guerillas indian_soldiers comsquad uniform:name", "ko": "원주민 상급 돌격대장 전투복"}
+{"k": "item:Guerillas indian_soldiers comsquad uniform:desc", "ko": "원주민 상급 돌격대장의 전투복. 위장 6단계."}
+{"k": "item:Machinegun Bipod (DP27):name", "ko": "양각대 (DP27)"}
+{"k": "item:Machinegun Bipod (DP27):desc", "ko": "DP27 기관총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:PSG1 scope (HK):name", "ko": "헨솔트 ZF10x42 망원 조준경"}
+{"k": "item:PSG1 scope (HK):desc", "ko": "10배율 가변 망원 조준경으로 HK 마운트를 쓴다. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:PSG silencer:name", "ko": "PSG-1용 소음기"}
+{"k": "item:PSG silencer:desc", "ko": "PSG-1 저격소총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Butterfly Knife:name", "ko": "버터플라이 나이프"}
+{"k": "item:Ammo .500 S&W Magnum SCHP:name", "ko": "탄약 .500 S&W Magnum SCHP"}
+{"k": "item:Ammo .500 S&W Magnum SCHP:desc", "ko": ".500 S&W 매그넘 SCHP탄. 재장전 가능한 황동 탄피, 반피갑 소프트포인트 탄두, 박서 뇌관, 비부식성 장약을 갖췄다. 탄두는 확장을 제어하면서도 명중 시 최대의 에너지를 전달하도록 설계되었다."}
+{"k": "item:Ammo box .500 S&W Magnum SCHP:name", "ko": "탄약 box .500 S&W Magnum SCHP"}
+{"k": "item:Ammo box .500 S&W Magnum SCHP:desc", "ko": ".500 S&W Magnum SCHP탄 20발이 든 상자."}
+{"k": "item:Ammo .30 Carbine FMJ:name", "ko": "탄약 .30 Carbine FMJ"}
+{"k": "item:Ammo .30 Carbine FMJ:desc", "ko": ".30 Carbine FMJ탄."}
+{"k": "item:Ammo box .30 Carbine FMJ:name", "ko": "탄약 box .30 Carbine FMJ"}
+{"k": "item:Ammo box .30 Carbine FMJ:desc", "ko": ".30 Carbine FMJ탄 50발이 든 상자."}
+{"k": "item:Rifle clip (M1/15):name", "ko": "소총 탄창 (M1/15)"}
+{"k": "item:Rifle clip (M1/15):desc", "ko": "M1 카빈용 15발들이 상자형 탄창."}
+{"k": "item:CF05 Collimator:name", "ko": "CF05 도트 조준기"}
+{"k": "item:CF05 Collimator:desc", "ko": "CF05식 기관단총용 반사식 도트 조준기. 주간에 표적을 빨리 잡도록 돕는다."}
+{"k": "item:SMG ammo clip (CF05/50):name", "ko": "기관단총 탄창 (CF05/50)"}
+{"k": "item:SMG ammo clip (CF05/50):desc", "ko": "CF05식 기관단총용 50발들이 곡선형 나선 탄창."}
+{"k": "item:Pistol clip (DP-51/13):name", "ko": "권총 탄창 (DP-51/13)"}
+{"k": "item:Pistol clip (DP-51/13):desc", "ko": "표준 13발들이 9x19 mm Daewoo DP-51 권총 탄창."}
+{"k": "item:Assault Rifle clip (StG.44/30):name", "ko": "돌격소총 탄창 (StG.44/30)"}
+{"k": "item:Assault Rifle clip (StG.44/30):desc", "ko": "StG.44 돌격소총용 30발들이 상자형 탄창."}
+{"k": "item:7.92x33 mm PP Kurz Ball:name", "ko": "7.92x33 mm PP Kurz 보통탄"}
+{"k": "item:Ammo box (7.92mm Kurz/20):name", "ko": "탄약 box (7.92mm Kurz/20)"}
+{"k": "item:Ammo box (7.92mm Kurz/20):desc", "ko": "7.92x33 mm PP Kurz Ball탄 20발이 든 상자."}
+{"k": "item:Ammo box (7.92mm Kurz/200):name", "ko": "탄약 box (7.92mm Kurz/200)"}
+{"k": "item:Ammo box (7.92mm Kurz/200):desc", "ko": "7.92x33 mm PP Kurz Ball탄 200발이 든 상자."}
+{"k": "item:Rifle clip (TRG-42/5):name", "ko": "소총 탄창 (TRG-42/5)"}
+{"k": "item:Rifle clip (TRG-42/5):desc", "ko": "Sako TRG-42 저격소총용 5발들이 상자형 탄창."}
+{"k": "item:Sniper rifle clip (WA2000/6):name", "ko": "저격소총 탄창 (WA2000/6)"}
+{"k": "item:Sniper rifle clip (WA2000/6):desc", "ko": "Walther WA 2000 저격소총용 6발들이 상자형 탄창."}
+{"k": "item:M302 (40mm):name", "ko": "M302 유탄발사기 (40mm)"}
+{"k": "item:M302 (40mm):desc", "ko": "M320 유탄발사 모듈(GLM)은 M203을 대체할 새 단발식 40mm 유탄발사기에 붙인 미군 명칭이다. 헤클러 운트 코흐 AG36을 바탕으로 개발되었지만 똑같지는 않다. 가장 큰 차이는 단독으로 쓸 때를 위해 방아쇠 앞에 접이식 앞손잡이를 단 것으로, AG36에는 이것이 없다."}
+{"k": "item:SMG ammo clip (PP-19/30):name", "ko": "기관단총 탄창 (PP-19/30)"}
+{"k": "item:SMG ammo clip (PP-19/30):desc", "ko": "PP-19-01 비탸지 기관단총용 30발들이 곡선형 상자형 탄창."}
+{"k": "item:Double SMG ammo clip (PP-19/60T):name", "ko": "기관단총 2연 탄창 (PP-19/60T)"}
+{"k": "item:Double SMG ammo clip (PP-19/60T):desc", "ko": "PP-19-01 비탸지 기관단총용 9x19mm 30발 탄창 두 개를 이은 것으로, 총 60발이 들어간다."}
+{"k": "item:Double SMG ammo clip (PP-19/60):name", "ko": "기관단총 2연 탄창 (PP-19/60)"}
+{"k": "item:Rifle clip (SVT-40/10):name", "ko": "소총 탄창 (SVT-40/10)"}
+{"k": "item:Rifle clip (SVT-40/10):desc", "ko": "SVT-40 소총용 10발들이 상자형 탄창."}
+{"k": "item:Ammo 38 MAG AP:name", "ko": "탄약 VBR-B AP7PL (.38 Special)"}
+{"k": "item:Ammo 38 MAG AP:desc", "ko": ".38 Special VBR-B AP7PL 철갑탄."}
+{"k": "item:Ammo Box 38 MAG AP:name", "ko": "탄약 Box VBR-B AP7PL (.38 Special)"}
+{"k": "item:Ammo Box 38 MAG AP:desc", "ko": ".38 Special VBR-B AP7PL 철갑탄 50발이 든 상자."}
+{"k": "item:Ammo 44 MAG JHP:name", "ko": "탄약 Fiocchi JHP (.44 Magnum)"}
+{"k": "item:Ammo 44 MAG JHP:desc", "ko": "피오키 .44 매그넘탄은 큰 에너지를 전달하도록 설계된 158그레인 피갑 할로포인트(JHP) 탄두를 쓴다. 확장이 뛰어난 피갑 할로포인트 탄두 덕분에 호신용으로 안성맞춤이다."}

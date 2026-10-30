@@ -1,0 +1,80 @@
+{"k": "item:Double rifle ammo clip (M16/60c):name", "ko": "2연 탄창 (M16 5.56/60)"}
+{"k": "item:Double rifle ammo clip (M16/60c):desc", "ko": "M16 소총, with a total capacity of 60 rounds용 5.56x45mm 상자형 30발 탄창 두 개를 이은 것."}
+{"k": "item:Double rifle ammo clip (G36/60):name", "ko": "2연 탄창 (G36/60)"}
+{"k": "item:Double rifle ammo clip (G36/60):desc", "ko": "G36 계열 소총, with a total capacity of 60 rounds용 5.56x45mm NATO 상자형 30발 탄창 두 개를 이은 것."}
+{"k": "item:Ammo box (SS192):name", "ko": "SS192 탄약 상자"}
+{"k": "item:Ammo box (SS192):desc", "ko": "FN 허스탈제 유명 상표 5.7x28mm SS192탄 50발이 든 상자. P90 기관단총과 Five-seveN 권총에 쓰인다. 피갑 할로포인트 탄두는 중거리의 비장갑 표적에 효과적이다."}
+{"k": "item:Ammo box (SS193):name", "ko": "SS193 탄약 상자"}
+{"k": "item:Ammo box (SS193):desc", "ko": "FN 허스탈제 유명 상표 5.7x28mm SS193탄 50발이 든 상자. P90 기관단총과 Five-seveN 권총에 쓰인다. 납 심을 넣은 무거운 보트테일 완전피갑탄으로, 중거리의 비장갑 표적에 효과적이다."}
+{"k": "item:Ammo box (US):name", "ko": "저속탄 탄약 상자  (7.62x39mm)"}
+{"k": "item:Ammo box (US):desc", "ko": "유명 상표 7.62x39mm 저속탄 20발이 든 상자. 무거운 피갑 탄두를 쓴 저속탄이다. 반동이 작아 탄도가 평탄해지고 정확도가 높아진다. 하지만 관통력과 저지력이 낮아 효과가 떨어진다."}
+{"k": "item:Double rifle ammo clip (FN FAL/40):name", "ko": "2연 탄창 (FN FAL/40)"}
+{"k": "item:Double rifle ammo clip (FN FAL/40):desc", "ko": "FN FAL 계열 소총, with a total capacity of 40 rounds용 7.62x51mm NATO 20발 탄창 두 개를 이은 것."}
+{"k": "item:Double rifle ammo clip (FN FAL/60):name", "ko": "2연 탄창 (FN FAL/60)"}
+{"k": "item:Double rifle ammo clip (FN FAL/60):desc", "ko": "FN FAL 계열 소총, with a total capacity of 60 rounds용 7.62x51mm NATO 30발 탄창 두 개를 이은 것."}
+{"k": "item:Double SMG ammo clip (MP5/60c):name", "ko": "2연 탄창 (MP5/60)"}
+{"k": "item:Double SMG ammo clip (MP5/60c):desc", "ko": "HK MP5 기관단총, with a total capacity of 60 rounds용 9x19mm 파라벨룸 상자형 30발 탄창 두 개를 이은 것."}
+{"k": "item:Double SMG ammo clip (MP5/30):name", "ko": "2연 탄창 (MP5/30)"}
+{"k": "item:Double SMG ammo clip (MP5/30):desc", "ko": "HK MP5 기관단총, with a total capacity of 30 rounds용 9x19mm 파라벨룸 상자형 15발 탄창 두 개를 이은 것."}
+{"k": "item:Ammo box (7U1):name", "ko": "7U1 탄약 상자"}
+{"k": "item:Ammo box (7U1):desc", "ko": "무겁고 총구 속도가 낮은 7U1 피갑 탄두를 쓴 유명 상표 5.45x39mm탄 20발이 든 상자. 반동이 작아 탄도가 평탄해지고 정확도가 높아진다. 하지만 관통력과 저지력이 낮아 효과가 떨어진다."}
+{"k": "item:7.62x25mm (7.63mm mauzer):name", "ko": "7.62x25 탄 (7.62mm 토카레프)"}
+{"k": "item:7.62x25mm (7.63mm mauzer):desc", "ko": "토카레프 TT 권총과 PPSh 기관단총에 쓰이는 탄. 7.63mm 마우저탄을 바탕으로 했으며, 둘은 서로 바꿔 쓸 수 있다. 7.62mm 토카레프탄의 첫 생산분은 마우저탄을 그대로 복제한 것이었지만, 1930년 무렵 개량되었다. 더 큰 리볼버식 뇌관과 넓은 테두리를 달아 자동장전 화기에 더 알맞게 되었다. 반경이 조금 커지면서 탄두 전체 모양도 바뀌어 효과가 조금 높아졌다."}
+{"k": "item:Ammo box (SP-10):name", "ko": "SP-10 탄약 상자"}
+{"k": "item:Ammo box (SP-10):desc", "ko": "9x21mm SP-10 철갑탄 30발이 든 상자. 처리된 강철 심 탄두를 써서 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Ammo box (SP-11):name", "ko": "SP-11 탄약 상자"}
+{"k": "item:Ammo box (SP-11):desc", "ko": "9x21mm SP-11 철갑탄 30발이 든 상자. 납 피갑 탄두를 써서 중거리 표적에 효과적이다."}
+{"k": "item:loose_ammo_box:name", "ko": "57-N-181C 공포탄 상자"}
+{"k": "item:loose_ammo_box:desc", "ko": "57-N-181S 공포탄이 든 상자."}
+{"k": "item:Silencer PBS-4m (5.45 mm):name", "ko": "PBS-4M 소음기 (5.45x39 mm)"}
+{"k": "item:Silencer PBS-4m (5.45 mm):desc", "ko": "PBS-4M ‘소음 사격 장치’는 소총의 총구 제퇴기를 떼고 그 자리에 다는 부착물이다. 금속 차폐판으로 여러 칸을 나눈 금속 원통이다. 전용 저속탄뿐 아니라 일반 5.45x39mm탄을 쏠 때도 쓸 수 있다."}
+{"k": "item:BS-1:name", "ko": "총열 하부 유탄발사기 BS-1 (30mm)"}
+{"k": "item:BS-1:desc", "ko": "RGA-86이라고도 하는 독특한 소음 30mm 유탄발사기로, 전용 마운트로 총열 아래에 단다. 자체 뇌관이 없는 전용 30mm 대전차 고폭(HEAT) 유탄을 쏜다. 대신 10발들이 탄창에서 5.45x39mm 공포탄을 쏘고, 그 팽창 가스로 30mm 유탄을 앞으로 밀어낸다. 여러 배기구가 가스를 빼내 소리를 죽이고 화염과 연기를 줄인다. 유탄은 총구로 장전하며 고정 핀으로 총열 안에 고정한다."}
+{"k": "item:VOG-T:name", "ko": "VOG-T 유탄"}
+{"k": "item:VOG-T:desc", "ko": "30mm 대전차 고폭(HEAT) 유탄. 특수한 설계 목적 때문에 뇌관이 없다. 대신 별도의 별 모양 크림프 공포탄으로 발사된다."}
+{"k": "item:Optical Sight SUSAT (L85A2):name", "ko": "SUSAT x4 (L85A2) 조준경"}
+{"k": "item:Optical Sight SUSAT (L85A2):desc", "ko": "L85A2 소총용 소화기 조준 장치(SUSAT). 트리룩스 4배율 조명식 광학 조준경이다. 주간 정밀 사격과 표적 관측용이다. 장거리에서 정확하며, 윗면에 예비용 구멍 가늠자도 있다."}
+{"k": "item:L85A2 Handle:name", "ko": "L85A2 운반 손잡이"}
+{"k": "item:L85A2 Handle:desc", "ko": "L85A2 돌격소총용 운반 손잡이. 예비 개방형 조준기로도 쓸 수 있다."}
+{"k": "item:L85A2 silencer:name", "ko": "L85A2용 소음기"}
+{"k": "item:L85A2 silencer:desc", "ko": "L85A2 돌격소총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Rifle ammo clip (SIG551/20):name", "ko": "상자형 탄창 (SIG551/20)"}
+{"k": "item:Rifle ammo clip (SIG551/20):desc", "ko": "SIG-551 카빈용 표준 20발들이 5.56mm 상자형 탄창."}
+{"k": "item:Rifle ammo clip (SIG551/30):name", "ko": "상자형 탄창 (SIG551/30)"}
+{"k": "item:Rifle ammo clip (SIG551/30):desc", "ko": "SIG-551 카빈용 표준 30발들이 5.56mm 상자형 탄창."}
+{"k": "item:SIG551 Optical sight:name", "ko": "SIG-551용 광학 조준경"}
+{"k": "item:SIG551 Optical sight:desc", "ko": "SIG-551 카빈용 10배율 광학 조준경. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:SIG551 Silencer:name", "ko": "SIG-551용 소음기"}
+{"k": "item:SIG551 Silencer:desc", "ko": "SIG-551 카빈용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Optical Sight Zrak m89:name", "ko": "즈라크 M89 조준경"}
+{"k": "item:Optical Sight Zrak m89:desc", "ko": "유고슬라비아제 2.5배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Type56 Neddle Bayonet:name", "ko": "56식 카빈용 대검"}
+{"k": "item:Type56 Neddle Bayonet:desc", "ko": "내장형 대검."}
+{"k": "item:Sks bayonet:name", "ko": "대검 (SKS)"}
+{"k": "item:Sks bayonet:desc", "ko": "SKS 카빈의 유고슬라비아 변형인 자스타바 LK M59/66용 내장형 대검."}
+{"k": "item:SV98 optic:name", "ko": "PKS-07 조준경"}
+{"k": "item:SV98 optic:desc", "ko": "7배율 PKS-07 조명식 광학 조준경."}
+{"k": "item:SV98 silencer:name", "ko": "SV-98 저격소총용 소음기"}
+{"k": "item:SV98 silencer:desc", "ko": "SV-98 저격소총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:SV98 bipod:name", "ko": "SV98 저격소총용 양각대"}
+{"k": "item:SV98 bipod:desc", "ko": "SV-98 저격소총용 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Sniper rifle clip (SV98/10):name", "ko": "상자형 탄창 (SV98 7.62x54R/10)"}
+{"k": "item:Sniper rifle clip (SV98/10):desc", "ko": "SV-98 저격소총용 10발들이 7.62x54mmR 탄창."}
+{"k": "item:L96A1 bipod:name", "ko": "양각대 (L96A1)"}
+{"k": "item:L96A1 bipod:desc", "ko": "L96A1 저격소총용 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Sniper rifle clip (L96A1/10):name", "ko": "상자형 탄창 (L96A1 7.62x51) 10"}
+{"k": "item:Sniper rifle clip (L96A1/10):desc", "ko": "L96A1 저격소총용 10발들이 7.62x51mm 탄창."}
+{"k": "item:Sniper rifle clip (L96A1/20):name", "ko": "상자형 탄창 (L96A1 7.62x51) 20"}
+{"k": "item:Sniper rifle clip (L96A1/20):desc", "ko": "L96A1 저격소총용 20발들이 7.62x51mm 탄창."}
+{"k": "item:Optical Sight L96A1:name", "ko": "류폴드 마크 4 조준경"}
+{"k": "item:Machinegun box (MG3/50):name", "ko": "탄띠 상자 (MG3 7.62x51/50)"}
+{"k": "item:Machinegun box (MG3/50):desc", "ko": "MG3 기관총용 표준 50발짜리 7.62x51 탄띠가 든 금속 탄약 상자."}
+{"k": "item:MG3 bipod:name", "ko": "양각대 (MG3)"}
+{"k": "item:MG3 bipod:desc", "ko": "MG3 기관총용 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:NDK:name", "ko": "코체르긴 NDK-17 전투 나이프"}
+{"k": "item:NDK:desc", "ko": "코체르긴 17 전투 나이프는 러시아의 가라테 전문가 A.N. 코체르긴이 특수부대(스페츠나즈)를 위해 개발했다. 러시아 상트페테르부르크의 응용연구센터가 개발한 특수 백병전 체계에 맞춰 설계되었다."}
+{"k": "item:smersh5:name", "ko": "스메르시-5 다목적 전투 나이프"}
+{"k": "item:smersh5:desc", "ko": "스메르시-5는 이전 스메르시 나이프의 손잡이를 바탕으로 만들었다. 칼날 두께는 2.4mm이며 외날이다. 칼날의 평평한 면은 날을 상하게 하지 않고 깡통 따개로도 쓸 수 있게 했다. 또 하나의 특징은 칼끝을 두껍게 해, 어느 나이프에서나 약점인 부분을 보강한 것이다. 손잡이 보호대는 필요하면 깊이 찌를 수 있도록 설계되었다."}
+{"k": "item:sas_dagger:name", "ko": "페어베언 사이크스 전투 나이프"}
+{"k": "item:sas_dagger:desc", "ko": "페어베언 사이크스는 2차 대전 중 영국에서 개발되어 SAS의 전설이자 그 전쟁에서 가장 유명한 전투 나이프 가운데 하나가 되었다. 얇은 양날 칼날, 작은 보호대, 꽃병 모양의 가는 손잡이를 갖춘 스틸레토다. 가죽 칼집은 발목이나 벨트에 달 수 있다. 찌르기에 특화되어 만능 전투 무기는 아니지만, 크게 성공해 수십 년 동안 전 세계에서 복제되었다. 일부 복제품은 다른 용도에도 더 잘 맞게 만들려고 했다."}
+{"k": "item:kabar:name", "ko": "카바 전투 나이프"}

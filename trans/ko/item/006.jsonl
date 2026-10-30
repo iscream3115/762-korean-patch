@@ -1,0 +1,76 @@
+{"k": "item:Assault Rifle clip (FAMAS/25):desc", "ko": "FAMAS F1 돌격소총용 25발들이 상자형 탄창."}
+{"k": "item:Sniper rifle clip (CheyTac/7):name", "ko": "저격소총 탄창 (CheyTac/7)"}
+{"k": "item:Sniper rifle clip (CheyTac/7):desc", "ko": "CheyTac M200 저격소총용 7발들이 .408 CheyTac 상자형 탄창."}
+{"k": "item:Shotgun drum (AA-12/20):name", "ko": "원형 드럼 탄창 (AA-12/30)"}
+{"k": "item:Shotgun drum (AA-12/20):desc", "ko": "AA-12 전투 산탄총용 30발들이 드럼 탄창."}
+{"k": "item:Rifle ammo clip (Mini-30/10):name", "ko": "소총 탄창 (Mini-30/10)"}
+{"k": "item:Rifle ammo clip (Mini-30/10):desc", "ko": "Mini-30용 30발들이 탄창"}
+{"k": "item:Rifle ammo clip (Mini-30/20):name", "ko": "소총 탄창 (Mini-30/20)"}
+{"k": "item:Double rifle ammo clip (Mini-30/40):name", "ko": "소총 2연 탄창 (Mini-30/40)"}
+{"k": "item:Double rifle ammo clip (Mini-30/40):desc", "ko": "Mini-30용 30발 탄창 2개"}
+{"k": "item:Pistol Zastava M70(d):desc", "ko": "유고슬라비아 국영 기업 자보디 츠르베나 자스타바에서 생산한 권총. 토카레프 TT 권총을 9mm 루거탄용으로 개조했고, 권총 손잡이가 더 길어지는 등 몇 가지 작은 차이가 있다."}
+{"k": "item:Pistol clip (Zastava/9):name", "ko": "권총 탄창 (Zastava/9)"}
+{"k": "item:Pistol clip (Zastava/9):desc", "ko": "Zastava M70용 9발들이 탄창"}
+{"k": "item:Tactical Light (Barrel):name", "ko": "전술 조명 모듈 (산탄총)"}
+{"k": "item:Tactical Light (Barrel):desc", "ko": "소총용 범용 전술 조명 모듈. 어두운 곳에서 전술 조명을 쓰면 사격 정확도가 높아진다."}
+{"k": "item:Laser Aiming Module (Barrel):name", "ko": "레이저 조준 모듈 (산탄총)"}
+{"k": "item:Laser Aiming Module (Barrel):desc", "ko": "범용 총열 마운트를 쓰는 레이저 조준 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:Tactical Light (Rifle):name", "ko": "소총용 전술 조명 모듈"}
+{"k": "item:Laser Aiming Module (TSL02):name", "ko": "레이저 조준 모듈 (TSL 02)"}
+{"k": "item:Laser Aiming Module (TSL02):desc", "ko": "범용 총열 마운트를 쓰는 TSL 02 레이저 조준 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:M26 MASS shotgun (12 ga):name", "ko": "M26 모듈식 부가 산탄총 시스템 (12 gauge)"}
+{"k": "item:M26 MASS shotgun (12 ga):desc", "ko": "M26 MASS는 C-More 시스템스가 개발하고 버투사가 생산한 경량 산탄총 시스템의 군용 버전으로, 원래 특수작전부대를 겨냥해 판매되었다. 아프가니스탄에 파병되는 병사들이 관심을 보였는데, 산탄총을 별도의 무기 대신 소총 부착물로 써서 들고 다닐 무기 수를 줄이고 싶었기 때문이다. M26은 5발들이 분리식 상자형 탄창을 쓴다."}
+{"k": "item:Optical Sight Elcan 3.4x28 (C7):name", "ko": "엘칸 C79 조준경 3.4x28 (C7)"}
+{"k": "item:Optical Sight Elcan 3.4x28 (C7):desc", "ko": "C79 광학 조준기는 3.4x28 배율의 소화기용 조준경이다. 삼중수소 조명 조준선으로 평상시와 저조도 환경 모두에서 조준할 수 있다. 내부에 질소를 채워 김 서림을 막고 겉은 고무 보호 피막으로 덮었다. M1913 피카티니 레일이나 디에마코/콜트 캐나다 소화기의 비슷한 “디에마코” 레일을 통해 여러 소총과 경기관총에 장착할 수 있다. 엘칸이 생산하며 전 세계 군용 화기에서 볼 수 있다."}
+{"k": "item:Optical Sight Elcan 3.4x28 (WR):name", "ko": "엘칸 C79 조준경 3.4x28 (WR)"}
+{"k": "item:M96 Bayonet:name", "ko": "M96 대검"}
+{"k": "item:M96 Bayonet:desc", "ko": "스웨덴 육군 표준 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:SMG ammo clip (M45/36):name", "ko": "상자형 탄창 (M45/36)"}
+{"k": "item:SMG ammo clip (M45/36):desc", "ko": "칼 구스타프 Kpist M45 기관단총용 표준 36발들이 9mm 파라벨룸 상자형 탄창. 오래되었지만 튼튼하다. 다만 다른 9mm 상자형 탄창보다 조금 무겁다."}
+{"k": "item:20mm Golden Bat (HE):name", "ko": "20mm 골든 배트 (HE)"}
+{"k": "item:20mm Golden Bat (HE):desc", "ko": "XM-29 SABR OICW 발사기용으로 설계된 20mm 고폭 유탄 시제품."}
+{"k": "item:20mm Silver Bat (HEAB):name", "ko": "20mm 실버 배트 (HEAB)"}
+{"k": "item:20mm Silver Bat (HEAB):desc", "ko": "XM-29 SABR OICW 발사기용으로 설계된 20mm 공중폭발 고폭 유탄 시제품."}
+{"k": "item:Bare OICW Launcher:name", "ko": "OICW 유탄발사기"}
+{"k": "item:Bare OICW Launcher:desc", "ko": "OICW 돌격소총용으로 설계된 유탄발사기. 20mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:Bare OICW Sight:name", "ko": "OICW 광학 조준경"}
+{"k": "item:Bare OICW Sight:desc", "ko": "OICW 돌격소총용 1.6배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Laser Aiming Module (OICW):name", "ko": "레이저 조준 모듈 (OICW)"}
+{"k": "item:Laser Aiming Module (OICW):desc", "ko": "OICW 돌격소총용 조준 시스템 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:OICW mag2:name", "ko": "유탄발사기 탄창 (OICW/6)"}
+{"k": "item:OICW mag2:desc", "ko": "25mm 유탄 6발이 든 유탄발사기 탄창"}
+{"k": "item:Covert silencer:name", "ko": "AW 커버트 소음기 (내장)"}
+{"k": "item:Covert silencer:desc", "ko": "AW 커버트 소음기. 어큐러시 인터내셔널 아크틱 워페어 커버트 소총에 일체화된 고효율 소음기."}
+{"k": "item:Collimator OKO (SA Vz.58):name", "ko": "OKO 도트 조준기 (SA Vz.58)"}
+{"k": "item:Collimator OKO (SA Vz.58):desc", "ko": "SA Vz.58용 반사식 도트 조준기. 배율 없이 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:SA Vz.58 Bayonet:name", "ko": "SA Vz.58 대검"}
+{"k": "item:SA Vz.58 Bayonet:desc", "ko": "SA Vz.58 돌격소총용 표준 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:Morgan Dollar:name", "ko": "모건 달러"}
+{"k": "item:Morgan Dollar:desc", "ko": "모건 달러. 아마 세계에서 가장 아름다운 동전 가운데 하나일 것이다. 1893년에 주조된 이 동전에는 문장 아래에 ‘S’ 각인이 있다."}
+{"k": "item:Indian Dollar:name", "ko": "인디언 달러"}
+{"k": "item:Indian Dollar:desc", "ko": "인디언 머리를 문양으로 새긴 1929년 5달러 금화."}
+{"k": "item:45 Long Colt LFN:desc", "ko": "윈체스터 카우보이 액션 탄"}
+{"k": "item:45 Long Colt JHP:desc", "ko": "윈체스터 실버팁 슈퍼-X"}
+{"k": "item:45 Long Colt H:desc", "ko": "버펄로 보어 헤비 .45 Colt +P"}
+{"k": "item:Ammo box (.45 LC LFN):name", "ko": "탄약 box (.45 Colt LFN/50)"}
+{"k": "item:Ammo box (.45 LC LFN):desc", "ko": "윈체스터 카우보이 액션 탄 50발"}
+{"k": "item:Ammo box (.45 LC JHP):name", "ko": "탄약 box (.45 Colt JHP/50)"}
+{"k": "item:Ammo box (.45 LC JHP):desc", "ko": "윈체스터 실버팁 슈퍼-X 50발"}
+{"k": "item:Ammo box (.45 LC H):name", "ko": "탄약 box (.45 Colt H/50)"}
+{"k": "item:Ammo box (.45 LC H):desc", "ko": "버펄로 보어 헤비 .45 Colt +P 50발"}
+{"k": "item:Hand Grenade M24:name", "ko": "M24 수류탄"}
+{"k": "item:Hand Grenade M24:desc", "ko": "2차 대전 독일군 표준 수류탄 가운데 하나인 M24 ‘방망이’ 수류탄은 공격용 수류탄이다. 손잡이 덕분에 더 쉽게 던질 수 있지만, 그 때문에 많이 들고 다닐 수는 없다."}
+{"k": "item:Axe:name", "ko": "손도끼"}
+{"k": "item:Axe:desc", "ko": "미늘창과 폴액스 중 무엇이 먼저냐를 두고 말이 많다. 답이 무엇이든 손도끼는 둘 다의 후손이다. 이 녀석은 다리보다 장작에 더 많이 쓰였겠지만, 어느 쪽이든 충분히 쓰러뜨릴 수 있다. 이 무기를 얕보지 마라."}
+{"k": "item:Shovel:name", "ko": "야전삽"}
+{"k": "item:Shovel:desc", "ko": "야전삽은 훈련된 전사의 손에서 치명적인 무기가 된다. 나이프에 견줄 만큼 다루기 쉬우면서도 타격력과 유효 거리는 나이프를 넘어선다. 백병전에서 야전삽은 특히 중요하다. 첫째로 정규 보급품이고, 둘째로 무시무시한 근접전 무기이기 때문이다."}
+{"k": "item:Garand clip (.30-06/8):name", "ko": "가랜드 클립 (.30-06/8)"}
+{"k": "item:Garand clip (.30-06/8):desc", "ko": "8발들이 M1 클립에 끼운 .30-06 구경 탄약."}
+{"k": "item:Sabot (12ga):name", "ko": "사보 (12 gauge)"}
+{"k": "item:Sabot (12ga):desc", "ko": "12게이지 산탄총용으로 정확도가 높은 탄. 탄두 대신 깃 달린 화살을 쓴다. 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Ammo box (Sabot):name", "ko": "탄약 box (Sabot)"}
+{"k": "item:Ammo box (Sabot):desc", "ko": "정확도가 높은 12게이지 탄 10발이 든 상자. 탄두 대신 깃 달린 화살을 쓴다. 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:skif clip:name", "ko": "권총 탄창 (Skif/12)"}
+{"k": "item:skif clip:desc", "ko": "MP-448 Skif 권총용 표준 12발들이 9mm Makarov 상자형 탄창."}
+{"k": "item:kedr clip:name", "ko": "기관단총 탄창 (Kedr/20)"}
+{"k": "item:kedr clip:desc", "ko": "Kedr PP-91 기관단총용 표준 20발들이 9x18 mm PM 상자형 탄창."}

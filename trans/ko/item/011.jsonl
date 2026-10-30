@@ -1,0 +1,66 @@
+{"k": "item:OICW_manual:desc", "ko": "OICW 돌격소총 운용 교범. 읽은 뒤에는 HK XM-29 SABR OICW, OICW 유탄발사기, OICW 광학 조준경이 소지품에 있는지 확인한다. 발사기나 조준경을 오른쪽 클릭하고 조립(ASSEMBLE)을 고른다."}
+{"k": "item:Gun_Mag:name", "ko": "총포상 잡지"}
+{"k": "item:Gun_Mag:desc", "ko": "흥미로운 기사가 몇 편 실린 잡지."}
+{"k": "item:Retro_Mag1:name", "ko": "복고풍 잡지"}
+{"k": "item:Porn_Mag1:name", "ko": "성인 잡지"}
+{"k": "item:Porn_Mag1:desc", "ko": "흥미로운 기사가 몇 편 실린 잡지. 하지만 사진이 값을 매길 수 없을 만큼 귀하다."}
+{"k": "item:FN FAL manual:name", "ko": "FN FAL 운용 교범"}
+{"k": "item:FN FAL manual:desc", "ko": "FN FAL 계열 battle 소총 운용 교범. (FN FAL 50.00 ~ FN FAL 50.63)"}
+{"k": "item:M203 manual:name", "ko": "M203 운용 교범"}
+{"k": "item:M203 manual:desc", "ko": "M203 grenade launcher 운용 교범. (M203B UGL ~ M203PI UGL)"}
+{"k": "item:MP5 manual:name", "ko": "MP5 운용 교범"}
+{"k": "item:MP5 manual:desc", "ko": "MP5 기관단총 운용 교범. (MP5A4 ~ MP5A5)"}
+{"k": "item:SVD manual:name", "ko": "SVD 운용 교범"}
+{"k": "item:SVD manual:desc", "ko": "Dragunov 저격소총 운용 교범. (Dragunov SVD ~ Dragunov SVD-S)"}
+{"k": "item:Shotgun manual:name", "ko": "Shotgun 운용 교범"}
+{"k": "item:Shotgun manual:desc", "ko": "산탄총 운용 교범. (Benelli M4 Super 90 ~ Benelli M4 Super 90 FS)"}
+{"k": "item:Glock Modular Kit:name", "ko": "Glock 개조 키트"}
+{"k": "item:Glock Modular Kit:desc", "ko": "Glock 총기용 부품 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:ACR Modular Kit:name", "ko": "ACR 개조 키트"}
+{"k": "item:ACR Modular Kit:desc", "ko": "ACR 총기용 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:Bushmaster Kits:name", "ko": "Magpul Masada/Bushmaster 키트"}
+{"k": "item:Bushmaster Kits:desc", "ko": "Magpul Masada/Bushmaster ACR용 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:SCAR Kits:name", "ko": "SCAR 키트"}
+{"k": "item:SCAR Kits:desc", "ko": "FN SCAR용 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:HK416 Kits:name", "ko": "HK 416 키트"}
+{"k": "item:HK416 Kits:desc", "ko": "HK 416용 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:HK417 Kits:name", "ko": "HK 417 키트"}
+{"k": "item:HK417 Kits:desc", "ko": "HK 417용 키트. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:Groza Kits:name", "ko": "OC-14 그로자 모듈 키트"}
+{"k": "item:Groza Kits:desc", "ko": "OC-14 모듈식 돌격소총을 돌격소총, 소음 소총, 소총/유탄발사기 조합의 세 가지 구성으로 바꾸는 데 필요한 부가 모듈이 모두 들어 있다. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:Steyr AUG A1 Kits:name", "ko": "Steyr AUG A1 모듈 키트"}
+{"k": "item:Steyr AUG A1 Kits:desc", "ko": "Steyr AUG A1 돌격소총을 돌격소총, 단총열 반자동 소총, 경기관총, 소총/유탄발사기 조합의 네 가지 구성으로 바꾸는 부가 모듈이 들어 있다. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:Steyr AUG A2 Kits:name", "ko": "Steyr AUG A2  모듈 키트"}
+{"k": "item:Steyr AUG A2 Kits:desc", "ko": "Steyr AUG A2 돌격소총을 돌격소총, 단총열 반자동 소총, 경기관총, 소총/유탄발사기 조합의 네 가지 구성으로 바꾸는 부가 모듈이 들어 있다. 사용법: 키트를 소지품에 넣고 개조할 무기를 손에 든다. 무기를 오른쪽 클릭하고 원하는 버전을 고른다."}
+{"k": "item:HK MC51 (7.62x51mm):desc", "ko": "MC51 카빈은 영국의 FR 오드넌스 인터내셔널사가 특수부대용으로 생산한다. 무게는 3.1kg, 접은 상태의 전장은 625mm, 총열 길이는 230mm에 불과하다. 9×19mm 파라벨룸탄의 저지력과 철갑 능력이 부족한 상황에서 작지만 강력한 무기가 필요했던 영국 SAS와 SBS를 위해 만들었다고 한다."}
+{"k": "item:Sniper Karabiner 98k (7.62x54mm):name", "ko": "저격용 Karabiner 98k (7.62x54mm)"}
+{"k": "item:Sniper Karabiner 98k (7.62x54mm):desc", "ko": "2차 대전 중 제3제국은 잘 알려진 Kar 98 같은 무기를 대량 생산했다. 그중 일부는 설계자의 기대를 뛰어넘는 성능을 보여 저격용으로 개조되었다. 이 모델은 초센의 독일 국방군 지하 사령부 학교에서 쾨니히 소령이 직접 만든 유일한 사양으로, 그는 이 총을 동부 전선의 그 유명한 스탈린그라드 전투에서 썼다."}
+{"k": "item:Beryl wz.1996 (5.56mm):desc", "ko": "베릴은 설계 구조와 작동 방식이 탄탈 소총과 비슷하다. 다른 탄을 쓰는 데서 비롯된 주요 차이는 총열, 기관부, 개머리판, 앞손잡이, 총구 장치, 조준 장치이며, STANAG 탄창을 쓴다."}
+{"k": "item:Magpul PDR (5.56mm):desc", "ko": "Magpul PDR(개인 방어 소총)은 Magpul 인더스트리스가 개발 중인 불펍식 소형 5.56x45mm 카빈이다. 작동 방식은 쇼트 스트로크 가스 피스톤이며 2단 보정기가 달릴 수도 있고, 총열 길이는 10.5~12.5인치다. 스트라이커 격발식이고, STANAG 탄창을 쓰며, 양손잡이용 탄피 배출 장치와 조작부를 갖췄다. 피카티니 레일에 여러 광학 장비를 달 수 있다."}
+{"k": "item:M1941 Johnson machine gun:name", "ko": "M1941 존슨 기관총 (.30-06)"}
+{"k": "item:M1941 Johnson machine gun:desc", "ko": "M1941 경기관총은 쇼트 리코일 작동식, 공랭식, 탄창 급탄식 무기다. 여러 방사형 돌기가 있는 회전 노리쇠가 총열 연장부에 맞물려 총열을 잠근다. 총열은 냉각 구멍이 난 짧은 관 속에 들어 있으며, 과열되면 교체하거나 운반하기 쉽도록 빨리 분리할 수 있다. 조정간으로 사격 방식을 고를 수 있어, 자동일 때는 개방 노리쇠, 반자동일 때는 폐쇄 노리쇠에서 사격한다. 복좌 스프링은 개머리판 위쪽에 있고, 완충기를 조절해 임무에 맞게 발사 속도를 바꿀 수 있다. 왼쪽에서 수평으로 끼우는 분리식 곡선형 상자형 탄창으로 급탄한다."}
+{"k": "item:Machinegun DP 27 (7.62x54R):desc", "ko": "DP(데그탸료프 페호트니, 곧 데그탸료프 보병용) 경기관총은 1917년 이후 소련에서 처음 설계된 소화기 가운데 하나다. 1927년 붉은 군대의 표준 경기관총으로 채용되어 2차 대전이 끝날 때까지 큰 활약을 했다. 원반형 탄창이 축음기 음반을 닮았고 사격할 때 위 덮개가 돌아가서, 붉은 군대 병사들은 “전축”이라는 별명을 붙였다. DP는 효과적인 경지원 화기로 이름났다."}
+{"k": "item:Sniper Rifle HK PSG-1 Camo (7.62x51mm):name", "ko": "우드랜드 위장 HK PSG-1 (7.62x51 mm)"}
+{"k": "item:Sniper Rifle HK PSG-1 Camo (7.62x51mm):desc", "ko": "7.62x51mm탄을 쓰는 PSG-1 저격소총은 독일 헤클러 운트 코흐가 법 집행 기관과 육군 특수부대를 위해 개발했다. 전용 저격탄을 쓰면 매우 정확하고, 신뢰성도 아주 높다. 표준 HK 마운트로 저격용 양각대와 조준경을 추가로 달 수 있다. 반자동 사격을 한다. 표준 탄창에는 5발이 들어가지만 표준 20발들이 7.62x51mm 탄창과 호환된다."}
+{"k": "item:Assault Rifle Barrett M468 (6.8 SPC):desc", "ko": "6.8 SPC탄을 쓰는 바렛 M468 소총은 M4와 같은 가스 직동식을 썼다. M16/M4 같은 여러 AR-15형 소총처럼 총열에 나사산이 있어 소음기 같은 총구 부착물을 달 수 있다. 하부 기관부에는 1단 방아쇠, 장갑을 끼고 쏠 수 있는 Magpul 강화 방아쇠울, 탄창을 빨리 갈 수 있는 경사진 탄창 삽입구가 있다. 상부 기관부는 피카티니 레일이 달린 평탄형이다."}
+{"k": "item:Revolver S&W M500 Custom (.500 S&W):name", "ko": "커스텀 Smith & Wesson Model 500 (.500 S&W)"}
+{"k": "item:Revolver S&W M500 Custom (.500 S&W):desc", "ko": "Smith & Wesson Model 500은 스미스 앤드 웨슨이 생산한 5연발 더블 액션 리볼버로, .500 S&W 매그넘탄을 쓴다. S&W의 가장 큰 프레임인 X-프레임으로 만들어졌는데, 기존의 S&W 더블 액션 프레임으로는 .500 S&W탄이 내는 총구 에너지와 압력을 감당할 수 없어서 새로 개발한 것이다. 다른 총처럼 초보 사수에게는 적절한 감독이 필요하지만, 반동이 워낙 커서 이 총을 쏠 때는 특히 지도를 잘 받아야 한다. 이 모델은 7.5인치 총열을 갖췄다."}
+{"k": "item:Revolver S&W M500ES (.500 S&W):desc", "ko": "Smith & Wesson Model 500은 스미스 앤드 웨슨이 생산한 5연발 더블 액션 리볼버로, .500 S&W 매그넘탄을 쓴다. S&W의 가장 큰 프레임인 X-프레임으로 만들어졌는데, 기존의 S&W 더블 액션 프레임으로는 .500 S&W탄이 내는 총구 에너지와 압력을 감당할 수 없어서 새로 개발한 것이다. 다른 총처럼 초보 사수에게는 적절한 감독이 필요하지만, 반동이 워낙 커서 이 총을 쏠 때는 특히 지도를 잘 받아야 한다. 이 모델은 4인치 총열을 갖췄다."}
+{"k": "item:Revolver S&W M500 (.500 S&W):desc", "ko": "Smith & Wesson Model 500은 스미스 앤드 웨슨이 생산한 5연발 더블 액션 리볼버로, .500 S&W 매그넘탄을 쓴다. S&W의 가장 큰 프레임인 X-프레임으로 만들어졌는데, 기존의 S&W 더블 액션 프레임으로는 .500 S&W탄이 내는 총구 에너지와 압력을 감당할 수 없어서 새로 개발한 것이다. 다른 총처럼 초보 사수에게는 적절한 감독이 필요하지만, 반동이 워낙 커서 이 총을 쏠 때는 특히 지도를 잘 받아야 한다. 이 모델은 8.38인치 총열을 갖췄다."}
+{"k": "item:Rifle M1 Carbine (.30):desc", "ko": "위력을 줄인 .30탄을 쓰는 M1 카빈은 원래 일선 보병의 주무기로 만든 것이 아니었고, 전쟁 말기에 개발된 더 강력한 돌격소총과 비교할 만한 것도 아니었다. 그런데도 곧 보병 장교, 미군 공수부대원, 부사관, 탄약수, 포병 전방 관측병 등 일선 부대에 널리 보급되었다."}
+{"k": "item:Sniper Rifle XM21 (7.62mm):name", "ko": "XM-21 저격 무기 체계 (7.62x51 mm)"}
+{"k": "item:Sniper Rifle XM21 (7.62mm):desc", "ko": "M21은 반자동 저격소총이다. M14 전투 소총의 변형으로 1969년 정식 채용되었다. 내셔널 매치급으로 생산된 M14를 골라 개조했고, 더 정확한 사격을 위해 가스실과 피스톤을 더 개량했다. 레이저 조준 모듈, 전술 조명, 양각대, 망원 조준경을 장착할 수 있다."}
+{"k": "item:Assault Rifle AK47 Mod (7.62x39mm):desc", "ko": "수리를 위해 손본 표준 AKM. 표준 AK 30발들이 7.62x39mm 탄창과 대용량 RPK 탄창을 모두 쓸 수 있다."}
+{"k": "item:Submachine-gun Type CF05 (9mm):name", "ko": "CF05식 (9x19 mm)"}
+{"k": "item:Submachine-gun Type CF05 (9mm):desc", "ko": "CF05 기관단총은 블로백 방식이다. 반투명 폴리머로 만든 50발들이 나선 탄창이 총 위쪽에 달려 있다. 개방형 가늠자를 갖췄고, 가늠쇠 뒤쪽에 광학 장비용 레일이 있다. 총열에 나사산이 있어 소음기를 달 수 있다. 개머리판은 신축식이며 폴리머 소재다."}
+{"k": "item:Submachine-gun Type CF05 (9mm) folded:name", "ko": "CF05식 (9x19 mm) 접은 상태"}
+{"k": "item:Pistol Daewoo DP-51 (9mm):name", "ko": "대우 DP-51 (9x19 mm)"}
+{"k": "item:Pistol Daewoo DP-51 (9mm):desc", "ko": "대우정밀공업 K5는 대한민국 S&T대우가 생산한 9mm 반자동 권총이다. 작고 가벼우며 ‘패스트 액션’이라는 독특한 방아쇠 기구를 갖췄다. 프레임은 무광 처리한 알루미늄 합금, 슬라이드는 청화 처리한 강철이다. 1989년에 생산되었다. 반동 작동식이며 일반적인 브라우닝식 잠금 장치를 쓴다."}
+{"k": "item:Assault Rifle StG.44 (7.92mm Kurz):desc", "ko": "StG 44 소총은 2차 대전 중 나치 독일이 개발한 돌격소총으로, 이런 종류로는 처음으로 대규모 배치되었다. 많은 역사가가 최초의 현대식 돌격소총으로 꼽는다."}
+{"k": "item:Submachine-gun Daewoo K7 (9mm):name", "ko": "대우 K7 (9x19 mm)"}
+{"k": "item:Submachine-gun Daewoo K7 (9mm):desc", "ko": "대우정밀공업 K7은 K1A 보병 소총을 바탕으로 기관부와 신축식 개머리판을 그대로 가져왔다. 아음속 9mm탄을 쓰므로 K1A의 가스 직동식이 필요 없어, 단순한 블로백 방식을 쓴다. 단발, 3점사, 자동의 세 가지 사격 방식이 있다. 다만 자동 사격을 하면 소음기의 차폐판이 금방 망가진다."}
+{"k": "item:Sniper Rifle WA 2000 (7.62x51):desc", "ko": "WA 2000은 카를 발터 스포츠무기사가 생산한 반자동 불펍 저격소총이다. 1970년대 말에서 1980년대 초에 설계되었다. 불펍 설계를 택한 것은 (저격소총으로서) 표준 길이의 총열을 쓰면서도 전체 길이를 일반 소총보다 짧게 할 수 있어서였다."}
+{"k": "item:Assault Rifle RTS-ZK-SD (7.62x39mm):desc", "ko": "7.62x39mm탄을 쓰는 소음기 일체형 AK-47. 총열은 8.5인치. 소음기에는 인코넬 폭발실과 모노코어 차폐판이 들어 있다. 시중에서 가장 조용한 AK."}
+{"k": "item:Submachine-gun PP-19 Vityaz (9mm):name", "ko": "PP-19-01 비탸지 (9x19 mm)"}
+{"k": "item:Submachine-gun PP-19 Vityaz (9mm):desc", "ko": "PP-19-01 ‘비탸지’는 그다지 성공하지 못한 PP-19 ‘비존’에서 발전했다. 전작처럼 단순한 블로백 방식의 AKS-74U 소형 돌격소총을 바탕으로 하지만, 더 일반적인 상자형 탄창을 쓰고 지금 러시아의 표준인 더 강력한 9x19탄을 쓴다."}
+{"k": "item:Submachine-gun PP-19 Vityaz sn(9mm):name", "ko": "PP-19-01 비탸지 SN (9x19 mm)"}

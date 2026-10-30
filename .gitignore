@@ -1,0 +1,17 @@
+# analysis, build output and anything holding original game text stay local
+analysis/
+build/
+dist/
+trans/src/
+trans/raw/
+trans/keys.json
+trans/_cur.txt
+trans/bsq_skipped.txt
+*.png
+__pycache__/
+*.obj
+*.exp
+*.lib
+tools/decomp.ps1
+tools/ghidra.ps1
+tools/ghidra_scripts/

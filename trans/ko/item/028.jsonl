@@ -1,0 +1,74 @@
+{"k": "item:Rifle ammo clip (SIG551/10):desc", "ko": "SG-551 카빈용 표준 10발들이 5.56mm 상자형 탄창."}
+{"k": "item:silver_ammo_box:name", "ko": "은탄환 상자"}
+{"k": "item:silver_ammo_box:desc", "ko": "유령, 늑대인간 같은 동화 속 괴물 사냥용으로 특별히 만든 은탄환 한 상자."}
+{"k": "item:cure:name", "ko": "약"}
+{"k": "item:cure:desc", "ko": "값비싼 피나두린 한 달 치. 캄페시노 의사의 동생이 살려면 이게 필요하다."}
+{"k": "item:small_flag:name", "ko": "알헤이라 국기가 그려진 수첩 달력"}
+{"k": "item:small_flag:desc", "ko": "작은 수첩 달력. 앞면에 알헤이라 국기가 그려져 있다. 색깔은 빨강, 검정, 파랑, 하양이다."}
+{"k": "item:secret_map:desc", "ko": "비밀 장소가 표시된 지도. 잃어버리지 않는 게 좋다!"}
+{"k": "item:Backpack_reid:name", "ko": "레인저 배낭"}
+{"k": "item:Backpack_reid:desc", "ko": "무기와 탄약을 나르도록 설계된 배낭으로, 짧은 도보 이동에 이상적이다."}
+{"k": "item:Backpack_tactic:name", "ko": "전술 배낭"}
+{"k": "item:Backpack_tactic:desc", "ko": "중화기를 나르도록 설계된 전술 배낭으로, 개활지를 이동할 때 알맞다."}
+{"k": "item:Backpack_tourist:name", "ko": "등산 배낭"}
+{"k": "item:Backpack_tourist:desc", "ko": "가벼운 무기와 탄약을 먼 거리로 나르기에 알맞은 등산 배낭."}
+{"k": "item:Razgr_molle:name", "ko": "몰리 전술 조끼"}
+{"k": "item:Razgr_molle:desc", "ko": "탄창, 수류탄 등 작은 탄약 물품을 넣을 수 있는 전술 조끼."}
+{"k": "item:Razgr_smerch:name", "ko": "스메르시 전술 조끼"}
+{"k": "item:Razgr_smerch:desc", "ko": "여러 탄약 물품을 편하게 넣을 수 있는 전술 조끼."}
+{"k": "item:Belt_01:desc", "ko": "탄약 파우치를 달고 탄창 여러 개를 넣을 수 있는 전술 벨트."}
+{"k": "item:Belt_02:name", "ko": "경량 전술 벨트"}
+{"k": "item:Belt_02:desc", "ko": "탄약 파우치를 달고 작은 물건을 넣을 수 있는 전술 벨트."}
+{"k": "item:Belt_03:name", "ko": "개량형 경량 전술 벨트"}
+{"k": "item:Belt_03:desc", "ko": "탄약 파우치를 달고 작은 물건을 넣을 수 있는 개량형 경량 전술 벨트."}
+{"k": "item:Helmet M1:name", "ko": "PASGT 헬멧"}
+{"k": "item:Helmet M1:desc", "ko": "지상군 개인 방호 체계(PASGT)는 1980년대 미군이 채용한 방탄조끼와 헬멧으로 이루어진다. 케블러 헬멧은 파편과 둔기 충격으로부터 머리를 보호한다. II급 방호력을 제공한다. 총탄에는 그다지 효과적이지 않다."}
+{"k": "item:Money:name", "ko": "엘도 한 줌"}
+{"k": "item:Money:desc", "ko": "엘도는 알헤이라의 공식 화폐다. 발명자 안토니오 엘도의 이름을 땄다. 알헤이라에는 쉽게 돈을 벌려고 물불 안 가리는 절박한 사람이 많으니, 이런 현금은 남의 눈에 띄지 않게 하는 게 좋다."}
+{"k": "item:MICH Helmet:name", "ko": "MICH 헬멧"}
+{"k": "item:MICH Helmet:desc", "ko": "모듈식 통합 통신 헬멧(MICH)은 미군이 쓰는 전투 헬멧이다. 비슷한 다른 헬멧보다 보호 범위가 넓으면서도 시야를 덜 가린다. 대체하는 PASGT 헬멧보다 450g 가볍고, 방호력은 훨씬 좋다."}
+{"k": "item:Helmet Vitiaz:name", "ko": "VITYAZ-S 강철 헬멧"}
+{"k": "item:Helmet Vitiaz:desc", "ko": "총탄, 파편 등의 위협으로부터 머리 전체를 보호하는 전투 헬멧."}
+{"k": "item:Ammo Box (23b):name", "ko": "바리카다 탄약 상자"}
+{"k": "item:Ammo Box (23b):desc", "ko": "KS-23 카빈용 바리카다탄 상자."}
+{"k": "item:Ammo Box (23s10):name", "ko": "슈라프넬-10 탄약 상자"}
+{"k": "item:Ammo Box (23s10):desc", "ko": "KS-23 카빈용 슈라프넬-10탄 상자."}
+{"k": "item:Ammo Box (23s25):name", "ko": "슈라프넬-25 탄약 상자"}
+{"k": "item:Ammo Box (23s25):desc", "ko": "KS-23 카빈용 슈라프넬-25탄 상자."}
+{"k": "item:Ammo box (23v):name", "ko": "볼나-R 탄약 상자"}
+{"k": "item:Ammo box (23v):desc", "ko": "KS-23 카빈용 볼나-R탄 상자."}
+{"k": "item:Tactical Armor Wildkat:name", "ko": "와일드캣 은닉형 방탄조끼"}
+{"k": "item:Tactical Armor Wildkat:desc", "ko": "평상복 안에 입는 얇고 몸에 꼭 맞는 은닉형 케블러 조끼. 소구경 탄은 효과적으로 막지만 대구경 탄이나 큰 폭발 파편에는 효과가 없다. 추가 방탄판을 한 장 넣을 수 있다."}
+{"k": "item:Tactical Armor Vizov:name", "ko": "비조프 은닉형 방탄조끼"}
+{"k": "item:Tactical Armor Vizov:desc", "ko": "평상복 안에 입는 얇고 몸에 꼭 맞는 은닉형 케블러 조끼. IIIA급 방호력을 제공하며 추가 방탄판을 한 장 넣을 수 있다."}
+{"k": "item:Heavy Armor Bastion:name", "ko": "바스티온 중량급 방탄조끼"}
+{"k": "item:Heavy Armor Bastion:desc", "ko": "원단 설계를 개량해 보호 범위를 최대로 넓힌 중량급 방탄조끼. 새로운 ‘마크 56’ 방탄강을 썼다. IV~V급 방호력을 제공하며 추가 세라믹 방탄판용 파우치가 있다."}
+{"k": "item:Heavy Armor Predator:name", "ko": "프레데터 중량급 방탄조끼"}
+{"k": "item:Heavy Armor Predator:desc", "ko": "IV~V급 방호력을 제공하는 중량급 프레데터 방탄조끼. 추가 세라믹 방탄판용 파우치가 있다."}
+{"k": "item:Tactical Armor SWAT:name", "ko": "SWAT 방탄조끼"}
+{"k": "item:Tactical Armor SWAT:desc", "ko": "대테러 부대(SWAT)용으로 개발된 방탄조끼로, 권총탄과 일부 더 강력한 탄을 막아 준다."}
+{"k": "item:dynamite:name", "ko": "다이너마이트"}
+{"k": "item:dynamite:desc", "ko": "싸고 원시적인 이 폭약은 거친 파괴 작업이라면 무엇이든 맞는다. 바위에 터널 뚫기, 시가지 한 블록 날려 버리기, 말만 하시길."}
+{"k": "item:govern_money_case:desc", "ko": "이른바 산타마리아 시장에게 줄 현금이 가득 든 서류 가방."}
+{"k": "item:20K_Money:name", "ko": "케라노의 돈"}
+{"k": "item:20K_Money:desc", "ko": "케라노의 돈이다."}
+{"k": "item:Sniper Rifle SKS Russkiy (7.62x39mm):desc", "ko": "시모노프 SKS 카빈은 7.62x39mm탄을 쓰는 가스 작동식 반자동 카빈이다. 피스톤은 총열 위에 있다."}
+{"k": "item:Pistol M712 (7.63mm):name", "ko": "M712 브룸핸들 (7.62x25 mm)"}
+{"k": "item:Pistol M712 (7.63mm):desc", "ko": "마우저 M712는 그 유명한 마우저 C-96 반자동 권총의 후기 자동형이다. 10발·20발, 심지어 40발 탄창도 쓸 수 있다. 왼쪽에 조정간이 있다. 발사 속도는 분당 900~1,000발이다."}
+{"k": "item:Carabine M712 (7.63mm):name", "ko": "M712 카빈 (7.62x25 mm)"}
+{"k": "item:Carabine M712 (7.63mm):desc", "ko": "M712 카빈은 마우저 M712 권총을 바탕으로 한다. 고정식 개머리판과 더 긴 총열 덕분에 권총보다 정확도가 크게 높다. 세계 최초의 자동장전 권총 가운데 하나인 마우저 C96 반자동 권총이 바탕이다. 총열과 기관부를 한 번에 단조해 만들어 수명에 좋지 않다. 10발·20발 분리식 탄창을 쓴다."}
+{"k": "item:Assault Rifle AKMN (7.62x39mm):desc", "ko": "7.62x39탄을 쓰는 AKM 돌격소총의 야간 전투형. 다른 개조점 외에도 왼쪽에 AK형 조준경 마운트가 있다.\\n조정간은 반자동과 자동을 지원한다. 표준 AK 30발들이 7.62x39 탄창과 대용량 RPK 탄창을 쓴다."}
+{"k": "item:Bizon 2b (9mm):name", "ko": "비존 2-03 (9mm Makarov)"}
+{"k": "item:Bizon 2b (9mm):desc", "ko": "90년대 초 러시아 특수부대를 위해 개발된 소음 기관단총. 칼라시니코프 소총을 바탕으로 하며 9x18mm탄을 쓴다.\\n신뢰성과 화력이 높은 중기관단총으로 판매된다. 접이식 개머리판 덕분에 운반하기 쉽다. 반자동과 자동으로 사격할 수 있다. AK형 마운트 조준경도 장착할 수 있다. 전용 64발들이 9x18mm 나선 탄창을 쓴다."}
+{"k": "item:Calico M950 (9 mm):name", "ko": "캘리코 M960 (9x19 mm)"}
+{"k": "item:Calico M950 (9 mm):desc", "ko": "캘리코 기관단총은 설계, 개념, 외형 모두 다소 기묘하고 꽤 악명 높다. 핵심 특징은 매우 큰 탄창 용량에 날씬한 외형과 양손 조작성을 겸비했다는 것이다. 가장 흥미로운 특징은 위에 얹는 원통형 대용량 탄창으로, 50발 또는 100발이 들어간다. 대부분 플라스틱으로 된 이 탄창은 원통 안쪽 벽에 나선형 안내 홈이 있고, 가운데에서 회전하는 “송탄판”이 탄을 원통 안의 나선 궤도를 따라 움직이게 한다."}
+{"k": "item:FN FALO 50.41 (7.62mm):desc", "ko": "FN FAL 전투 소총의 분대 지원 화기 변형. 무거운 총열과 일체형 양각대를 갖췄다. 단발과 자동을 지원한다. 많은 나라가 자동 사격 기능을 없애고 사냥용 조준경을 달아 가난한 자의 지정사수 소총으로 썼다. 전용 7.62x51mm 탄창을 쓴다."}
+{"k": "item:Minimi Para:name", "ko": "FN 미니미 파라 (5.56x45 mm)"}
+{"k": "item:Minimi Para:desc", "ko": "FN 미니미 경기관총의 공수부대형으로, 13.7인치 총열과 신축식 개머리판을 갖췄다. 영국군에서는 L110A1이라 부른다. 자동 사격만 된다. 탄약 상자에 든 탄띠로 급탄한다. 분리식 M16 탄창도 쓸 수 있다."}
+{"k": "item:Assault Rifle HK G11 K2 (4.7mm):desc", "ko": "G11 K2는 독일 연방군을 위해 개발된 돌격소총 시제품으로, 미국 첨단 전투 소총(ACR) 사업에도 참가했다. 총열과 급탄 기구가 총 몸체 안에서 반동을 흡수하는 독특한 설계 덕분에, 이전 소총보다 연사 점사가 더 정확하다.\\n반자동, 자동, 3점사의 세 가지 사격 방식이 있다. 전용 1배율 광학 조준경과 위버 레일 마운트를 쓰는 다른 조준경을 장착할 수 있다. 45발들이 4.7x33mm 탄창을 쓴다."}
+{"k": "item:Jackhammer Mk3A1 (12ga):name", "ko": "잭해머 Mk3A2 (Jackshot)"}
+{"k": "item:Jackhammer Mk3A1 (12ga):desc", "ko": "팬코사가 설계한 이 전투 산탄총은 세계에 몇 안 되는 자동 산탄총 가운데 하나다. 독특한 설계에 특이한 10발들이 드럼 탄창을 쓴다. 자동 사격을 할 수 있다. 설계진은 특별한 경우를 위해 이 산탄총용 소음기도 만들었다."}
+{"k": "item:Micro UZI (9mm):name", "ko": "마이크로 UZI (9x19 mm)"}
+{"k": "item:Micro UZI (9mm):desc", "ko": "그 유명한 이스라엘 기관단총의 초소형 기관권총 변형으로, 법을 지키는 쪽에서도 어기는 쪽에서도 전 세계적으로 인기가 있다. 가볍고 쓰기 쉬우며, 무엇보다 싸다. 반자동과 자동을 지원한다. 소음기를 장착할 수 있다. 표준 20발·25발·32발 9mm 파라벨룸 탄창을 쓴다."}
+{"k": "item:Obrez Mosin (7.62mm):name", "ko": "총신을 자른 모신나강 1891/30 (7.62x54mmR)"}
+{"k": "item:Obrez Mosin (7.62mm):desc", "ko": "총신을 짧게 자른 모신나강 1891/30 소총. 정확도는 떨어지지만 숨기기 쉬워 분명 쓸모가 있다."}

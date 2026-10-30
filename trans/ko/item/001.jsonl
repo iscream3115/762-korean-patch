@@ -1,0 +1,62 @@
+{"k": "item:Rifle ammo clip_T (G36/30):desc", "ko": "G36 계열 소총용 표준 30발들이 5.56mm 검은색 상자형 탄창."}
+{"k": "item:G36E_T (5.56mm):desc", "ko": "G36 돌격소총의 수출형으로, 독일 육군형과 다른 점은 내장 전자식 도트 조준기가 빠진 것뿐이다. 매우 정확하고 신뢰성이 높다. 1.5배율 광학 조준경이 내장되어 있다.\\n반자동, 자동, 2점사를 지원한다. M203PI 총열 하부 유탄발사기, 소음기, 레이저 조준 모듈, 전술 조명, 대검을 장착할 수 있다. 표준 G36 5.56mm 탄창을 쓴다."}
+{"k": "item:G36_T (5.56mm):desc", "ko": "H&K G36 돌격소총은 90년대 중반 독일 연방군을 위해 개발되어 채용되었다. 매우 정확하고 신뢰성이 높다. 3.5배율 조준경과 전자식 도트 조준기가 내장되어 있다.\\n반자동, 자동, 2점사를 지원한다. M203PI 총열 하부 유탄발사기, 소음기, 레이저 조준 모듈, 전술 조명, 대검을 장착할 수 있다. 표준 G36 5.56mm 탄창을 쓴다."}
+{"k": "item:G36C_T (5.56mm):desc", "ko": "G36C는 H&K G36 돌격소총의 소형 버전으로, 경찰과 특수부대용으로 개발되었다. 신뢰성과 정확도가 높고 다루기 매우 쉽다.\\n반자동, 자동, 2점사를 지원한다. WR형 마운트 조준경, 소음기, 레이저 조준 모듈, 전술 조명을 장착할 수 있다. 표준 G36 5.56mm 탄창을 쓴다."}
+{"k": "item:G36KE_T (5.56mm):desc", "ko": "G36 돌격소총의 수출용 카빈형으로, 독일 육군형과 다른 점은 내장 조준경이 빠진 것뿐이다. 매우 정확하고 신뢰성이 높다. 1.5배율 광학 조준경이 내장되어 있다.\\n반자동, 자동, 2점사를 지원한다. M203PI 총열 하부 유탄발사기와 소음기를 장착할 수 있다. 표준 G36 5.56mm 탄창을 쓴다."}
+{"k": "item:Assault Rifle CZ-805 Bren A2 (5.56mm):desc", "ko": "CZ 805 돌격소총은 접이식 기계식 가늠자를 갖췄고, 기관부 위에 일체형 피카티니 레일이 있어 다양한 조준 장비(도트나 망원 주간 조준경, 야간 조준경, 레이저 등)를 달 수 있다. 측면 접이식 개머리판은 길이 조절이 된다. 반투명 폴리머로 만든 전용 5.56x45 구경 30발 탄창을 쓴다."}
+{"k": "item:KrebsTR16 TAN (5.56mm):desc", "ko": "16인치 총열, Tango Down 앞손잡이, Krebs Custom 후방 가늠자 레일 시스템, TDI 권총 손잡이, Krebs Custom 강화 안전장치, Krebs Custom AMD 어댑터 블록, MagPul CTR 신축식 개머리판이 달린 ACE 접이식 개머리판 기구를 갖춘 Krebs 커스텀 AK. 반자동과 자동을 지원한다. 표준 20발·30발 5.56x45mm 탄창을 쓴다."}
+{"k": "item:KrebsTR12 TAN (5.56mm):desc", "ko": "12인치 총열, Tango Down 앞손잡이, Krebs Custom 후방 가늠자 레일 시스템, TDI 권총 손잡이, Krebs Custom 강화 안전장치, Krebs Custom AMD 어댑터 블록, KCI 4면 피카티니 레일 전방부, MagPul CTR 신축식 개머리판이 달린 ACE 접이식 개머리판 기구를 갖춘 Krebs 커스텀 AK. 반자동과 자동을 지원한다. STANAG 규격 20발·30발 5.56x45mm 탄창을 쓴다."}
+{"k": "item:KrebsTR12t TAN (5.56mm):desc", "ko": "12인치 총열, Tango Down 앞손잡이, Krebs Custom 후방 가늠자 레일 시스템, TDI 권총 손잡이, Krebs Custom 강화 안전장치, Krebs Custom AMD 어댑터 블록, KCI 4면 피카티니 레일 전방부, MagPul CTR 신축식 개머리판이 달린 ACE 접이식 개머리판 기구를 갖춘 Krebs 커스텀 AK. 반자동과 자동을 지원한다. STANAG 규격 20발·30발 5.56x45mm 탄창을 쓴다."}
+{"k": "item:Sniper Rifle DSR1 B (7.62x51mm):name", "ko": "DSR-1 블랙 (7.62x51 mm)"}
+{"k": "item:Sniper Rifle DSR1 B (7.62x51mm):desc", "ko": "DSR-1은 불펍 구조에 플로팅 총열을 쓴다. 접이식 양각대는 총열 위쪽 레일에, 조절식 수평 앞손잡이는 총열 아래쪽 레일에 달려 있다. 개머리판과 뺨받침을 완전히 조절할 수 있다. 노리쇠에는 총열에 직접 맞물리는 방사형 돌기 6개가 있다. 방아쇠는 조절식 2단이다. 방아쇠울 위에 양손잡이용 3단 수동 안전장치가 있다. 기관부와 총열 덮개 위에 조준경과 부속품(예: 야간 조준 장치)용 연장 피카티니 레일이 달려 있다. 필요한 조준경은 무엇이든 달 수 있고, 조용히 처리해야 하는 곤란한 상황을 위해 소음기도 장착할 수 있다."}
+{"k": "item:Sniper Rifle L96A1 Mod B (.338 Lapua):desc", "ko": "인기 있는 L96A1 저격소총의 이 버전은 스테판 우리베가 손수 새 총열과 기관부를 달았다. 강력한 .338 라푸아탄을 쓰며 관통력은 .50 BMG탄마저 능가한다. 말 그대로 일발필살의 소총이다. 즐기시길."}
+{"k": "item:Optical Sight L96A1 Camo:name", "ko": "류폴드 조준경"}
+{"k": "item:Optical Sight L96A1 Camo:desc", "ko": "AW L96A1 소총용 10배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다. 장거리에서 매우 정확하다."}
+{"k": "item:Sniper Rifle TRG-42 B (.338 Lapua):name", "ko": "Sako TRG-42 블랙 (.338 Lapua)"}
+{"k": "item:Sniper Rifle TRG-42 B (.338 Lapua):desc", "ko": "TRG 시스템은 목적에 충실한 설계, 악조건에서의 신뢰성, 꾸준한 정확도를 갖췄다. 핵심은 냉간 단조한 기관부와 총열로, 최소한의 무게로 최대의 강도와 뛰어난 내마모성을 낸다. 노리쇠 손잡이는 길이가 적당하고 커다란 합성 둥근 손잡이가 달려 단단히 쥘 수 있다. 오른손잡이와 왼손잡이 모두를 위한 접이식 골격형 개머리판을 갖췄다."}
+{"k": "item:Sniper Rifle TRG-42 T (.338 Lapua):name", "ko": "Sako TRG-42 탄색 (.338 Lapua)"}
+{"k": "item:Shotgun m3_super90 Wood (12ga):desc", "ko": "베넬리 M3 Super 90 전투 산탄총은 M1 반자동 산탄총의 개량형이다. 전 세계 법 집행 기관에서 널리 쓰인다. 7발들이 내장 탄창을 갖췄다."}
+{"k": "item:Shotgun M1014 Wood (12ga):desc", "ko": "베넬리 아르미사가 설계한 가스 작동식 전투 산탄총. 미군이 M1014로 채용했다. 이 변형은 고정식 개머리판을 쓴다.\\nM1014는 위버 레일형 조준경 마운트를 갖췄다. 반자동이며 12게이지 산탄 7발들이 내장 탄창을 쓴다."}
+{"k": "item:Remington M870 Magnum Wood (12ga):desc", "ko": "레밍턴 870 12게이지 펌프 액션 산탄총을 법 집행 기관과 군용으로 만든 변형. 탄창이 커져 7발이 들어가고, WR형 마운트에 광학 조준경을 달 수 있다. 단발 사격만 된다."}
+{"k": "item:KRISS Super V Black (.45 ACP):name", "ko": "KRISS Super V 블랙 (.45 ACP)"}
+{"k": "item:KRISS Super V Black (.45 ACP):desc", "ko": "헷갈리지 마시길. V는 로마 숫자 5가 아니다. 다섯 번 만에 제대로 만든 총이 아니라, 버지니아의 KRISS USA가 처음부터 제대로 만들었다. 설계는 일반 기관단총과 완전히 다르다. 노리쇠가 사수의 어깨 쪽으로 앞뒤로 움직이는 대신 사수의 손 쪽으로 아래로 움직여, 보통 총구를 들어 올리는 반동을 상쇄한다. 분당 1,000발의 발사 속도와 뛰어난 제어성 덕분에 수많은 악당을 자신 있게 상대할 수 있다."}
+{"k": "item:KRISS Super V Black (.45 ACP) folded:name", "ko": "KRISS Super V  블랙 (.45 ACP)"}
+{"k": "item:KRISS Super V Black (.45 ACP) folded:desc", "ko": "헷갈리지 마시길. V는 로마 숫자 5가 아니다. 다섯 번 만에 제대로 만든 총이 아니라, 버지니아의 KRISS USA가 처음부터 제대로 만들었다. 설계는 일반 기관단총과 완전히 다르다. 노리쇠가 사수의 어깨 쪽으로 앞뒤로 움직이는 대신 사수의 손 쪽으로 아래로 움직여, 보통 총구를 들어 올리는 반동을 상쇄한다. 분당 1,000발의 발사 속도와 뛰어난 제어성 덕분에 수많은 악당을 자신 있게 상대할 수 있다."}
+{"k": "item:Pistol Beretta 92FS INOX (9mm):desc", "ko": "베레타 92FS는 널리 쓰이는 베레타 92F 9mm를 더 개량한 모델로, 9x19mm 파라벨룸탄을 쓴다. 군용 규격 92FS는 미군에 M9 권총으로 채용되었다. 표준 15발 탄창을 쓴다."}
+{"k": "item:Pistol Browning-hp S (9mm):name", "ko": "은도금 브라우닝 하이파워 (9x19 mm)"}
+{"k": "item:Pistol Browning-hp S (9mm):desc", "ko": "브라우닝 HP 반자동 권총은 1934년부터 생산되었다. 대용량 복열 탄창을 쓴 최초의 군용 권총이다. 탄창에 13발이 들어간다."}
+{"k": "item:Rifle ammo clip Bak (AK 5.45/30):name", "ko": "상자형 탄창 베이클라이트 (AK 5.45/30)"}
+{"k": "item:Rifle ammo clip Bak (AK 5.45/30):desc", "ko": "칼라시니코프 돌격소총용 표준 30발들이 5.56x45mm 상자형 탄창."}
+{"k": "item:Magpul PMAG Tan Window (M16/30):name", "ko": "상자형 탄창 탄색 (M16 5.56/30)"}
+{"k": "item:Black Minimi-MK46:desc", "ko": "FN 미니미 경기관총의 특수 목적 무기 버전으로, 미 특수작전부대를 위해 개발되어 미군 규격에 맞게 개조되었다. 광학 조준경, 레이저 조준 모듈, 전술 조명용 위버 레일 마운트를 갖췄다. 매우 효과적이고 쓰기 쉬우며 신뢰성이 높다.\\n자동 사격만 된다. 탄약 상자에 든 탄띠로 급탄한다. 무게를 줄이려고 M16 탄창 급탄 장치를 없앴다."}
+{"k": "item:Black Minimi-MK48:desc", "ko": "Mk 48 Mod 0 경기관총은 미 특수작전사령부(USSOCOM)의 요구에 따라 FN 미니미를 다시 설계한 것이다. 새로운 7.62mm NATO탄을 쓴다. 매우 효과적이고 쓰기 쉬우며 신뢰성이 높다. 미군이 쓰는 같은 급의 다른 기관총보다 훨씬 가볍다.\\n자동 사격을 지원하며 표준 M60 탄띠 상자를 쓴다. 레이저 조준 모듈, 광학 조준경, 전술 조명을 장착할 수 있다."}
+{"k": "item:KRISS Super V (.45 ACP):name", "ko": "KRISS Super V 그레이 (.45 ACP)"}
+{"k": "item:Magpul PMAG SIG (SIG551/30):desc", "ko": "SIG-551 카빈용 Magpul PMAG 30발들이 5.56mm 상자형 탄창."}
+{"k": "item:US Palm AK30 (AK 7.62/30):name", "ko": "US Palm 탄창 (AK 7.62/30)"}
+{"k": "item:US Palm AK30 (AK 7.62/30):desc", "ko": "칼라시니코프 돌격소총용 US Palm 30발들이 7.62x39mm 상자형 탄창."}
+{"k": "item:Minimi mag Alt (Minimi 5.56/100):name", "ko": "탄띠 상자 (Minimi 5.56mm/100)"}
+{"k": "item:Minimi mag Alt (Minimi 5.56/100):desc", "ko": "100발짜리 분리식 링크 탄띠가 든 탄약 상자. 미니미 경기관총에 급탄한다."}
+{"k": "item:Minimi mag Alt (Minimi 5.56/200):name", "ko": "탄띠 상자 (Minimi 5.56mm/200)"}
+{"k": "item:Minimi mag Alt (Minimi 5.56/200):desc", "ko": "200발짜리 분리식 링크 탄띠가 든 탄약 상자. 미니미 경기관총에 급탄한다."}
+{"k": "item:Chain-gun ammo box Alt (M60 7.62x51/100):name", "ko": "탄띠 (M60 7.62x51/100)"}
+{"k": "item:Chain-gun ammo box Alt (M60 7.62x51/100):desc", "ko": "7.62x51mm탄 100발을 연결한 탄띠가 든 탄약 상자. M60 다목적 기관총에 급탄한다."}
+{"k": "item:Hazmat:name", "ko": "방호복"}
+{"k": "item:Hazmat_Tank:name", "ko": "산소통"}
+{"k": "item:Hazmat_Tank:desc", "ko": "이 산소통은 방호복과 함께만 쓸 수 있다. :P"}
+{"k": "item:Binoculars:name", "ko": "쌍안경"}
+{"k": "item:Binoculars:desc", "ko": "숨은 적을 발견할 확률을 높여 주는 전술 관광 장비."}
+{"k": "item:NewUni01:name", "ko": "블루 선 전문가 제복"}
+{"k": "item:NewUni01:desc", "ko": "블루 선 전문가 제복. 위장 5단계."}
+{"k": "item:NewUni02:name", "ko": "블루 선 용병 제복"}
+{"k": "item:NewUni02:desc", "ko": "블루 선 용병 제복. 위장 6단계."}
+{"k": "item:NewUni05:name", "ko": "블루 선 병사 제복"}
+{"k": "item:NewUni05:desc", "ko": "블루 선 병사 제복. 위장 5단계."}
+{"k": "item:NewUni03:name", "ko": "노예복"}
+{"k": "item:NewUni03:desc", "ko": "알헤이라 노예용 옷"}
+{"k": "item:NewUni11:name", "ko": "CADPAT 위장복"}
+{"k": "item:NewUni11:desc", "ko": "CADPAT은 캐나다 교란 무늬 위장복의 약자다. 이런 데서 이걸 찾을 줄 누가 알았겠어? 위장 7단계."}
+{"k": "item:NewUni12:name", "ko": "디지털 멀티캠 위장복"}
+{"k": "item:NewUni12:desc", "ko": "디지털 멀티캠 위장복은 사실 어느 나라 군대가 개발한 것도 아니지만 효과가 좋고, 드물게 이름이 내용을 솔직하게 설명한다. 위장 7단계."}
+{"k": "item:NewUni13:name", "ko": "독일 플렉타른 위장복"}
+{"k": "item:NewUni13:desc", "ko": "독일 플렉타른 위장복은 2차 대전 때 군이 쓰던 위장 무늬와 매우 비슷하지만, 현대화되어 더 낫다. 얼마나 나은지 러시아 공수부대(VDV)도 지금 이걸 쓴다. 위장 7단계."}
+{"k": "item:NewUni14:name", "ko": "MARPAT 위장복"}

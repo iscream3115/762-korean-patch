@@ -1,0 +1,78 @@
+{"k": "item:57-H-181C:desc", "ko": "옛 바르샤바 조약국 여러 나라가 채용한 표준 9x18mm 권총탄. 근거리의 비장갑 표적에 효과적이다."}
+{"k": "item:7N16:name", "ko": "7N16 탄"}
+{"k": "item:7N16:desc", "ko": "탄두를 가볍게 하고 장약을 크게 늘린 개량형 9x18mm탄. 총구 속도가 훨씬 높아 사거리와 저지력이 늘지만, 그 대가로 무기의 내구도가 떨어진다."}
+{"k": "item:SP-7:name", "ko": "SP-7 탄"}
+{"k": "item:SP-7:desc", "ko": "플라스틱 심 탄두를 쓴 9x18mm 마카로프탄으로, 근거리와 중거리에서 효과적이다. 관통력이 낮아 비장갑 표적에만 효과적이다."}
+{"k": "item:PBM:name", "ko": "PBM 탄"}
+{"k": "item:PBM:desc", "ko": "9x18mm 철갑탄. 가벼운 탄두와 강력한 장약으로 총구 속도와 저지력을 높였다. 하지만 탄두가 가벼워 속도를 빨리 잃으므로 먼 거리에서는 덜 효과적이다."}
+{"k": "item:Ammo .40 S&W:name", "ko": ".40 S&W 탄"}
+{"k": "item:Ammo .40 S&W:desc", "ko": "비교적 최근에 개발된 무테 권총탄으로, 전 세계 경찰, 군, 특수부대가 널리 채용했다. 뛰어난 탄도 성능과 높은 관통력으로 잘 알려져 있다."}
+{"k": "item:Mag .44:name", "ko": ".44 매그넘탄"}
+{"k": "item:Mag .44:desc", "ko": "강력한 대구경탄인 .44 매그넘은 세계에서 가장 강력한 양산 권총탄 가운데 하나다."}
+{"k": "item:VOG-25:desc", "ko": "GP-25 총열 하부 유탄발사기용 무탄피 파편 유탄. 폭발하면 파편을 흩뿌려 살상 반경을 만든다. 사수에게서 10m 떨어지면 안전장치가 풀린다. 표적에 맞지 않으면 발사 14초 뒤 자폭 장치가 터뜨린다."}
+{"k": "item:VOG-25P:desc", "ko": "GP-25 총열 하부 유탄발사기용 도약 파편 유탄. 참호나 가벼운 엄폐물 뒤에 숨은 표적에 매우 효과적이다. 도약 장치가 유탄을 2m 높이로 튀어 오르게 해 공중에서 터진다. 사수에게서 10m 떨어지면 안전장치가 풀린다. 표적에 맞지 않으면 발사 14초 뒤 자폭 장치가 터뜨린다."}
+{"k": "item:M407 Smoke:name", "ko": "M407 연막 유탄"}
+{"k": "item:M407 Smoke:desc", "ko": "M203 발사기와 호환되는 40mm 연막 유탄. 사수의 위치나 이동을 가리는 차폐용으로 쓴다. 어떤 조명 환경에서도 효과적이다."}
+{"k": "item:M406 HE:name", "ko": "M406 고폭 유탄"}
+{"k": "item:M406 HE:desc", "ko": "M203 발사기와 호환되는 40mm 고폭 파편 유탄. 폭발하면 파편을 흩뿌리는 것과 함께 강력한 충격파를 만든다. 사수에게서 27m 떨어지면 안전장치가 풀린다. 표적에 맞지 않으면 발사 10초 뒤 자폭 장치가 터뜨린다."}
+{"k": "item:M433A1 HEDP:name", "ko": "M433A1 이중목적 고폭 유탄"}
+{"k": "item:M433A1 HEDP:desc", "ko": "M203 발사기와 호환되는 40mm 이중목적 고폭 유탄. 폭발하면 파편을 흩뿌린다. 사수에게서 27m 떨어지면 안전장치가 풀린다. 표적에 맞지 않으면 발사 10초 뒤 자폭 장치가 터뜨린다."}
+{"k": "item:M397A1 HE:name", "ko": "M397A1 고폭 유탄"}
+{"k": "item:M397A1 HE:desc", "ko": "M203 발사기와 호환되는 40mm 공중폭발 파편 유탄. 밀폐된 공간의 비장갑 적과 경장갑 차량에 특히 효과적이다. 사수에게서 27m 떨어지면 안전장치가 풀린다. 표적에 맞지 않으면 발사 10초 뒤 자폭 장치가 터뜨린다."}
+{"k": "item:RPG-18 Grenade:name", "ko": "로켓 유탄"}
+{"k": "item:RPG-18 Grenade:desc", "ko": "RPG-18 발사기용 고폭 로켓 유탄"}
+{"k": "item:RPG-7 Grenade:name", "ko": "PG-7V 유탄"}
+{"k": "item:RPG-7 Grenade:desc", "ko": "RPG-7 발사기용 PG-7V 대전차 고폭(HEAT) 로켓 유탄. 장갑 차량용이다"}
+{"k": "item:RPG-7 Grenade 2:name", "ko": "OG-7V 유탄"}
+{"k": "item:RPG-7 Grenade 2:desc", "ko": "대인 파편 탄두를 쓴 RPG-7 발사기용 OG-7V 로켓 유탄. 폭발하면 탄두 몸체가 최적 무게의 파편으로 쪼개진다."}
+{"k": "item:10x42 Leupold Ultra M3A:name", "ko": "10x42 류폴드 울트라 M3A (M24) 망원 조준경"}
+{"k": "item:10x42 Leupold Ultra M3A:desc", "ko": "M-24 저격 무기 체계용 10배율 망원 조준경. 주간 장거리 정밀 사격과 표적 관측용이다."}
+{"k": "item:APB Silencer:name", "ko": "APB용 소음기 (9mm Makarov)"}
+{"k": "item:APB Silencer:desc", "ko": "APB 권총용 소음기(흔히 사일런서라고 함). 사격 시 총성을 줄여 준다."}
+{"k": "item:AUG Integrated Bipod:name", "ko": "양각대 (AUG)"}
+{"k": "item:AUG Integrated Bipod:desc", "ko": "Steyr AUG 계열 돌격소총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:Bayonet (East):name", "ko": "대검 (AK)"}
+{"k": "item:Bayonet (East):desc", "ko": "모든 칼라시니코프 돌격소총용 표준 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:Bayonet M9 (West):name", "ko": "M9 대검"}
+{"k": "item:Bayonet M9 (West):desc", "ko": "NATO 표준 M9 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:Bizon silencer:desc", "ko": "소음기가 일체화된 총열. 사격 시 총구 화염과 총성을 줄여 사수의 위치를 숨겨 준다."}
+{"k": "item:Collimator Aimpoint Comp M (WR):name", "ko": "에임포인트 Comp M 도트 조준기 (WR)"}
+{"k": "item:Collimator Aimpoint Comp M (WR):desc", "ko": "위버 레일 마운트를 갖춘 무기용 반사식 도트 조준기. 배율 없이 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:Collimator Aimpoint Comp ML XD (MP5):name", "ko": "에임포인트 Comp ML XD 도트 조준기 (HK MP5)"}
+{"k": "item:Collimator Aimpoint Comp ML XD (MP5):desc", "ko": "HK형 마운트를 갖춘 무기용 반사식 도트 조준기. 배율 없이 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:Collimator EKP-8-02 'Cobra' (AK):name", "ko": "EKP-8-02 코브라 도트 조준기 (AK)"}
+{"k": "item:Collimator EKP-8-02 'Cobra' (AK):desc", "ko": "AK형 마운트를 갖춘 무기용 반사식 도트 조준기. 배율 없이 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:Collimator M68 CCO (M16):name", "ko": "M68 CCO 도트 조준기 (M16)"}
+{"k": "item:Collimator M68 CCO (M16):desc", "ko": "M16형 마운트를 갖춘 무기용 반사식 도트 조준기. 배율 없이 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:F2000 Launcher:name", "ko": "F2000 유탄발사기"}
+{"k": "item:F2000 Launcher:desc", "ko": "F2000 돌격소총용으로 설계된 총열 하부 유탄발사기. 40mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:G36 sight:name", "ko": "G36 돌격 조준경"}
+{"k": "item:G36E sight:name", "ko": "G36E 돌격 조준경"}
+{"k": "item:G3SG1 bipod:name", "ko": "양각대 (G3)"}
+{"k": "item:G3SG1 bipod:desc", "ko": "G3 계열 전투 소총용 표준 접이식 양각대. 엎드려 쏠 때 정확도가 높아지지만, 다른 자세로 쏠 때는 총의 균형을 다소 해친다."}
+{"k": "item:GP-30 (40mm VOG):name", "ko": "GP-30 총열 하부 유탄발사기 (40mm)"}
+{"k": "item:GP-30 (40mm VOG):desc", "ko": "이 총열 하부 유탄발사기는 범용 마운트를 갖춰 거의 모든 소련제·러시아제 소총에 달 수 있다. 야전에서 쉽게 달고 뗄 수 있다. 40mm 무탄피 단발탄을 직접 사격할 수 있다."}
+{"k": "item:Grenade Ring (East):name", "ko": "안전핀"}
+{"k": "item:Grenade Ring (East):desc", "ko": "바르샤바 조약군/러시아제 수류탄용 안전핀."}
+{"k": "item:Grenade Ring (West):desc", "ko": "NATO 수류탄용 안전핀."}
+{"k": "item:Groza GP:desc", "ko": "OC-14 그로자 돌격소총용 총열 하부 유탄발사기. 40mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:Groza GP sight:name", "ko": "사다리형 조준기"}
+{"k": "item:Groza GP sight:desc", "ko": "유탄발사기의 조준 정확도를 높여 주는 사다리형 조준기."}
+{"k": "item:Groza sight:name", "ko": "PO4x34 (그로자) 조준경"}
+{"k": "item:Groza sight:desc", "ko": "OC-14 그로자 돌격소총용 4배율 광학 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Groza silencer:name", "ko": "소음기"}
+{"k": "item:Groza silencer:desc", "ko": "OC-14 그로자 돌격소총용 소음기. 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Infrared Laser Aiming Module LIR (P90):name", "ko": "적외선 레이저 조준 장치"}
+{"k": "item:Infrared Laser Aiming Module LIR (P90):desc", "ko": "야간 투시 장비로만 보이는 적외선 레이저 조준기. 밤에 근거리 표적을 빨리 잡게 해 준다."}
+{"k": "item:Integr M203B (40mm LV):desc", "ko": "NATO 소총용으로 설계된 총열 하부 유탄발사기. 40mm 단발탄을 직접 사격할 수 있다."}
+{"k": "item:Integrated Collimator (P90):name", "ko": "P90용 광학 반사식 조준기"}
+{"k": "item:Integrated Collimator (P90):desc", "ko": "FN P90용 무배율 광학 반사식 조준기. 주간에 표적을 빨리 잡게 해 준다."}
+{"k": "item:Integrated Optical Sight (PSG-1):name", "ko": "헨솔트 6X42 조준경"}
+{"k": "item:Integrated Optical Sight (PSG-1):desc", "ko": "6배율 망원 조준경. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Integrated Sight (AUG):name", "ko": "AUG 내장 광학 조준경"}
+{"k": "item:Knight Masterkey Shotgun (12 ga):name", "ko": "총열 하부 나이트 마스터키 산탄총 (12 gauge)"}
+{"k": "item:Knight Masterkey Shotgun (12 ga):desc", "ko": "총열 하부 나이트 마스터키 산탄총은 문 파괴용 도구로 설계되었다. 하지만 보조 근접전 무기로도 효과적임이 드러났다. 마스터키는 레밍턴 870 12게이지 펌프 액션 산탄총이며, M16 소총이나 M4 카빈의 M203 유탄발사기 장착 레일에 달 수 있다. 3발들이 내장 탄창을 갖췄다."}
+{"k": "item:Laser Aiming Module (F2000):name", "ko": "레이저 조준 모듈 (F2000)"}
+{"k": "item:Laser Aiming Module (F2000):desc", "ko": "FN F2000 돌격소총용 조준 시스템 모듈. 주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 준다."}
+{"k": "item:Laser Aiming Module (P90):name", "ko": "레이저 조준 모듈"}
+{"k": "item:Laser Aiming Module (P90):desc", "ko": "주간에는 100m, 야간에는 150m까지 표적을 빨리 잡게 해 주는 레이저 조준 모듈."}

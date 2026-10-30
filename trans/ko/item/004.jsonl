@@ -1,0 +1,80 @@
+{"k": "item:Ammo Box 44 MAG JHP:name", "ko": "탄약 Box Fiocchi JHP (.44 Magnum)"}
+{"k": "item:Ammo Box 44 MAG JHP:desc", "ko": ".44 Magnum Fiocchi JHP탄 50발이 든 상자."}
+{"k": "item:Ammo 44 MAG AP:name", "ko": "탄약 VBR-B AP7PL (.44 Magnum)"}
+{"k": "item:Ammo 44 MAG AP:desc", "ko": ".44 MAGNUM VBR-B AP7PL 철갑탄."}
+{"k": "item:Ammo Box 44 MAG AP:name", "ko": "탄약 Box VBR-B AP7PL (.44 Magnum)"}
+{"k": "item:Ammo Box 44 MAG AP:desc", "ko": ".44 MAGNUM VBR-B AP7PL 철갑탄 50발이 든 상자."}
+{"k": "item:Ammo 6.8 SPC HPBT:name", "ko": "탄약 6.8 SPC HPBT"}
+{"k": "item:Ammo 6.8 SPC HPBT:desc", "ko": "호나디의 BTHP 6.8 특수목적탄(SPC)은 정확도가 매우 높은 탄으로 인정받았다. 최고급 경기용 품질의 탄두로 장거리에서 뛰어난 성능을 낸다."}
+{"k": "item:Ammo Box 6.8 SPC HPBT:name", "ko": "탄약 Box 6.8 SPC HP-BT"}
+{"k": "item:Ammo Box 6.8 SPC HPBT:desc", "ko": "6.8 SPC HP-BT탄 20발이 든 상자."}
+{"k": "item:Rifle ammo clip (M1941/25):name", "ko": "소총 탄창 (M1941/25)"}
+{"k": "item:Rifle ammo clip (M1941/25):desc", "ko": "M1941 존슨 기관총용 탄창. .30-06 스프링필드탄이 최대 25발 들어간다."}
+{"k": "item:Pan magazine (DP 27 7.62/47):name", "ko": "원반 탄창 (DP 27  7.62x54mmR/47)"}
+{"k": "item:Pan magazine (DP 27 7.62/47):desc", "ko": "DP 27 경기관총용 금속 원반 탄창. 7.62x54mmR탄 47발이 들어간다."}
+{"k": "item:Ammo B-32 API (7.62x54mm):name", "ko": "탄약 B-32 API (7.62x54mmR)"}
+{"k": "item:Ammo B-32 API (7.62x54mm):desc", "ko": "B-32 철갑소이탄(API)은 냉전 말기 구소련에서 생산되었다. 러시아 공장에서 만든 진품 탄약이다. 탄피는 베르당 뇌관식이라 재장전할 수 없다. 단단한 철갑 심 외에도, 단단한 표적에 맞으면 큰 폭음과 밝은 섬광을 낸다."}
+{"k": "item:Ammo box B-32 API (7.62x54mm):name", "ko": "탄약 box B-32 API (7.62x54mmR)"}
+{"k": "item:Ammo box B-32 API (7.62x54mm):desc", "ko": "B-32 철갑소이탄(API) 7.62x54mmR탄 20발이 든 상자. 단단한 철갑 심 탄두라 방탄 장비를 입은 표적에 매우 효과적이다."}
+{"k": "item:Big Ammo box (7.62x54/440):name", "ko": "대형 탄약 상자 B-32 API (7.62x54/440)"}
+{"k": "item:Big Ammo box (7.62x54/440):desc", "ko": "B-32 철갑소이탄(API) 7.62x54mmR탄 440발이 든 탄약 상자. 단단한 철갑 심 탄두라 방탄 장비를 입은 표적에 매우 효과적이다."}
+{"k": "item:Fiocchi Frangible (4.6x30mm):name", "ko": "피오키 프랜지블 신터파이어 (4.6x30mm)"}
+{"k": "item:Fiocchi Frangible (4.6x30mm):desc", "ko": "HK MP7용으로 설계된 4.6x30mm 구경 탄약.\\n피오키 프랜지블 탄약은 최첨단 신터파이어 무연(無鉛) 분쇄형 탄두를 쓴다. 단단한 면에 맞으면 부서지므로 실내 사격장, 강철 표적 사격, 전술 훈련에 알맞다. 구리·주석 복합 탄두에는 성형 테이퍼 크림프가 있어 신뢰성과 작동성을 보장한다."}
+{"k": "item:Ammo box Fiocchi Frangible (4.6x30mm):name", "ko": "탄약 box Fiocchi Frangible Sinterfire (4.6x30mm)"}
+{"k": "item:Ammo box Fiocchi Frangible (4.6x30mm):desc", "ko": "4.6x30mm 구경 피오키 프랜지블 신터파이어탄 50발이 든 탄약 상자."}
+{"k": "item:Rifle ammo clip Camo (HK/20):name", "ko": "상자형 탄창 위장 (HK/20)"}
+{"k": "item:Rifle ammo clip Camo (HK/20):desc", "ko": "HK 계열 소총용 표준 20발들이 7.62x51mm 탄창."}
+{"k": "item:Rifle ammo clip (CZ-805/30):name", "ko": "상자형 탄창 (CZ-805/30)"}
+{"k": "item:Rifle ammo clip (CZ-805/30):desc", "ko": "반투명 폴리머로 만든 CZ-805 Bren 전용 5.56x45 구경 30발 탄창."}
+{"k": "item:Rifle ammo clip double (CZ-805/60):name", "ko": "2연 상자형 탄창 (CZ-805/60)"}
+{"k": "item:Rifle ammo clip double (CZ-805/60):desc", "ko": "반투명 폴리머로 만든 CZ-805 Bren 전용 5.56x45 구경 30발 탄창 2개."}
+{"k": "item:Double SMG ammo clip (SAF/60):name", "ko": "기관단총 2연 탄창 (SAF/60)"}
+{"k": "item:Double SMG ammo clip (SAF/60):desc", "ko": "FAMAE SAF 기관단총용 9x19mm 30발 탄창 두 개를 이은 것으로, 총 60발이 들어간다."}
+{"k": "item:SMG ammo clip (SAF/30):name", "ko": "기관단총 탄창 (SAF/30)"}
+{"k": "item:SMG ammo clip (SAF/30):desc", "ko": "FAMAE SAF 기관단총용 30발들이 상자형 탄창."}
+{"k": "item:Ammo VBR AP7PLB (.357 MAGNUM):name", "ko": "탄약 VBR-B AP7PL (.357 MAGNUM)"}
+{"k": "item:Ammo VBR AP7PLB (.357 MAGNUM):desc", "ko": ".357 MAGNUM VBR-B AP7PL 철갑탄."}
+{"k": "item:Ammo Box VBR AP7PL (.357 MAGNUM):name", "ko": "탄약 Box VBR-B AP7PL (.357 MAGNUM)"}
+{"k": "item:Ammo Box VBR AP7PL (.357 MAGNUM):desc", "ko": ".357 MAGNUM VBR-B AP7PL 철갑탄 50발이 든 상자."}
+{"k": "item:Ammo VBR AP7PL (.40 S&W):name", "ko": "탄약 VBR-B AP7PL (.40 S&W)"}
+{"k": "item:Ammo VBR AP7PL (.40 S&W):desc", "ko": ".40 S&W VBR-B AP7PL 철갑탄."}
+{"k": "item:Ammo Box VBR AP7PL (.40 S&W):name", "ko": "탄약 Box VBR-B AP7PL (.40 S&W)"}
+{"k": "item:Ammo Box VBR AP7PL (.40 S&W):desc", "ko": ".40 S&W VBR-B AP7PL 철갑탄 50발이 든 상자."}
+{"k": "item:Ammo Fiocchi BTHP .308:name", "ko": "탄약 Fiocchi BT-HP (7.62X51mm)"}
+{"k": "item:Ammo Fiocchi BTHP .308:desc", "ko": "피오키의 경기용 .308탄은 최고급 265그레인 시에라 매치킹 할로포인트 보트테일 탄두를 써서 정확도가 탁월하다. 믿음직한 시에라 탄두와 피오키의 장전 기술이 만나 경기에서 뛰어난 정확도를 보장한다."}
+{"k": "item:Ammo Box Fiocchi BTHP .308:name", "ko": "탄약 Box Fiocchi BT-HP (7.62X51mm)"}
+{"k": "item:Ammo Box Fiocchi BTHP .308:desc", "ko": "7.62X51 Fiocchi BT-HP탄 20발이 든 상자."}
+{"k": "item:Ammo VBR AP7PL (.45 ACP):name", "ko": "탄약 VBR-B AP7PL (.45 ACP)"}
+{"k": "item:Ammo VBR AP7PL (.45 ACP):desc", "ko": ".45 ACP VBR-B AP7PL 철갑탄."}
+{"k": "item:Ammo Box VBR AP7PL (.45 ACP):name", "ko": "탄약 Box VBR-B AP7PL (.45 ACP)"}
+{"k": "item:Ammo Box VBR AP7PL (.45 ACP):desc", "ko": ".45 ACP VBR-B AP7PL 철갑탄 50발이 든 상자."}
+{"k": "item:Ammo Corbon HCLA (.357 Magnum):name", "ko": "탄약 Fiocchi JHP (.357 Magnum)"}
+{"k": "item:Ammo Corbon HCLA (.357 Magnum):desc", "ko": "피오키 .357 매그넘탄은 큰 에너지를 전달하도록 설계된 158그레인 피갑 할로포인트(JHP) 탄두를 쓴다. 확장이 뛰어난 피갑 할로포인트 탄두 덕분에 호신용으로 안성맞춤이다."}
+{"k": "item:Ammo Box Corbon HCLA (.357 Magnum):name", "ko": "탄약 Box Fiocchi JHP (.357 Magnum)"}
+{"k": "item:Ammo Box Corbon HCLA (.357 Magnum):desc", "ko": ".357 Magnum Fiocchi JHP탄 50발이 든 상자."}
+{"k": "item:Ammo Corbon JHP (.45 ACP):name", "ko": "탄약 Fiocchi JHP (.45 ACP)"}
+{"k": "item:Ammo Corbon JHP (.45 ACP):desc", "ko": "피오키 슈팅 다이내믹스 제품군은 성능과 가격의 균형이 훌륭하다. 피갑 할로포인트 탄두가 명중 시 제어된 확장을 일으켜 필요한 저지력을 낸다."}
+{"k": "item:Ammo Box Corbon JHP (.45 ACP):name", "ko": "탄약 Box Fiocchi JHP (.45 ACP)"}
+{"k": "item:Ammo Box Corbon JHP (.45 ACP):desc", "ko": ".45 ACP Fiocchi JHP탄 50발이 든 상자."}
+{"k": "item:Ammo 5.56mm Mk262:name", "ko": "탄약 Fiocchi BT-HP (5.56mm)"}
+{"k": "item:Ammo 5.56mm Mk262:desc", "ko": "피오키의 경기용 .223탄은 최고급 77그레인 시에라 매치킹 할로포인트 보트테일 탄두를 써서 정확도가 탁월하다. 믿음직한 시에라 탄두와 피오키의 장전 기술이 만나 경기에서 뛰어난 정확도를 보장한다."}
+{"k": "item:Ammo Box 5.56mm Mk262:name", "ko": "탄약 Box Fiocchi BT-HP (5.56mm)"}
+{"k": "item:Ammo Box 5.56mm Mk262:desc", "ko": "5.56x45 Fiocchi BT-HP탄 20발이 든 상자."}
+{"k": "item:Ammo 6.8 SPC TTSX:name", "ko": "탄약 6.8 SPC TTSX"}
+{"k": "item:Ammo 6.8 SPC TTSX:desc", "ko": "6.8 SPC 95그레인 반스 무연(無鉛) TTSX 탄은 전체가 구리로 된 탄도 팁 탄두를 쓴다. 탄도 팁이 확장을 도와 사냥용으로 훌륭하다."}
+{"k": "item:Ammo Box 6.8 SPC TTSX:name", "ko": "탄약 Box 6.8 SPC TTSX"}
+{"k": "item:Ammo Box 6.8 SPC TTSX:desc", "ko": "6.8 SPC TTSX탄 20발이 든 상자."}
+{"k": "item:30-06 Winchester XP3:name", "ko": "탄약 Winchester Supreme Elite XP3"}
+{"k": "item:30-06 Winchester XP3:desc", "ko": "윈체스터 슈프림 엘리트 XP3탄"}
+{"k": "item:Ammo box (30-06 XP3):name", "ko": "탄약 box Winchester Supreme Elite XP3"}
+{"k": "item:Ammo box (30-06 XP3):desc", "ko": "30-06 Winchester Supreme Elite XP3탄 20발이 든 상자."}
+{"k": "item:Ammo box (7.92x57):name", "ko": "탄약 box 7.92x57 FMJ"}
+{"k": "item:Ammo box (7.92x57):desc", "ko": "7.92x57 Mauser FMJ Ball탄 20발이 든 상자."}
+{"k": "item:.40 S&W JHP:name", "ko": "탄약 .40 S&W (JHP)"}
+{"k": "item:.40 S&W JHP:desc", "ko": ".40 S&W 피갑 할로포인트(JHP)탄"}
+{"k": "item:Ammo box (.40 S&W JHP):name", "ko": "탄약 box .40 S&W (JHP)"}
+{"k": "item:Ammo box (.40 S&W JHP):desc", "ko": ".40 S&W JHP탄 50발이 든 상자."}
+{"k": "item:RPG-2 Grenade:name", "ko": "PG-2 유탄"}
+{"k": "item:RPG-2 Grenade:desc", "ko": "RPG-2 발사기용 러시아제 PG-2 유탄. 사실 스스로 날아가는 로켓탄이 아니다. 소량의 흑색 화약이 이 탄을 발사관 밖으로 밀어내 표적으로 보낸다. 흑색 화약 전장총과 꽤 비슷하다."}
+{"k": "item:Crowbar:name", "ko": "쇠지렛대"}
+{"k": "item:Crowbar:desc", "ko": "거의 무엇에든 쓸 수 있는 만능 도구. 상자가 안 열리면 이 멋진 도구로 비틀어 열면 된다. 악당이 안 쓰러지면 이걸로 때려서 중력을 도와주면 된다. 9mm로 MICH 헬멧이 안 뚫리면 이걸로 억지로 벗겨 내면 된다. 이 쇠지렛대를 아주 단순한 스위스 아미 나이프라고 생각하시길. 쓰임새는 상상력만이 한계다."}

@@ -1,0 +1,79 @@
+{"k": "item:Rifle ammo clip (6.8x43mm/60):name", "ko": "소총 탄창 (6.8x43mm/60)"}
+{"k": "item:Rifle ammo clip (6.8x43mm/60):desc", "ko": "6.8x43 구경 소총용 60발들이 탄창."}
+{"k": "item:6.8x43 FMJ Ball ammo:name", "ko": "6.8x43 완전피갑 보통탄"}
+{"k": "item:6.8x43 FMJ Ball ammo:desc", "ko": "납 심을 넣은 완전피갑 탄두를 쓴 탄. 중거리의 비장갑 표적용이다. 팔리네로 현지에서 만든 탄이라 비슷한 유명 상표 탄보다 품질이 떨어진다."}
+{"k": "item:6.8x43 AP ammo:name", "ko": "6.8x43 철갑탄"}
+{"k": "item:6.8x43 AP ammo:desc", "ko": "이 철갑탄은 III급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Ammo box 6.8x43 FMJ:name", "ko": "탄약 Box 6.8x43 FMJ Ball"}
+{"k": "item:Ammo box 6.8x43 FMJ:desc", "ko": "6.8x43mm 완전피갑 보통탄 20발이 든 상자. 납 심을 넣은 완전피갑 탄두다."}
+{"k": "item:Ammo box 6.8x43 AP:name", "ko": "탄약 Box 6.8x43 AP"}
+{"k": "item:Ammo box 6.8x43 AP:desc", "ko": "유명 상표 6.8x43mm 철갑탄 20발이 든 상자. 철갑 탄두는 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Big Ammo box FMJ (6.8x43/500):name", "ko": "대형 탄약 상자 FMJ (6.8x43/500)"}
+{"k": "item:Big Ammo box FMJ (6.8x43/500):desc", "ko": "6.8 SPC 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box AP(6.8x43/500):name", "ko": "대형 탄약 상자 AP (6.8x43/500)"}
+{"k": "item:Big Ammo box (5.56x45/500):name", "ko": "대형 탄약 상자 AP (5.56x45/500)"}
+{"k": "item:Big Ammo box (5.56x45/500):desc", "ko": "5.56x45 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box (SP-6 9x39mm):name", "ko": "대형 탄약 상자 (SP-6 9x39mm)"}
+{"k": "item:Big Ammo box (SP-6 9x39mm):desc", "ko": "9x39mm 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box (5.45x39/500):name", "ko": "대형 탄약 상자 AP (5.45x39/500)"}
+{"k": "item:Big Ammo box (5.45x39/500):desc", "ko": "5.45x39 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box (7.62x51/500):name", "ko": "대형 탄약 상자 AP (7.62x51/500)"}
+{"k": "item:Big Ammo box (7.62x51/500):desc", "ko": "7.62x51 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box (7.62x39/500):name", "ko": "대형 탄약 상자 AP (7.62x39/500)"}
+{"k": "item:Big Ammo box (7.62x39/500):desc", "ko": "7.62.39 철갑탄 500발이 든 탄약 상자."}
+{"k": "item:Rifle ammo clip (Socom/15):name", "ko": "소총 탄창 (Socom/15)"}
+{"k": "item:Rifle ammo clip (Socom/15):desc", "ko": ".458 구경 소총용 15발들이 탄창."}
+{"k": "item:Rifle ammo clip (Socom/30):name", "ko": "소총 탄창 (Socom/30)"}
+{"k": "item:Rifle ammo clip (Socom/30):desc", "ko": ".458 구경 소총용 30발들이 탄창."}
+{"k": "item:Ammo box (.458 socom):name", "ko": "탄약 box .458 Socom(20)"}
+{"k": "item:Ammo box (.458 socom):desc", "ko": ".458 구경 탄약 20발이 든 탄약 상자."}
+{"k": "item:Night Sight AN/PVS-4 (G36):name", "ko": "야간 조준경 AN/PVS-4 (G36)"}
+{"k": "item:Night Sight AN/PVS-4 (G36):desc", "ko": "AN/PVS-4 개인화기 야간 조준경은 밤에 관측하고 조준 사격을 하는 데 쓰는 휴대용 전지식 전자광학 장비다. 달빛, 별빛, 하늘빛 같은 반사광을 증폭해 사수가 장면을 또렷하게 볼 수 있게 한다. 3.6배율이며, 이 모델은 G36 돌격소총 계열에 맞게 개조되었다."}
+{"k": "item:.458 socom HP:name", "ko": "소총탄 (.458 Socom)"}
+{"k": "item:.458 socom HP:desc", "ko": ".458 Socom 구경 탄약."}
+{"k": "item:MARS:name", "ko": "TAR-21 반사식 조준기"}
+{"k": "item:MARS:desc", "ko": "TAR-21 돌격소총의 일체형 부품으로 이스라엘에서 만든 반사식 조준기. 두 눈을 뜬 채 조준할 수 있어 전장 감시가 쉬워지고 표적을 더 빨리 잡을 수 있다."}
+{"k": "item:MARS Laser:name", "ko": "TAR-21 레이저 장치"}
+{"k": "item:MARS Laser:desc", "ko": "MARS TAR-21 반사식 조준기의 일체형 부품인 레이저 조준 장치. 표적에 빨간 점을 비춰 정확도를 높이고 조준 시간을 줄여 준다."}
+{"k": "item:Eotech (WR):name", "ko": "EOTech 도트 조준기 (WR)"}
+{"k": "item:Eotech (WR):desc", "ko": "EOTech의 홀로그래픽 도트 조준기. 위버 레일에 달 수 있다."}
+{"k": "item:EOTech Holosight 552 (WR):name", "ko": "EOTech 홀로사이트 552 (WR)"}
+{"k": "item:EOTech Holosight 552 (WR):desc", "ko": "EOTech의 홀로그래픽 조준기(HWS). 위버 레일에 달 수 있다."}
+{"k": "item:C-MAG (M16/100):name", "ko": "베타 C-MAG (M16/100) 탄창"}
+{"k": "item:C-MAG (M16/100):desc", "ko": "M16 계열 돌격소총용으로 설계된 100발들이 대용량 5.56mm 탄창."}
+{"k": "item:AP 6.3 (9mm):desc", "ko": "VBR-Belgium 9x19 AP 6.3mm 탄."}
+{"k": "item:Ammo box (AP 6.3):name", "ko": "탄약 box VBR (9x19 mm)"}
+{"k": "item:Ammo box (AP 6.3):desc", "ko": "6.3 (9x19 mm) 철갑탄 50발이 든 탄약 상자."}
+{"k": "item:7,62 Assault Rifle Suppressor:name", "ko": "7.62 돌격소총 소음기"}
+{"k": "item:7,62 Assault Rifle Suppressor:desc", "ko": "7.62 돌격소총용 범용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:7,62 Sniper Rifle Suppressor:name", "ko": "7.62 저격소총 소음기"}
+{"k": "item:7,62 Sniper Rifle Suppressor:desc", "ko": "7.62 저격소총용 범용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Penetrator DM11 (4.6x30mm):name", "ko": "4.6x30mm 탄"}
+{"k": "item:Penetrator DM11 (4.6x30mm):desc", "ko": "HK MP7용으로 설계된 4.6x30mm 구경 탄약.\\nFN 5.7x28탄과 탄피 용량이 사실상 같지만, HK탄은 단면 밀도가 20% 높아 바르샤바 조약군의 표준 군용 방탄복을 조금 더 먼 거리에서 뚫을 수 있다. 다만 장애물을 통과한 뒤의 성능은 FN탄보다 조금 떨어진다. 전체 성능은 비슷하지만 HK탄은 반동이 작아 총을 더 가볍게 만들 수 있다. 이 탄은 스위스에서 만들었고, 단단한 심이 있어 관통력이 매우 좋고 에너지 전달 효율도 높다. 게다가 무연(無鉛)이라 이 탄에 맞은 사람이 납 중독으로 죽을 일은 없다..."}
+{"k": "item:Ammo box (4.6x30mm):name", "ko": "탄약 box (4.6x30mm)"}
+{"k": "item:Ammo box (4.6x30mm):desc", "ko": "4.6x30mm 구경 탄약 50발이 든 탄약 상자."}
+{"k": "item:SMG ammo clip (MP7/20):name", "ko": "기관단총 탄창 (MP7/20)"}
+{"k": "item:SMG ammo clip (MP7/20):desc", "ko": "HK MP7용 20발들이 탄창."}
+{"k": "item:SMG ammo clip (MP7/40):name", "ko": "기관단총 탄창 (MP7/40)"}
+{"k": "item:SMG ammo clip (MP7/40):desc", "ko": "HK MP7용 40발들이 탄창."}
+{"k": "item:BMG box (.50 BMG/20):name", "ko": "탄약 box (.50 BMG/20)"}
+{"k": "item:BMG box (.50 BMG/20):desc", "ko": ".50 BMG탄 20발이 든 탄약 상자."}
+{"k": "item:BigAmmoBox (12.7x99/100):name", "ko": "대형 탄약 상자 (12.7x99/200)"}
+{"k": "item:BigAmmoBox (12.7x99/100):desc", "ko": ".50 BMG탄 200발이 든 탄약 상자."}
+{"k": "item:Sniper rifle clip (Barret/10):name", "ko": "저격소총 탄창 (Barret .50 BMG/10)"}
+{"k": "item:Sniper rifle clip (Barret/10):desc", "ko": "Barret M82 저격소총용 .50BMG (12.7 mm)탄 10발들이 탄창."}
+{"k": "item:M33 Ball .50 BMG (12.7x99 mm):name", "ko": "M33 보통탄 .50 BMG (12.7x99 mm)"}
+{"k": "item:M33 Ball .50 BMG (12.7x99 mm):desc", "ko": ".50 (12.7 mm) 구경 탄두."}
+{"k": "item:Barret bipod:name", "ko": "양각대 (Barret)"}
+{"k": "item:Barret bipod:desc", "ko": "Barret M82A4 저격소총용 양각대."}
+{"k": "item:Sniper Bipod (DSR-1):name", "ko": "저격용 양각대 DSR-1"}
+{"k": "item:Sniper Bipod (DSR-1):desc", "ko": "DSR-1 저격소총 양각대"}
+{"k": "item:Rifle ammo clip (DSR/5):name", "ko": "소총 탄창 (DSR/5)"}
+{"k": "item:Rifle ammo clip (DSR/5):desc", "ko": "DSR-1 (7.62x51 mm)용 7.62x51 구경탄 5발들이 탄창."}
+{"k": "item:G36_manual:name", "ko": "G36 운용 교범"}
+{"k": "item:G36_manual:desc", "ko": "G36 계열 돌격소총 운용 교범. (HK G36 ~ HK G36 WR)"}
+{"k": "item:AKM_manual:name", "ko": "AKM 운용 교범"}
+{"k": "item:AKM_manual:desc", "ko": "AKM 계열 돌격소총 운용 교범. (AKM ~ AKMSN)"}
+{"k": "item:vz58_manual:name", "ko": "SA Vz.58 운용 교범"}
+{"k": "item:vz58_manual:desc", "ko": "SA Vz.58 돌격소총 운용 교범. (SA Vz.58P ~ SA Vz.58 Mod)"}
+{"k": "item:OICW_manual:name", "ko": "OICW 운용 교범"}

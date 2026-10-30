@@ -1,0 +1,80 @@
+{"k": "item:SC-110-04 ammo box:name", "ko": "탄약 상자 SC-110-04"}
+{"k": "item:SMG ammo clip (AUG/30):name", "ko": "상자형 탄창 (AUG 9mm/32)"}
+{"k": "item:SMG ammo clip (AUG/30):desc", "ko": "Steyr AUG용 표준 32발들이 9x19mm 상자형 탄창."}
+{"k": "item:SMG ammo clip (M5/15):name", "ko": "상자형 탄창 (MP5/15)"}
+{"k": "item:SMG ammo clip (M5/15):desc", "ko": "HK MP5 기관단총용 표준 15발들이 9x19mm 파라벨룸 상자형 탄창."}
+{"k": "item:SMG ammo clip (M5/30):name", "ko": "상자형 탄창 (MP5/30)"}
+{"k": "item:SMG ammo clip (M5/30):desc", "ko": "HK MP5 기관단총용 표준 30발들이 9x19mm 파라벨룸 상자형 탄창."}
+{"k": "item:SMG ammo clip (P90/50):name", "ko": "상자형 탄창 (P90 5.7/50)"}
+{"k": "item:SMG ammo clip (P90/50):desc", "ko": "FN P90용 50발들이 5.7x28mm 탄창."}
+{"k": "item:SMG ammo clip (UZI/20):name", "ko": "상자형 탄창 (UZI/20)"}
+{"k": "item:SMG ammo clip (UZI/20):desc", "ko": "Uzi 기관단총용 20발들이 9mm 파라벨룸 상자형 탄창."}
+{"k": "item:SMG ammo clip (UZI/25):name", "ko": "상자형 탄창 (UZI/25)"}
+{"k": "item:SMG ammo clip (UZI/25):desc", "ko": "Uzi 기관단총용 25발들이 9mm 파라벨룸 상자형 탄창."}
+{"k": "item:SMG ammo clip (UZI/32):name", "ko": "상자형 탄창 (UZI/32)"}
+{"k": "item:SMG ammo clip (UZI/32):desc", "ko": "Uzi 기관단총용 32발들이 9mm 파라벨룸 상자형 탄창."}
+{"k": "item:SMG clip (MAC10/30):name", "ko": "상자형 탄창 (MAC-10 30/.45 ACP)"}
+{"k": "item:SMG clip (MAC10/30):desc", "ko": "MAC-10 기관단총용 30발들이 .45 ACP 상자형 탄창."}
+{"k": "item:SMG clip (MAC10/40):name", "ko": "상자형 탄창 (MAC-10 40/.45 ACP)"}
+{"k": "item:SMG clip (MAC10/40):desc", "ko": "MAC-10 기관단총용 40발들이 .45 ACP 상자형 탄창."}
+{"k": "item:SMG metal ammo clip (Bizon/64):name", "ko": "상자형 탄창 (Bizon/64)"}
+{"k": "item:SMG metal ammo clip (Bizon/64):desc", "ko": "비존 기관단총용 64발들이 9x18mm 마카로프 나선 탄창."}
+{"k": "item:SMG plastic ammo clip (Bizon/64):name", "ko": "플라스틱 상자형 탄창 (Bizon/64)"}
+{"k": "item:SMG plastic ammo clip (Bizon/64):desc", "ko": "비존 기관단총용 64발들이 9x18mm 마카로프 플라스틱 나선 탄창."}
+{"k": "item:Shotgun ammo clip (Saiga/8):name", "ko": "탄창 (Saiga/8)"}
+{"k": "item:Shotgun ammo clip (Saiga/8):desc", "ko": "Saiga-12 전투 산탄총용 8발들이 상자형 탄창."}
+{"k": "item:marauder_army_id:name", "ko": "라울 망고스타의 인식표"}
+{"k": "item:marauder_army_id:desc", "ko": "“라울 망고스타 #A-09567”이라고 적힌 인식표."}
+{"k": "item:prison_key:name", "ko": "감옥 오두막 열쇠"}
+{"k": "item:prison_key:desc", "ko": "타냐의 정글 캠프에 있는 감옥 오두막을 여는 열쇠."}
+{"k": "item:paint_pack:name", "ko": "수혈 팩"}
+{"k": "item:paint_pack:desc", "ko": "사람 피가 든 표준 플라스틱 봉지."}
+{"k": "item:kaderas_letter:name", "ko": "에밀리아노 칼데론에게 보내는 전갈"}
+{"k": "item:kaderas_letter:desc", "ko": "후안 레벵가가 에밀리아노 칼데론에게 보내는 암호 편지가 든 봉인된 봉투."}
+{"k": "item:album:name", "ko": "소포"}
+{"k": "item:album:desc", "ko": "후안 레벵가가 에밀리아노 칼데론에게 전해 달라는 소포."}
+{"k": "item:govern_foto:name", "ko": "곤살로 타르테라의 사진"}
+{"k": "item:govern_foto:desc", "ko": "타냐의 공작원 사진."}
+{"k": "item:entry_permission:name", "ko": "통제 구역 통행증"}
+{"k": "item:entry_permission:desc", "ko": "통제 구역에 들어갈 수 있게 해 주는 서류. 후안 레벵가가 서명했다."}
+{"k": "item:special_rope:name", "ko": "매듭 진 밧줄"}
+{"k": "item:special_rope:desc", "ko": "라울 망고스타의 밧줄. 복잡한 매듭이 연달아 지어져 있다. 무슨 뜻이 있는 게 틀림없다."}
+{"k": "item:SMG ammo clip (Thompson-m1_CLIP20):name", "ko": "상자형 탄창 (Thompson-M1/20)"}
+{"k": "item:SMG ammo clip (Thompson-m1_CLIP20):desc", "ko": "Thompson 기관단총용 20발들이 'stick' 탄창."}
+{"k": "item:SMG ammo clip (Thompson-m1_CLIP30):name", "ko": "상자형 탄창 (Thompson-M1/30)"}
+{"k": "item:SMG ammo clip (Thompson-m1_CLIP30):desc", "ko": "Thompson 기관단총용 30발들이 'stick' 탄창."}
+{"k": "item:SMG ammo clip (PPSH-41/35):name", "ko": "상자형 탄창 (PPSh-41/35)"}
+{"k": "item:SMG ammo clip (PPSH-41/35):desc", "ko": "PPSh-41용 35발들이 상자형 탄창. 71발 드럼 탄창의 문제를 덜려고 1942년에 개발되었다."}
+{"k": "item:SMG ammo clip (PPSH-41/71):name", "ko": "상자형 탄창 (PPSh-41/71)"}
+{"k": "item:SMG ammo clip (PPSH-41/71):desc", "ko": "원래 데그탸료프 PPD-40용으로 설계된 71발들이 드럼 탄창으로, PPSh-41 기관단총에도 쓸 수 있다."}
+{"k": "item:Pistol clip (SPS-SR1/18):name", "ko": "권총 탄창 (SPS-SR-1/18)"}
+{"k": "item:Pistol clip (SPS-SR1/18):desc", "ko": "Serdyukov SPS용 18발들이 9x21mm 탄창."}
+{"k": "item:SP-10 (9x21mm):name", "ko": "SP-10 탄 (9x21 mm)"}
+{"k": "item:SP-10 (9x21mm):desc", "ko": "처리된 강철 심을 넣은 관통력 강화 피갑 탄두를 쓴 특수탄. 덕분에 철갑 성능이 뛰어나다. 100m에서 IIIA급 방탄 장비를 뚫고, 70m에서 엔진 실린더를 완전히 관통한다."}
+{"k": "item:SP-11 (9x21mm):name", "ko": "SP-11 탄 (9x21 mm)"}
+{"k": "item:SP-11 (9x21mm):desc", "ko": "납 심을 넣은 피갑 탄두를 쓴 탄으로, 중거리에서 IIIA급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:Pistol clip (TT-33/8):name", "ko": "권총 탄창 (TT-33/8)"}
+{"k": "item:Pistol clip (TT-33/8):desc", "ko": "Tokarev TT-33용 8발들이 7.62x25mm 탄창."}
+{"k": "item:SMG ammo clip (AEK919K/20):name", "ko": "상자형 탄창 (AEK919K/20)"}
+{"k": "item:SMG ammo clip (AEK919K/20):desc", "ko": "AEK-919K Kashtan 기관단총용 20발들이 9x18mm 탄창."}
+{"k": "item:SMG ammo clip (AEK919K/30):name", "ko": "상자형 탄창 (AEK919K/30)"}
+{"k": "item:SMG ammo clip (AEK919K/30):desc", "ko": "AEK-919K Kashtan 기관단총용 30발들이 9x18mm 탄창."}
+{"k": "item:AEK919K_silencer:name", "ko": "AEK-919K용 소음기"}
+{"k": "item:AEK919K_silencer:desc", "ko": "AEK-919K 카슈탄 기관단총용 소음기. 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Collimator AEK919K:name", "ko": "AEK-919K용 반사식 조준기"}
+{"k": "item:Collimator AEK919K:desc", "ko": "AEK-919K 카슈탄 기관단총용 1.6배율 광학 조준경 겸 도트 조준기. 주간 정밀 사격과 표적 관측용이다."}
+{"k": "item:Pistol clip (Browning-hp/13):name", "ko": "권총 탄창 (Browning-HP/13)"}
+{"k": "item:Pistol clip (Browning-hp/13):desc", "ko": "표준 13발들이 9x19mm 파라벨룸 Browning-HP 탄창."}
+{"k": "item:Shotgun ammo clip (Saiga/5):name", "ko": "탄창 (Saiga/5)"}
+{"k": "item:Shotgun ammo clip (Saiga/5):desc", "ko": "Saiga-12 전투 산탄총용 표준 5발들이 12게이지 상자형 탄창."}
+{"k": "item:SMG ammo clip (UMP45/30):name", "ko": "상자형 탄창 (HK UMP45/25)"}
+{"k": "item:SMG ammo clip (UMP45/30):desc", "ko": "HK UMP 45용 표준 25발들이 .45 ACP 상자형 탄창."}
+{"k": "item:ump45_silencer:name", "ko": "UMP45 소음기"}
+{"k": "item:ump45_silencer:desc", "ko": ".45 ACP HK UMP 45용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:SMG ammo clip (VZ82/10):name", "ko": "상자형 탄창 (VZ82/10)"}
+{"k": "item:SMG ammo clip (VZ82/10):desc", "ko": "Vz.82 Scorpion 기관단총용 10발들이 9x18mm 탄창."}
+{"k": "item:SMG ammo clip (VZ82/20):name", "ko": "상자형 탄창 (VZ82/20)"}
+{"k": "item:SMG ammo clip (VZ82/20):desc", "ko": "Vz.82 Scorpion 기관단총용 20발들이 9x18mm 탄창."}
+{"k": "item:VZ82_silencer:name", "ko": "VZ-82 스코르피온용 소음기"}
+{"k": "item:VZ82_silencer:desc", "ko": "Vz.82 스코르피온 기관단총용 소음기. 소음기는 사격 시 총구 화염과 총성을 줄여 준다."}
+{"k": "item:Ammo box (7.62x25mm (7.63mm mauzer)):name", "ko": "7.62x25 완전피갑 보통탄 탄약 상자"}

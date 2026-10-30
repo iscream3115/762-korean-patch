@@ -1,0 +1,80 @@
+{"k": "item:Ammo box (7.62x25mm (7.63mm mauzer)):desc", "ko": "유명 상표 7.62x25 완전피갑 보통탄 20발이 든 상자. 경방호 표적에 효과적이다."}
+{"k": "item:snake_basket:name", "ko": "바구니"}
+{"k": "item:snake_basket:desc", "ko": "바닥이 이중으로 된 상자. 숨은 칸에 뱀이 들어 있다. 가짜 바닥을 빼고 바구니를 내려놓으면 뱀이 나온다."}
+{"k": "item:pereira_letter:name", "ko": "페레이라에게 보내는 전갈"}
+{"k": "item:pereira_letter:desc", "ko": "세바스티안 페레이라에게 보내는 편지. 아마란타 펠리시다드 말로는 알바로 소사가 쓴 것이라고 한다."}
+{"k": "item:loose_ammo:name", "ko": "57-N-181S 공포탄"}
+{"k": "item:loose_ammo:desc", "ko": "57-N-181-S 공포탄. 영화 산업용으로 새로 개발되었다. 화약은 들어 있지만 탄두가 없어 쏴도 해롭지 않다. 칼리칸티노스 밀수꾼들이 이걸 어떻게 손에 넣었는지, 왜 게릴라에게 팔았는지는 아무도 모른다."}
+{"k": "item:info_case:name", "ko": "페레이라의 서류 가방"}
+{"k": "item:info_case:desc", "ko": "팔리네로의 적대 계획 가능성에 관한 정보 문서가 든 서류 가방."}
+{"k": "item:fort_dep:name", "ko": "공문"}
+{"k": "item:fort_dep:desc", "ko": "포르탈레사 사령관 앞으로 보내는 공문."}
+{"k": "item:pistol_name:name", "ko": "USP 택티컬 권총 (개인 소장품)"}
+{"k": "item:pistol_name:desc", "ko": "소음기가 달린 개인 소장용 USP 택티컬 권총. 페드로 누녜스를 암살하려 했던 특수부대 대령의 것이었다."}
+{"k": "item:rebel_letter:name", "ko": "암호 전갈"}
+{"k": "item:rebel_letter:desc", "ko": "게릴라가 에밀리아노 칼데론에게 보내는 암호 편지가 든 봉투."}
+{"k": "item:printer_portable:name", "ko": "휴대용 인쇄기"}
+{"k": "item:printer_portable:desc", "ko": "최신 최고급 인쇄기. 선명한 컬러로 인쇄물을 대량으로 찍어 낼 수 있다."}
+{"k": "item:ramon_letter:name", "ko": "라몬에게 보내는 전갈"}
+{"k": "item:ramon_letter:desc", "ko": "암호 편지가 든 봉투. 보내는 사람: 타냐 토르멘스. 받는 사람: 라몬 라사로 마르케스."}
+{"k": "item:money_case:name", "ko": "현금 서류 가방"}
+{"k": "item:money_case:desc", "ko": "현금이 가득 든 서류 가방. 산타마리아 시장에게 줄 것이다."}
+{"k": "item:money_case_2:desc", "ko": "현금이 가득 든 서류 가방. 푸에르토비에호 시장에게 줄 것이다."}
+{"k": "item:money_case_3:desc", "ko": "현금이 가득 든 서류 가방. 캄페시노 시장에게 줄 것이다."}
+{"k": "item:secret_tapes:name", "ko": "비밀 테이프"}
+{"k": "item:secret_tapes:desc", "ko": "알바로 소사가 알헤이라 국민에게 저지른 끔찍한 범죄를 폭로하는 비밀 테이프."}
+{"k": "item:final_key:name", "ko": "아르트리고 금고 열쇠"}
+{"k": "item:final_key:desc", "ko": "아르트리고에 있는 알바로 소사 장군의 금고를 여는 열쇠. 중요한 물건이다."}
+{"k": "item:claive_pistol:name", "ko": "특별한 데저트 이글"}
+{"k": "item:claive_pistol:desc", "ko": "데저트 이글 권총. 클라이브가 여자 친구 베니시아 알바레스에게 몰래 전해 달라는 소포다."}
+{"k": "item:severed_head:name", "ko": "바구니에 담긴 이폴리트 바시로프의 머리"}
+{"k": "item:severed_head:desc", "ko": "이폴리트 바시로프의 머리. 푸에르토비에호의 알렉세이 레즈비에게 가져가야 한다."}
+{"k": "item:silver bullets:name", "ko": ".357 S&W 매그넘 은탄환"}
+{"k": "item:silver bullets:desc", "ko": "유령, 늑대인간 같은 동화 속 괴물 사냥용으로 특별히 만든 은탄환."}
+{"k": "item:passport:name", "ko": "알헤이라 여권"}
+{"k": "item:passport:desc", "ko": "다니엘 케라노의 것이었던, 피에 젖고 해진 낡은 여권."}
+{"k": "item:sect_drug:name", "ko": "신성한 차"}
+{"k": "item:sect_drug:desc", "ko": "캄페시노 곳곳에서 파는 아야와스카 차. 한 잔이면 몇 시간 동안 천국 같은 쾌락을 보장하지만, 그다음 하루는 무기력해진다."}
+{"k": "item:medallion:name", "ko": "메달"}
+{"k": "item:medallion:desc", "ko": "사슬에 달린 금 펜던트. “생일을 맞은 다니엘에게, 엄마가”라고 새겨져 있다."}
+{"k": "item:officer_order:name", "ko": "알헤이라 육군 장교 신분증"}
+{"k": "item:officer_order:desc", "ko": "당신이 육군 장교임을 증명하는 알헤이라 육군 신분증."}
+{"k": "item:radio-pult:name", "ko": "트럭 폭탄 원격 기폭 장치"}
+{"k": "item:radio-pult:desc", "ko": "트럭에 실린 폭발물을 터뜨리는 리모컨."}
+{"k": "item:jackdaniels:name", "ko": "잭 대니얼 한 병"}
+{"k": "item:jackdaniels:desc", "ko": "위스키 한 병. 일종의 암호인데, 그 비밀 요원이 아직 기억하고 있을까?"}
+{"k": "item:parcel:desc", "ko": "끈으로 묶은 작은 상자."}
+{"k": "item:letter:name", "ko": "전갈"}
+{"k": "item:letter:desc", "ko": "단단히 봉인된 봉투."}
+{"k": "item:taxpaper:name", "ko": "영수증"}
+{"k": "item:taxpaper:desc", "ko": "작성된 세금 신고서."}
+{"k": "item:wares:name", "ko": "화물 컨테이너"}
+{"k": "item:wares:desc", "ko": "강탈한 상품이 든 컨테이너. 잠겨 있고 꽤 무겁다."}
+{"k": "item:document1:name", "ko": "협정 초안"}
+{"k": "item:document1:desc", "ko": "가죽 서류철. 두 지방 자치체 사이의 무역 협정 초안이 들어 있다. 서명은 없다."}
+{"k": "item:document2:name", "ko": "서명된 협정서"}
+{"k": "item:document2:desc", "ko": "가죽 서류철. 두 지방 자치체 사이의 무역 협정 초안이 들어 있다. 양쪽 서명이 모두 있다."}
+{"k": "item:case:name", "ko": "서류 가방"}
+{"k": "item:case:desc", "ko": "번호 자물쇠로 잠긴 금속 서류 가방. 손목에 수갑으로 채우고, 만일을 위해 안에 부비트랩까지 설치하는 그런 가방이다."}
+{"k": "item:playerkey:name", "ko": "가를의 열쇠"}
+{"k": "item:playerkey:desc", "ko": "칸족 두목 가를의 시체에서 찾은 열쇠. 금고를 여는 것 같다."}
+{"k": "item:secretfile:name", "ko": "문서 철"}
+{"k": "item:secretfile:desc", "ko": "서류철 제목은 “중앙정보국. 일급 기밀. 열람 제한”이다. 안에 든 문서는… 세상에! 론드가 말한 것보다 훨씬 중요한 파일이었다. 온 세상을 뒤집어 놓을 만큼 중요하다… 아무래도 큰 골칫거리를 떠안은 것 같다."}
+{"k": "item:boeingmanual:name", "ko": "조종사 운용 교범"}
+{"k": "item:boeingmanual:desc", "ko": "보잉 747 점보기의 조종사 운용 교범(POH). 아랍어로 되어 있고, 연필로 쓴 영어 메모가 가득하다. 이게 어쩌다 여기 왔을까?"}
+{"k": "item:Bayonet_HK:name", "ko": "대검 (G3)"}
+{"k": "item:Bayonet_HK:desc", "ko": "HK G3 소총용 표준 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:Bayonet_fal:name", "ko": "대검 (FAL)"}
+{"k": "item:Bayonet_fal:desc", "ko": "FN FAL 소총용 표준 대검. 근접전 최후의 수단이며, 따로 떼어 전투용 나이프로도 쓸 수 있다."}
+{"k": "item:7u1 (5x45mm):name", "ko": "7U1 탄 (5.45x39mm)"}
+{"k": "item:7u1 (5x45mm):desc", "ko": "무거운 피갑 탄두를 쓴 아음속탄. 근거리에서 II급 방탄 장비를 입은 표적에 효과적이다. PBS-4 소음기와 함께 쓴다."}
+{"k": "item:.223ASR (5.56mm):name", "ko": ".223ASR 탄 (5.56x45mm)"}
+{"k": "item:.223ASR (5.56mm):desc", "ko": "무거운 피갑 탄두를 쓴 아음속탄. 근거리에서 II급 방탄 장비를 입은 표적에 효과적이다. 소음기와 함께 쓴다."}
+{"k": "item:SS192 HP (5.7mm):name", "ko": "SS192 탄 (5.7x28mm)"}
+{"k": "item:SS192 HP (5.7mm):desc", "ko": "피갑 할로포인트탄. 중거리에서 II급 방탄 장비를 입은 표적에 효과적이다."}
+{"k": "item:SS193 SS (5.7mm):name", "ko": "SS193 탄 (5.7x28mm)"}
+{"k": "item:SS193 SS (5.7mm):desc", "ko": "아음속 완전피갑 보트테일 탄두. 근거리에서 II급 방탄 장비를 입은 표적에 효과적이다. 소음기와 함께 쓴다."}
+{"k": "item:US (7.62x39mm):name", "ko": "저속탄 (7.62x39mm)"}
+{"k": "item:US (7.62x39mm):desc", "ko": "무거운 피갑 탄두를 쓴 저속탄. 반동이 작아 탄도가 평탄해지고 정확도가 높아진다. 근거리에서 II급 방탄 장비를 입은 표적에 효과적이다. 소음기와 함께 쓴다."}
+{"k": "item:Ammo box (.223ASR):name", "ko": ".223ASR 탄약 상자"}
+{"k": "item:Ammo box (.223ASR):desc", "ko": "무겁고 총구 속도가 낮은 탄두를 쓴 유명 상표 5.56x45mm ASR(고급 아음속탄) 20발이 든 상자. 중거리의 비장갑 표적에 효과적이다."}

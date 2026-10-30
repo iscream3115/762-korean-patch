@@ -1,0 +1,80 @@
+{"k": "item:SMG ammo clip (MP40/32):name", "ko": "기관단총 탄창 (MP40/32)"}
+{"k": "item:SMG ammo clip (MP40/32):desc", "ko": "MP 40 기관단총용 표준 32발들이 9mm 파라벨룸 상자형 탄창."}
+{"k": "item:Machete:name", "ko": "마체테"}
+{"k": "item:Machete:desc", "ko": "정글을 다니려면 거의 필수품이다. 가볍고 날카로운 칼날로 빽빽한 덩굴 사이에 예초기만큼 빨리 길을 낼 수 있다. 다만 더 힘들다."}
+{"k": "item:Big Ammo box FMJ (5.56x45/500):name", "ko": "대형 탄약 상자 FMJ (5.56x45/500)"}
+{"k": "item:Big Ammo box FMJ (5.56x45/500):desc", "ko": "5.56x45 완전피갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box FMJ (5.45x39/500):name", "ko": "대형 탄약 상자 FMJ (5.45x39/500)"}
+{"k": "item:Big Ammo box FMJ (5.45x39/500):desc", "ko": "5.45x39 완전피갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box FMJ (7.62x51/500):name", "ko": "대형 탄약 상자 FMJ (7.62x51/500)"}
+{"k": "item:Big Ammo box FMJ (7.62x51/500):desc", "ko": "7.62x51 완전피갑탄 500발이 든 탄약 상자."}
+{"k": "item:Big Ammo box FMJ (7.62x39/500):name", "ko": "대형 탄약 상자 FMJ (7.62x39/500)"}
+{"k": "item:Big Ammo box FMJ (7.62x39/500):desc", "ko": "7.62x39 완전피갑탄 500발이 든 탄약 상자."}
+{"k": "item:Night Sight AN/PVS-4 (HK):name", "ko": "AN/PVS-4 (HK) 개인화기 야간 조준경"}
+{"k": "item:Night Sight AN/PVS-4 (HK):desc", "ko": "2세대 광음극을 쓰고 HK형 마운트를 갖춘 야간 조준경(시야각 15도). 어두운 곳에서 정밀 사격과 표적 관측에 쓰인다."}
+{"k": "item:C-MAG (MP5/100):name", "ko": "베타 C-MAG 탄창 (MP5/100)"}
+{"k": "item:C-MAG (MP5/100):desc", "ko": "MP5 계열 기관단총 전용으로 설계된 9x19mm 100발들이 대용량 탄창"}
+{"k": "item:RepairTools:name", "ko": "수리 도구"}
+{"k": "item:RepairTools:desc", "ko": "무기 수리 도구. 사용법: 이 도구를 소지품에 넣고 수리할 무기를 손에 든다. 수리 도구를 오른쪽 클릭하고 수리를 고른다."}
+{"k": "item:Candy:name", "ko": "사탕"}
+{"k": "item:Candy:desc", "ko": "초콜릿 한 상자. 녹기 시작해서 조금 물렁하다."}
+{"k": "item:DVD:name", "ko": "DVD"}
+{"k": "item:DVD:desc", "ko": "민감한 정보가 담긴 디스크"}
+{"k": "item:Credit_Card:name", "ko": "신용카드"}
+{"k": "item:US Money 10000k:name", "ko": "미국 달러 뭉치"}
+{"k": "item:US Money 10000k:desc", "ko": "미화 10,000달러 뭉치."}
+{"k": "item:Sev_Head:name", "ko": "잘린 머리"}
+{"k": "item:Rifle ammo clip (AK9/20):name", "ko": "상자형 탄창 (AK-9 9x39/20)"}
+{"k": "item:Rifle ammo clip (AK9/20):desc", "ko": "AK-9 weapon용 표준 20발들이 9x39mm 플라스틱 상자형 탄창."}
+{"k": "item:Double rifle ammo clip (AK9/40):name", "ko": "2연 탄창 (AK-9 9x39/40)"}
+{"k": "item:Double rifle ammo clip (AK9/40):desc", "ko": "AK-9용 9x39mm 20발 플라스틱 상자형 탄창 두 개를 이은 것."}
+{"k": "item:Ammo box (30-06/20):name", "ko": "탄약 box .30-06 Springfield"}
+{"k": "item:Ammo box (30-06/20):desc", "ko": ".30-06 스프링필드탄 20발이 든 탄약 상자."}
+{"k": "item:Ammo box (30-06):name", "ko": "탄약 box (.30-06/200)"}
+{"k": "item:Ammo box (30-06):desc", "ko": ".30-06 스프링필드탄 200발이 든 탄약 상자."}
+{"k": "item:Rifle ammo clip (BAR/20):name", "ko": "소총 탄창 (BAR/20)"}
+{"k": "item:Rifle ammo clip (BAR/20):desc", "ko": "BAR 소총용 탄창. .30-06 스프링필드탄이 최대 20발 들어간다."}
+{"k": "item:BAR bipod:name", "ko": "BAR 양각대"}
+{"k": "item:BAR bipod:desc", "ko": "BAR 소총에 내장된 분리식 양각대."}
+{"k": "item:Ammo 30-06:name", "ko": "소총탄 .30-06 Springfield"}
+{"k": "item:Ammo 30-06:desc", "ko": ".30-06 스프링필드탄 한 발. 영국 .303, 러시아 7.62x54R 등 유럽의 탄창식 소총탄과 같은 급이다.\\n보병이 1마일 밖의 표적과 교전하고 기병 돌격을 막아야 한다고 군사 전략가들이 생각하던 시대에 채용된 탄으로, 200그레인 가까운 스피처/보트테일 탄두를 초속 3,000피트 가까이로 밀어낸다. 사거리, 관통력, 피해 모두 뛰어나다. 테이퍼진 무테 탄피는 급탄과 추출이 확실해 자동 화기와 볼트 액션 화기 모두에 훌륭한 선택이었다."}
+{"k": "item:Car_can20:name", "ko": "연료통"}
+{"k": "item:Car_can20:desc", "ko": "석유가 가득 든 연료통. 스카이라이더가 연료를 달라고 하면 쓸모가 있을 것이다."}
+{"k": "item:FieldRadio:desc", "ko": "알헤이라 육군 창고에서 막 가져온 강력한 야전 무전기. 흩어진 부대의 행동을 조율하는 데 필요하다."}
+{"k": "item:XM-18E1R_launcher:name", "ko": "XM-18E1R 발사기"}
+{"k": "item:XM-18E1R_launcher:desc", "ko": "발사관 18개에 25mm 특수탄을 장전할 수 있다. 실린더 발사관마다 공이 장치가 따로 있다."}
+{"k": "item:Ammo box (25e_HEAB):name", "ko": "골든 배트 탄약 상자"}
+{"k": "item:Ammo box (25e_HEAB):desc", "ko": "XM-18E1R 발사기용 골든 배트 25mm 특수 공중폭발 고폭 유탄 3발이 든 포장.\\n(참고: 상자에서 꺼내면 탄약 수가 표시되지 않는다. 게임 엔진의 한계다.)"}
+{"k": "item:Ammo box (25e_Flash):name", "ko": "실버 배트 탄약 상자"}
+{"k": "item:Ammo box (25e_Flash):desc", "ko": "XM-18E1R 발사기용 실버 배트 25mm 특수 섬광 유탄 3발이 든 포장.\\n(참고: 상자에서 꺼내면 탄약 수가 표시되지 않는다. 게임 엔진의 한계다.)"}
+{"k": "item:25mm Golden Bat (HEAB):name", "ko": "25mm 특수 HEAB 유탄"}
+{"k": "item:25mm Golden Bat (HEAB):desc", "ko": "XM-18E1R 발사기용으로 설계된 가상의 25mm 공중폭발 고폭 도약 유탄.\\n파편이 들어 있지 않다. 표적 근처의 폭풍으로 피해를 주며, 대개 더 효과적이다.\\n(참고: 상자에서 꺼내면 탄약 수가 표시되지 않는다. 게임 엔진의 한계다.)"}
+{"k": "item:25mm Silver Bat (Flash):name", "ko": "25mm 특수 섬광 유탄"}
+{"k": "item:25mm Silver Bat (Flash):desc", "ko": "XM-18E1R 발사기용으로 설계된 가상의 25mm 섬광 유탄.\\n눈부신 섬광으로 악당들을 조용하게 만든다. 회피 행동이나 실내 진입 때 생존율을 높여 준다.\\n(참고: 상자에서 꺼내면 탄약 수가 표시되지 않는다. 게임 엔진의 한계다.)"}
+{"k": "item:Pump_4x40_launcher:name", "ko": "펌프 액션 40mm 유탄발사기"}
+{"k": "item:Pump_4x40_launcher:desc", "ko": "유탄 3+1발이 들어간다. 관형 탄창에 3발, 약실에 1발. 급탄이 제대로 되려면 둥근 머리 유탄이 필요하다."}
+{"k": "item:M-18 Claymore:name", "ko": "M-18 클레이모어"}
+{"k": "item:M-18 Claymore:desc", "ko": "적 병력을 상대하는 파편 지향성 대인 지뢰(살상 각도 60도). 미국에서 생산되어 특수작전부대가 채용했다. 자체 기폭 장치가 없어 원격으로 터뜨린다. 전투 유효 기간이 없고 제거 방지·자폭 장치도 없다."}
+{"k": "item:MON-50:name", "ko": "MON-50 클레이모어 복제품"}
+{"k": "item:MON-50:desc", "ko": "MON-50은 미국 클레이모어의 복제품이다. 적 병력을 상대하는 파편 지향성 대인 지뢰(살상 각도 54도). 러시아에서 생산된다. 진동 감지 기폭 장치가 있어 근처의 진동에 터진다. 전투 유효 기간이 없고 제거 방지·자폭 장치도 없다."}
+{"k": "item:SMG ammo clip (MAT-49/32):name", "ko": "상자형 탄창 (MAT-49/32)"}
+{"k": "item:SMG ammo clip (MAT-49/32):desc", "ko": "MAT-49 기관단총용 표준 32발들이 9mm 파라벨룸 상자형 탄창. 오래되었지만 튼튼하다. 다만 다른 9mm 상자형 탄창보다 조금 무겁다."}
+{"k": "item:Covert clip:name", "ko": "소총 탄창 (7.62x51mm AW/10)"}
+{"k": "item:Covert clip:desc", "ko": "아크틱 워페어(AW) 저격소총용 표준 10발들이 7.62x51mm 탄창."}
+{"k": "item:tmp-l:name", "ko": "레이저 조준기"}
+{"k": "item:tmp-l:desc", "ko": "Steyr TMP용 레이저 조준기"}
+{"k": "item:tmp-tl:name", "ko": "전술 조명"}
+{"k": "item:tmp-tl:desc", "ko": "Steyr TMP용 전술 조명"}
+{"k": "item:SMG ammo clip (tmp/20):name", "ko": "Steyr TMP 탄창 (TMP/20)"}
+{"k": "item:SMG ammo clip (tmp/20):desc", "ko": "Steyr TMP용 20발들이 탄창"}
+{"k": "item:SMG ammo clip (tmp/30):name", "ko": "Steyr TMP 탄창 (TMP/30)"}
+{"k": "item:SMG ammo clip (tmp/30):desc", "ko": "Steyr TMP용 30발들이 탄창"}
+{"k": "item:HK33-mag-30x2 (HK33/60):name", "ko": "HK33 2연 탄창 (HK33/60)"}
+{"k": "item:HK33-mag-30x2 (HK33/60):desc", "ko": "HK 33 소총용 표준 30발들이 5.56x45mm 탄창 2개."}
+{"k": "item:HK33-mag-30 (HK33/30):name", "ko": "HK33 탄창 30 (HK33/30)"}
+{"k": "item:HK33-mag-30 (HK33/30):desc", "ko": "HK 33 소총용 표준 30발들이 5.56x45mm 탄창."}
+{"k": "item:HK23 mag (hk23 5.56/150):name", "ko": "HK23 탄창 (HK23 5.56x45 mm)"}
+{"k": "item:HK23 mag (hk23 5.56/150):desc", "ko": "HK 23 기관총용 표준 150발들이 5.56x45mm 탄창."}
+{"k": "item:HK21 mag (hk21 7.62/150):name", "ko": "HK21 탄창 (HK21 7.62x51 mm)"}
+{"k": "item:HK21 mag (hk21 7.62/150):desc", "ko": "HK 23 기관총용 표준 150발들이 7.62x51mm 탄창."}
+{"k": "item:hk23 bipod:name", "ko": "HK 23 양각대 (HK23e)"}
