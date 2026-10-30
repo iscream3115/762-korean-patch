@@ -11,6 +11,17 @@ GOLD = (196, 160, 62)
 DARK = (28, 24, 18)
 
 src = Image.open(sys.argv[1]).convert("RGB")
+# Erase the English "HIGH CALIBRE" (art coords x 140-500, y 200-275) by cloning the plain
+# grunge from just below it, with soft edges; "하이 캘리버" is drawn in its place later.
+HC = (138, 212, 500, 283)
+patch = src.crop((HC[0], 282, HC[2], 282 + HC[3] - HC[1]))
+pm = Image.new("L", patch.size, 0)
+pd = ImageDraw.Draw(pm)
+pd.rectangle([6, 4, patch.width - 7, patch.height - 5], fill=255)
+dx, dy = 243 - HC[0], 206 - HC[1]          # keep the "." of 7.62
+pd.ellipse([dx - 17, dy - 17, dx + 17, dy + 17], fill=0)
+pm = pm.filter(ImageFilter.GaussianBlur(3))
+src.paste(patch, HC[:2], pm)
 # background: the art scaled to cover, blurred; foreground: the art shrunk into the top
 s = max(W / src.width, H / src.height)
 bg = src.resize((round(src.width * s), round(src.height * s)), Image.LANCZOS)
@@ -70,18 +81,16 @@ def stamp(text, font, xy, fill, stroke, sw, angle, seed):
     img.paste(layer, (xy[0] - pad, xy[1] - pad), layer)
 
 
-big = ImageFont.truetype(FONT, 128)
-bw = big.getbbox("한글패치")[2]
-stamp("한글패치", big, (640 - bw // 2, 452), (250, 250, 246), GOLD, 6, 2, 7)
+# "하이 캘리버" where HIGH CALIBRE was (art -> thumb: x*k + fx, y*k, k = FH / art height)
+k = FH / src.height
+mid = fx + (HC[0] + HC[2]) / 2 * k
+sub = ImageFont.truetype(FONT, 104)
+sw_ = sub.getbbox("하이 캘리버")[2]
+stamp("하이 캘리버", sub, (int(mid - sw_ / 2), int(HC[1] * k) - 26), (250, 250, 246), GOLD, 6, 3, 11)
 
-small = ImageFont.truetype(FONT, 34)
-tag = "THE BLUE SUN MOD  ·  v1.0"
-d = ImageDraw.Draw(img)
-tb = d.textbbox((0, 0), tag, font=small)
-tx, ty = 640 - tb[2] // 2, 640
-d.rectangle([tx - 16, ty - 8, tx + tb[2] + 16, ty + tb[3] + 10], fill=(18, 16, 12))
-d.rectangle([tx - 16, ty - 8, tx - 10, ty + tb[3] + 10], fill=GOLD)
-d.text((tx, ty), tag, font=small, fill=GOLD)
+big = ImageFont.truetype(FONT, 142)
+bw = big.getbbox("한글패치")[2]
+stamp("한글패치", big, (640 - bw // 2, 505), (250, 250, 246), GOLD, 7, 2, 7)
 
 img.save(sys.argv[2])
 print("saved", sys.argv[2], img.size)
