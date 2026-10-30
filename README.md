@@ -1,5 +1,7 @@
 # 7.62 하이 캘리버 (The Blue Sun Mod) 한글 패치
 
+![7.62 한글패치](docs/thumbnail.jpg)
+
 7.62 High Calibre(Steam판)에 **The Blue Sun Mod**를 설치한 환경을 위한 비공식 한글 패치입니다.
 메뉴부터 본편 퀘스트, Blue Sun 미션 대화, 아이템 설명까지 게임 텍스트 거의 전부를 한글로 옮겼습니다.
 원본 게임 파일은 하나도 덮어쓰지 않습니다.
