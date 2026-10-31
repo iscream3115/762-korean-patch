@@ -87,3 +87,12 @@
 - Clean test: extract zip into game folder -> install -> test_flow PASS, Korean UI; uninstall restores vfs.ini and removes files;
   reinstalled release build left in the game folder.
 - dist/post_draft.md: release post draft. Upload target not chosen yet.
+
+## 2026-10-31 — Steam launch fix (launcher-x64.exe missing)
+- Steam's launch config for app 289890 now runs launcher-x64.exe / launcher-ia32.exe (+ E6Config.exe); no E6.exe/EB.exe entry.
+  The community_patch_and_bsm branch (Blue Sun) ships neither launcher, so Steam reports a missing file; verifying files can't fix it.
+- Defender keeps quarantining E6.exe (Program:Win32/Ymacco!rfn, 2026-10-31 13:01 and 13:05).
+- src/launcher/launcher.c -> build/launcher-ia32.exe, copied as launcher-x64.exe: starts EB.exe from its folder with Steam's args,
+  waits for it. Requires the Korean patch d3d9.dll (it loads HLA.dll); shows a message box if d3d9.dll is missing.
+- Installed in the game folder with the v1.0 patch; Steam launch starts EB.exe, kor_d3d9.log shows HLA LibMain + all hooks ok.
+  User confirmed the game runs. TODO: add the launchers to the release zip (v1.0.1).
