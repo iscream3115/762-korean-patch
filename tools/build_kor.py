@@ -227,7 +227,7 @@ def main():
     with open(os.path.join(OUT, "kor_quest.txt"), "w", encoding="utf-8", newline="\n") as f:
         m = 0
         for k, en in keys.items():
-            if k.startswith("bsq:") and en in tm:
+            if k.startswith("bsq:") and en in tm and en not in EVENT_LITERALS:
                 f.write(esc(en) + "\t" + esc(tm[en]) + "\n")
                 m += 1
     print("Blue Sun literals: %d" % m)
@@ -242,6 +242,16 @@ def main():
     with open(os.path.join(OUT, "report.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(problems) + "\n")
     print("translations:", len(tm), "problems:", len(problems), "(build/report.txt)")
+
+
+# Quest scripts build these into patterns such as 'Killed finally "<name>"' and
+# 'Sector loading finished "<sector>"' and compare them with the engine's own
+# English event messages. Translating them stops the triggers from firing
+# (e.g. Evolution of Weapons enemies never turn hostile), so they stay English.
+EVENT_LITERALS = {
+    "Killed finally ", "Sector loading finished ", "Character ", " left sector",
+    "Sector ", " unloading finished", " entered to sector",
+}
 
 
 def esc(s):

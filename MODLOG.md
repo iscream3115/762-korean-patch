@@ -99,3 +99,15 @@
 - v1.0.1 packaged: dist/762_Korean_Patch_v1.0.1.zip (sha256 da1ce63a...ff5f) = v1.0 + launcher-x64.exe/launcher-ia32.exe;
   uninstaller also removes the launchers; README has a Steam-launch section and changelog. Lint failures are only our own
   files already installed in the game folder (none of these names exist in a clean Steam install).
+
+## 2026-10-31 — Evolution of Weapons enemies passive (v1.0.2)
+- Report: in the Blue Sun "Evolution of Weapons" minigame enemies stand around like allies instead of shooting.
+- Cause: quest scripts (BlueSun.gen and e6q.gen) build trigger patterns from literals, e.g. 'Killed finally ' + '"' + name + '"',
+  'Sector loading finished ' + ..., 'Character ' + '"' + name + '"' + ' left sector', 'Sector ' + ... + ' unloading finished',
+  and compare them with the engine's English event messages (EB.exe has "Character %s left sector"). kor_quest.txt translated
+  those literals, so the triggers never fired (the minigame's on-load setup never ran).
+- Found by listing translated literals next to '"' literals: exactly these 6 (88/27/16/14/10/10 uses).
+- Fix: build_kor.py EVENT_LITERALS keeps them English (+ ' entered to sector'). kor_quest.txt 1985 -> 1979 entries;
+  every other build output unchanged. Installed in the game folder.
+- v1.0.2 packaged: dist/762_Korean_Patch_v1.0.2.zip (sha256 2a9cfa60...3907) = v1.0.1 + new kor_quest.txt, README changelog.
+  Needs the user's in-game check (re-enter the minigame level after loading).
