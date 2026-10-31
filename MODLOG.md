@@ -110,4 +110,4 @@
 - Fix: build_kor.py EVENT_LITERALS keeps them English (+ ' entered to sector'). kor_quest.txt 1985 -> 1979 entries;
   every other build output unchanged. Installed in the game folder.
 - v1.0.2 packaged: dist/762_Korean_Patch_v1.0.2.zip (sha256 2a9cfa60...3907) = v1.0.1 + new kor_quest.txt, README changelog.
-  Needs the user's in-game check (re-enter the minigame level after loading).
+  User confirmed in game 2026-10-31: enemies attack again.
