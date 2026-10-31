@@ -96,3 +96,6 @@
   waits for it. Requires the Korean patch d3d9.dll (it loads HLA.dll); shows a message box if d3d9.dll is missing.
 - Installed in the game folder with the v1.0 patch; Steam launch starts EB.exe, kor_d3d9.log shows HLA LibMain + all hooks ok.
   User confirmed the game runs. TODO: add the launchers to the release zip (v1.0.1).
+- v1.0.1 packaged: dist/762_Korean_Patch_v1.0.1.zip (sha256 da1ce63a...ff5f) = v1.0 + launcher-x64.exe/launcher-ia32.exe;
+  uninstaller also removes the launchers; README has a Steam-launch section and changelog. Lint failures are only our own
+  files already installed in the game folder (none of these names exist in a clean Steam install).

@@ -10,7 +10,7 @@ if (Test-Path "$vfs.kor_bak") {
     $lines = @(Get-Content $vfs) | Where-Object { $_ -notmatch '"Korean\.azp"' }
     Set-Content $vfs -Encoding ascii -Value $lines
 }
-foreach ($f in 'd3d9.dll', 'Korean.azp', 'kor_strings.txt', 'kor_quest.txt', 'kor_debug.txt', 'kor_d3d9.log', 'kor_nohla.txt') {
+foreach ($f in 'd3d9.dll', 'Korean.azp', 'kor_strings.txt', 'kor_quest.txt', 'kor_debug.txt', 'kor_d3d9.log', 'kor_nohla.txt', 'launcher-x64.exe', 'launcher-ia32.exe') {
     Remove-Item (Join-Path $g $f) -ErrorAction SilentlyContinue
 }
 Remove-Item (Join-Path $g 'Korean') -Recurse -Force -ErrorAction SilentlyContinue

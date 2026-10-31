@@ -38,6 +38,12 @@
 
 > 게임 폴더에 다른 `d3d9.dll`(ReShade 등)이 있으면 덮어쓰게 되며 함께 쓸 수 없습니다.
 
+### Steam에서 "launcher-x64.exe 파일 누락"으로 실행이 안 될 때
+최근 Steam이 7.62를 `launcher-x64.exe`로 실행하도록 바뀌었는데, Blue Sun 브랜치에는 이 파일이 없습니다(무결성 검사로도 안 고쳐짐).
+v1.0.1부터 패치에 든 `launcher-x64.exe` / `launcher-ia32.exe`가 그 자리에서 `EB.exe`를 실행합니다.
+HLA.dll은 한글 패치의 `d3d9.dll`이 불러오므로, 백신이 자주 격리하는 `E6.exe`가 없어도 됩니다.
+소스: `src/launcher/launcher.c`
+
 ## 문제 해결
 - 영어 그대로라면 `INI\vfs.ini` 맨 윗줄이 `"Korean.azp"`인지 확인하고 `install_korean.bat`를 다시 실행하세요.
 - 게임 폴더의 `kor_d3d9.log`에 DLL 동작 기록이 남습니다. `signature mismatch`는 EB.exe 버전이 다르다는 뜻입니다.
