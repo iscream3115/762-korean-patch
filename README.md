@@ -1,4 +1,4 @@
-# 7.62 하이 캘리버 (The Blue Sun Mod) 한글 패치
+# 7.62 High Calibre (The Blue Sun Mod) 한글 패치
 
 ![7.62 한글패치](docs/thumbnail.jpg)
 
